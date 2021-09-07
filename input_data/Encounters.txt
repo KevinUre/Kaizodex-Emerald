@@ -1,0 +1,511 @@
+﻿Littleroot Town
+Surf: Squirtle 60%, Totodile 30%, Croconaw 5%, Wartortle 5%
+Old rod: Luvdisc 70%, Goldeen 30%
+Good rod: Corphish 60%, Goldeen 20%, Poliwhirl 20%
+Super rod: Luvdisc 41%, Seaking 40%, Poliwhirl 15%, Crawdaunt 4%
+
+Route 101
+Grass: Wurmple 20%, Poochyena 20%, Caterpie 10%, Weedle 10%, Sentret 10%, Pidgey 10%, Zigzagoon 5%, Rattata 5%, Togepi 4%, Igglybuff 4%, Cleffa 1%, Pichu 1%
+
+Oldale Town
+Grass: Vulpix 21%, Slugma 20%, Numel 20%, Growlithe 20%, Ponyta 6%, Magby 5%, Cyndaquil 4%, Charmander 4%
+
+Route 103
+Grass: Sunkern 20%, Wingull 20%, Ledyba 10%, Spearow 10%, Skitty 10%, Ekans 10%, Mareep 5%, Hoppip 5%, Poliwag 4%, Spoink 4%, Aipom 1%, Taillow 1%
+Surf: Kingler 60%, Seaking 30%, Qwilfish 5%, Mantine 5%
+Old Rod: Remoraid 70%, Tentacool 30%
+Good Rod: Octillery 80%, Tentacool 20%
+Super Rod: Qwilfish 40%, Octillery 40%, Kingler 15%, Seaking 5%
+
+Route 102
+Grass: Meowth 20%, Sandshrew 20%, NidoranM 10%, Electrike 10%, Hoothoot 10%, Gulpin 10%, Spinarak 5%, Spoink 5%, Farfetch'd 4%, Ralts 4%, Minun 1%, Pikachu 1%
+Surf: Luvdisc 60%, Seaking 30%, Carvanha 5%, Poliwrath 4%, Politoed 1%
+Old Rod: Carvanha 70%, Barboach 30%
+Good Rod: Psyduck 60%, Goldeen 20%, Corphish 20%
+Super Rod: Golduck 40%, Whiscash 40%, Seaking 20%
+
+Petalburg City
+Grass: Krabby 20%, Corphish 20%, Psyduck 15%, Poliwag 15%, Surskit 10%, Marill 10%, Totodile 4%, Squirtle 4%, Slowpoke 2%
+Surf: Crawdaunt 60%, Golduck 30%, Whiscash 5%, Azumarill 4%, Poliwrath 1%
+Old Rod: Azurill 70%, Luvdisc 30%
+Good Rod: Marill 60%, Goldeen 20%, Corphish 20%
+Super Rod: Golduck 40%, Seaking 40%, Poliwhirl 15%, Crawdaunt 4%, Azumarill 1%
+
+Route 104
+Grass: Jigglypuff 20%, Cubone 20%, Seedot 10%, Snubbull 10%, NidoranF 10%, Natu 10%, Mareep 5%, Spoink 5%, Hoothoot 4%, Venonat 4%, Drowzee 1%, Elekid 1%
+Surf: Seaking 60%, Pelipper 30%, Swellow 5%, Pidgeot 4%, Wartortle 1%ES
+Old Rod: Magikarp 100%
+Good Rod: Magikarp 100%
+Super Rod: Magikarp 99%, Gyarados 1%
+
+Petalburg Woods
+Grass: Oddish 20%, Hoothoot 20%, Phanpy 10%, Teddiursa 10%, Bellsprout 10%, Pineco 10%, Illumise 5%, Volbeat 5%, Cascoon 4%, Silcoon 4%, Mankey 1%, Slakoth 1%
+
+Rustboro City
+Grass: Shroomish 20%, Seedot 20%, Cacnea 10%, Bellsprout 10%, Oddish 10%, Hoppip 10%, Sunkern 5%, Roselia 5%, Chikorita 4%, Bulbasaur 4%, Exeggcute 1%, Lotad 1%
+
+Route 116
+Grass: Grimer 20%, Makuhita 20%, Yanma 10%, Natu 10%, Paras 10%, Voltorb 10%, Spoink 5%, Chimecho 5%, Ralts 4%, Unown 4%, Kakuna 1%, Metapod 1%
+
+Rusturf Tunnel
+Cave: Nosepass 20%, Geodude 20%, Onix 14%, Rhyhorn 10%, Phanpy 10%, Sandshrew 10%, Dunsparce 5%, Cubone 5%, Swinub 4%, Whismur 1%, Zubat 1%
+
+Route 105
+Surf: Unown 60%, Mantine 30%, Octillery 5%, Qwilfish 4%, Relicanth 1%
+Old Rod: Octillery 70%, Tentacruel 30%
+Good Rod: Gyarados 60%, Qwilfish 20%, Relicanth 20%
+Super Rod: Mantine 40%, Relicanth 40%, Sharpedo 19%, Wailmer 1%
+
+Route 106
+Surf: Seel 60%, Spheal 30%, Shellder 5%, Dewgong 4%, Sealeo 1%
+Old Rod: Seel 100%
+Good Rod: Spheal 80%, Seel 20%
+Super Rod: Seel 40%, Spheal 40%, Sealeo 15%, Dewgong 5%
+
+Dewford Town
+Grass: Makuhita 34%, Mankey 29%, Machop 20%, Tyrogue 16%, Meditite 1%
+Surf: Corsola 60%, Seel 30%, Spheal 5%, Krabby 4%, Slowpoke 1%
+Old Rod: Spheal 70%, Shellder 30%
+Good Rod: Clamperl 60%, Sealeo 20%, Seel 20%
+Super Rod: Huntail 40%, Dewgong 40%, Cloyster 15%, Gorebyss 4%, Walrein 1%
+
+Granite Cave
+1F
+Cave: Aron 25%, Mawile 25%, Spoink 14%, Clefairy 10%, Spinda 10%, Teddiursa 10%, Ralts 4%, Drowzee 1%, Chimecho 1%
+Steven's Room
+Cave: Spoink 20%, Ralts 20%, Onix 10%, Voltorb 10%, Spinda 10%, Magnemite 10%, Nosepass 5%, Makuhita 5%, Aron 4%, Dunsparce 4%, Clefairy 1%, Abra 1%
+B1F
+Cave: Seel 24%, Smoochum 21%, Delibird 10%, Sneasel 10%, Swinub 10%, Snorunt 10%, Spheal 9%, Shellder 6%
+B2F
+Cave: Snorunt 21%, Swinub 21%, Smoochum 15%, Shellder 15%, Seel 14%, Spheal 14%
+
+Route 107
+Surf: Corsola 60%, Huntail 30%, Lanturn 5%, Clamperl 4%, Gorebyss 1%
+Old Rod: Clamperl 100%
+Good Rod: Shellder 60%, Seel 20%, Spheal 20%
+Super Rod: Seel 40%, Spheal 40%, Cloyster 15%, Sealeo 5%
+
+Route 108
+Surf: Sharpedo 60%, Tentacruel 30%, Seviper 5%, Qwilfish 4%, Gyarados 1%
+Old Rod: Magikarp 70%, Tentacool 30%
+Good Rod: Magikarp 60%, Tentacool 20%, Sharpedo 20%
+Super Rod: Sharpedo 99%, Wailmer 1%
+
+Route 109
+Surf: Pelipper 60%, Kingler 30%, Seaking 5%, Wartortle 4%, Blastoise 1%
+Old Rod: Squirtle 100%
+Good Rod: Krabby 60%, Tentacool 20%, Goldeen 20%
+Super Rod: Sharpedo 56%, Wartortle 40%, Mantine 4%
+
+Slateport City
+Grass: Mareep 20%, Elekid 20%, Electrike 14%, Pikachu 10%, Voltorb 14%, Minun 10%, Plusle 5%, Pichu 5%, Magnemite 1%, Flaaffy 1%
+
+Route 110
+Grass: Delcatty 20%, Roselia 20%, Pidgeotto 10%, Murkrow 10%, Nuzleaf 10%, Skiploom 10%, Tropius 5%, Togetic 5%, Lickitung 4%, Kecleon 4%, Oddish 1%, Poochyena 1%
+Surf: Chinchou 60%, Seaking 30%, Croconaw 5%, Feraligatr 4%, Lanturn 1%
+Old Rod: Qwilfish 70%, Remoraid 30%
+Good Rod: Chinchou 60%, Tentacool 20%, Remoraid 20%
+Super Rod: Lanturn 40%, Mantine 40%, Sharpedo 16%, Whiscash 4%
+
+Mauville City
+Grass: Elekid 20%, Pikachu 20%, Voltorb 15%, Magnemite 14%, Mareep 10%, Porygon 10%, Electrike 5%, Pichu 4%, Flaaffy 2%
+
+Route 117
+Grass: Beautifly 20%, Dustox 20%, Oddish 10%, Volbeat 10%, Illumise 10%, Ledian 10%, Ariados 5%, Beedrill 5%, Butterfree 4%, Nuzleaf 4%, Shroomish 1%, Vulpix 1%
+Surf: Azumarill 60%, Seaking 30%, Politoed 5%, Golduck 4%, Poliwrath 1%
+Old Rod: Corphish 70%, Krabby 30%
+Good Rod: Barboach 60%, Goldeen 20%, Marill 20%
+Super Rod: Crawdaunt 40%, Kingler 40%, Psyduck 15%, Golduck 5%
+
+Verdanturf Town
+Grass: Sandshrew 24%, Phanpy 21%, Rhyhorn 15%, Cubone 14%, Geodude 10%, Swinub 10%, Numel 5%, Sunflora 1%
+
+Route 111
+Sand: Trapinch 20%, Diglett 20%, Sandslash 10%, Cacturne 10%, Donphan 10%, Arbok 10%, Rhyhorn 5%, Nidoqueen 5%, Nidoking 4%, Dugtrio 4%, Claydol 1%, Vibrava 1%
+Rock Smash: Geodude 100%
+Surf: Poliwhirl 60%, Psyduck 30%, Carvanha 5%, Marill 5%
+Old Rod: Magikarp 70%, Goldeen 30%
+Good Rod: Magikarp 60%, Goldeen 20%, Barboach 20%
+Super Rod: Barboach 100%
+
+Route 112
+Grass: Ponyta 20%, Vulpix 20%, Numel 10%, Spoink 10%, Absol 10%, Sandshrew 10%, Skiploom 5%, Natu 5%, Snubbull 4%, Growlithe 4%, Flareon 1%, Mightyena 1%
+
+Fiery Path
+Cave: Torkoal 20%, Magcargo 20%, Ponyta 10%, Growlithe 10%, Vulpix 10%, Magby 10%, Koffing 5%, Quilava 5%, Flareon 4%, Charmeleon 4%, Numel 1%, Magmar 1%
+
+Route 113
+Grass: Noctowl 20%, Shroomish 20%, Parasect 10%, Koffing 10%, Rhyhorn 10%, Magby 10%, Phanpy 5%, Teddiursa 5%, Gloom 4%, Numel 4%, Torkoal 1%, Absol 1%
+
+Fallarbor Town
+Grass: Aron 20%, Sudowoodo 20%, Stantler 10%, Noctowl 10%, Persian 10%, Mawile 10%, Rapidash 5%, Nosepass 5%, Spinda 4%, Seviper 4%, Zangoose 1%, Golduck 1%
+
+Route 114
+Grass: Pikachu 20%, Swablu 20%, Spinda 10%, Zangoose 10%, Nuzleaf 10%, Stantler 10%, Sudowoodo 5%, Electrike 5%, Swalot 4%, Seviper 4%, Lombre 1%, Lotad 1%
+
+Meteor Falls
+1F 1R
+Cave: Clefairy 20%, Porygon 20%, Lairon 10%, Parasect 10%, Golbat 10%, Dunsparce 10%, Loudred 5%, Solrock 5%, Lunatone 4%, Unown 4%, Cleffa 1%, Clefable 1%
+Surf: Lunatone 60%, Solrock 30%, Seviper 5%, Gyarados 4%, Whiscash 1%
+Old Rod: Kabuto 70%, Omanyte 30%
+Good Rod: Tentacool 60%, Relicanth 20%, Grimer 20%
+Super Rod: Whiscash 40%, Muk 40%, Gyarados 15%, Staryu 4%, Starmie 1%
+1F 2R
+Cave: Wobbuffet 20%, Electrode 20%, Crobat 10%, Solrock 10%, Lunatone 10%, Clefable 10%, Clefairy 5%, Metang 5%, Shelgon 4%, Bagon 4%, Beldum 2%
+Surf: Armaldo 60%, Starmie 30%, Solrock 5%, Lunatone 4%, Cradily 1%
+Old Rod: Seaking 70%, Sharpedo 30%
+Good Rod: Politoed 60%, Poliwrath 20%, Golduck 20%
+Super Rod: Whiscash 40%, Gyarados 40%, Kingdra 15%, Feebas 4%, Lapras 1%
+B1F 1R
+Cave: Crobat 20%, Lunatone 20%, Claydol 10%, Solrock 10%, Clefairy 10%, Cleffa 10%, Clefable 5%, Aggron 5%, Wobbuffet 4%, Gardevoir 4%, Flygon 2%
+Surf: Solrock 100%
+Old Rod: Kabutops 70%, Omastar 30%
+Good Rod: Relicanth 60%, Whiscash 20%, Seaking 20%
+Super Rod: Crawdaunt 40%, Gyarados 40%, Feebas 15%, Staryu 4%, Milotic 1%
+B1F 2R
+Cave: Wobbuffet 20%, Lunatone 20%, Solrock 10%, Dugtrio 10%, Clefable 10%, Clefairy 10%, Claydol 5%, Flygon 5%, Salamence 4%, Metagross 4%, Larvitar 1%, Pupitar 1%
+Surf: Gyarados 60%, Solrock 30%, Lapras 5%, Lunatone 4%, Dragonair 1%
+Old Rod: Feebas 100%
+Good Rod: Gyarados 60%, Cradily 20%, Armaldo 20%
+Super Rod: Staryu 40%, Dragonair 40%, Milotic 15%, Dratini 5%
+
+Route 115
+Grass: Swablu 20%, Clefairy 20%, Eevee 10%, Absol 10%, Wigglytuff 10%, Swellow 10%, Beldum 9%, Kangaskhan 5%, Bagon 4%, Shelgon 1%, Metang 1%
+Surf: Tentacool 60%, Qwilfish 30%, Relicanth 5%, Kabuto 4%, Omanyte 1%
+Old Rod: Kabuto 70%, Omanyte 30%
+Good Rod: Kabuto 60%, Omanyte 20%, Relicanth 20%
+Super Rod: Kabutops 44%, Relicanth 40%, Omastar 16%
+
+Jagged Pass
+Grass: Numel 20%, Magcargo 20%, Machoke 10%, Spoink 10%, Ponyta 10%, Mankey 10%, Koffing 5%, Grimer 5%, Doduo 4%, Onix 4%, Quilava 1%, Rapidash 1%
+
+Team Magma Hideout
+Room 1: Camerupt 20%, Weezing 20%, Dugtrio 10%, Torkoal 10%, Golem 10%, Magmar 10%, Mightyena 5%, Typhlosion 5%, Golbat 4%, Rhydon 4%, Aggron 1%, Magcargo 1%
+Room 2: Magmar 20%, Torkoal 20%, Wobbuffet 10%, Dugtrio 10%, Dunsparce 10%, Golem 10%, Weezing 5%, Muk 5%, Ninetales 4%, Aggron 4%, Rhydon 2%
+Room 3: Dugtrio 20%, Manectric 20%, Electrode 10%, Wobbuffet 10%, Sudowoodo 10%, Weezing 10%, Rapidash 5%, Swalot 5%, Torkoal 4%, Camerupt 4%, Charizard 2%
+Room 4: Electrode 20%, Weezing 20%, Wobbuffet 10%, Dunsparce 10%, Steelix 10%, Aggron 10%, Dugtrio 5%, Crobat 5%, Electabuzz 4%, Arcanine 4%, Lunatone 2%
+Room 5: Wobbuffet 20%, Electrode 20%, Dugtrio 10%, Crobat 10%, Magmar 10%, Weezing 10%, Camerupt 5%, Typhlosion 5%, Torkoal 4%, Claydol 4%, Trapinch 1%, Rhydon 1%
+Room 6: Dugtrio 20%, Magmar 20%, Electrode 10%, Torkoal 10%, Golem 10%, Aggron 10%, Rhydon 5%, Typhlosion 5%, Charizard 4%, Claydol 4%, Blaziken 1%, Combusken 1%
+Room 7: Wobbuffet 20%, Crobat 20%, Electrode 10%, Torkoal 10%, Magmar 10%, Hariyama 10%, Manectric 5%, Dugtrio 5%, Weezing 4%, Claydol 4%, Flygon 2%
+Room 8: Wobbuffet 20%, Crobat 20%, Electrode 10%, Dugtrio 10%, Camerupt 10%, Torkoal 10%, Magmar 5%, Typhlosion 5%, Charizard 4%, Claydol 4%, Houndoom 1%, Houndour 1%
+
+Lavaridge Town
+Grass: Torkoal 20%, Vulpix 20%, Magby 15%, Ponyta 14%, Growlithe 10%, Flareon 10%, Numel 5%, Quilava 4%, Charmeleon 2%
+
+Mirage Tower
+1F: Cacnea 20%, Trapinch 20%, Sandshrew 10%, Diglett 10%, Phanpy 10%, Numel 10%, Baltoy 5%, Cubone 5%, Rhyhorn 4%, Onix 4%, Unown 2%
+2F: Trapinch 30%, Rhyhorn 20%, Phanpy 10%, Sandshrew 10%, Camerupt 10%, Sandslash 5%, Dugtrio 5%, Nosepass 5%, Graveler 4%, Claydol 4%, Gligar 1%
+3F: Dugtrio 20%, Trapinch 20%, Wobbuffet 10%, Cacturne 10%, Marowak 10%, Donphan 10%, Onix 5%, Sandslash 5%, Nidorino 4%, Nidorina 4%, Vibrava 2%
+4F: Bagon 100%
+
+Route 118
+Grass: Growlithe 20%, Manectric 20%, Vulpix 10%, Rapidash 10%, Grumpig 10%, Nuzleaf 10%, Weepinbell 5%, Gloom 5%, Nidorina 4%, Nidorino 4%, Pikachu 1%, Exeggcute 1%
+Surf: Tentacool 60%, Chinchou 30%, Mantine 5%, Qwilfish 4%, Octillery 1%
+Old Rod: Tentacool 70%, Carvanha 30%
+Good Rod: Chinchou 60%, Remoraid 20%, Carvanha 20%
+Super Rod: Sharpedo 40%, Mantine 40%, Octillery 15%, Qwilfish 5%
+
+Route 119
+Grass: Zangoose 20%, Tangela 20%, Breloom 10%, Absol 10%, Seviper 10%, Scyther 10%, Linoone 5%, Tropius 5%, Furret 4%, Raticate 4%, Pinsir 1%, Scizor 1%
+Surf: Golduck 60%, Pelipper 30%, Whiscash 5%, Carvanha 4%, Feraligatr 1%
+Old Rod: Carvanha 70%, Magikarp 30%
+Good Rod: Sharpedo 60%, Politoed 20%, Feraligatr 20%
+Super Rod: Gyarados 40%, Poliwrath 40%, Whiscash 15%, Feraligatr 4%, Blastoise 1%
+
+Fortree City
+Grass: Pidgeot 20%, Fearow 20%, Swellow 14%, Pelipper 10%, Noctowl 10%, Tropius 10%, Swablu 5%, Altaria 5%, Dodrio 4%, Pineco 1%, Shiftry 1%
+
+Route 120
+Grass: Scyther 20%, Absol 20%, Zangoose 10%, Pinsir 10%, Kecleon 10%, Primeape 10%, Tangela 5%, Azumarill 5%, Seviper 4%, Spoink 4%, Linoone 1%, Scizor 1%
+Surf: Azumarill 60%, Fearow 30%, Whiscash 5%, Seaking 4%, Golduck 1%
+Old Rod: Barboach 70%, Seaking 30%
+Good Rod: Golduck 60%, Kingler 20%, Crawdaunt 20%
+Super Rod: Crawdaunt 40%, Kingler 40%, Slowpoke 15%, Slowking 4%, Slowbro 1%
+
+Scorched Slab
+Grass: Vulpix 20%, Growlithe 20%, Rapidash 10%, Quilava 10%, Charmeleon 10%, Ninetales 10%, Manectric 5%, Magby 5%, Magmar 4%, Torkoal 4%, Flareon 1%, Arcanine 1%
+Surf: Grimer 60%, Koffing 30%, Muk 5%, Weezing 5%
+Old Rod: Grimer 70%, Muk 30%
+Good Rod: Remoraid 60%, Muk 20%, Kingler 20%,
+Super Rod: Crawdaunt 40%, Octillery 40%, Muk 15%, Slowpoke 5%, 
+
+Route 121
+Grass: Absol 20%, Exeggcute 20%, Tropius 10%, Exploud 10%, Rapidash 10%, Pidgeot 10%, Stantler 5%, Gloom 5%, Weepinbell 4%, Jumpluff 4%, Arcanine 1%, Pinsir 1%
+Surf: Crawdaunt 60%, Octillery 30%, Tentacool 5%, Pelipper 5%
+Old Rod: Seaking 70%, Qwilfish 30%
+Good Rod: Mantine 60%, Chinchou 20%, Corsola 20%
+Super Rod: Octillery 40%, Seviper 40%, Tentacruel 15%, Relicanth 5%
+
+Safari Zone
+Area 1 Southeast
+Grass: Vileplume 20%, Granbull 20%, Girafarig 10%, Victreebel 10%, Rapidash 10%, Dodrio 10%, Vigoroth 5%, Forretress 5%, Primeape 4%, Grovyle 4%, Ivysaur 2%
+Area 2 Southwest
+Grass: Exeggutor 20%, Rhydon 20%, Miltank 10%, Kangaskhan 10%, Nidoqueen 10%, Dodrio 10%, Arbok 5%, Zangoose 5%, Sandslash 4%, Venusaur 4%, Ivysaur 1%, Bulbasaur 1%
+Surf: Psyduck 90%, Golduck 10%
+Old Rod: Corphish 70%, Crawdaunt 30%
+Good Rod: Ludicolo 60%, Lombre 20%, Lotad 20%
+Super Rod: Psyduck 40%, Golduck 40%, Seadra 15%, Milotic 4%, Feebas 1%
+Area 3 Northwest
+Grass: Eevee 20%, Flareon 20%, Espeon 10%, Umbreon 10%, Vaporeon 10%, Jolteon 10%, Kangaskhan 5%, Rhydon 5%, Dodrio 4%, Miltank 4%, Tauros 1%, Snorlax 1%
+Surf: Omastar 60%, Kabutops 30%, Kabuto 5%, Omanyte 5%
+Old Rod: Wartortle 70%, Squirtle 30%
+Good Rod: Whiscash 60%, Barboach 20%, Wooper 20%
+Super Rod: Croconaw 40%, Totodile 40%, Quagsire 15%, Marshtomp 4%, Mudkip 1%
+Area 4 Northeast
+Grass: Donphan 20%, Arcanine 20%, Nidoking 10%, Scyther 10%, Ursaring 10%, Seviper 10%, Tauros 5%, Heracross 5%, Bayleef 4%, Grovyle 4%, Chikorita 1%, Treecko 1%
+Area 5 Extended Southeast
+Grass: Venusaur 20%, Meganium 20%, Ampharos 10%, Skarmory 10%, Smeargle 11%, Shuckle 10%, Gligar 6%, Tauros 5%, Stantler 4%, Houndoom 4%
+Surf: Wooper 60%, Marill 39%, Quagsire 1%
+Old Rod: Milotic 100%
+Good Rod: Milotic 100%
+Super Rod: Milotic 100%
+Area 6 Extended Northeast
+Grass: Heracross 20%, Snorlax 20%, Chansey 10%, Shuckle 10%, Nincada 10%, Ninjask 10%, Venusaur 5%, Meganium 5%, Miltank 5%, Houndoom 4%, Houndour 1%
+
+Route 122
+Surf: Golduck 60%, Golbat 30%, Sharpedo 5%, Pelipper 5%
+Old Rod: Crawdaunt 70%, Tentacruel 30%
+Good Rod: Gyarados 60%, Sharpedo 40%
+Super Rod: Tentacruel 55%, Gastly 40%, Qwilfish 5%
+
+Mt. Pyre
+1F
+Interior: Shuppet 20%, Gastly 20%, Abra 10%, Drowzee 10%, Vulpix 10%, Cubone 10%, Absol 5%, Misdreavus 5%, Mr. Mime 4%, Grumpig 4%, Kirlia 1%, Umbreon 1%
+2F
+Interior: Unown 20%, Murkrow 20%, Golbat 10%, Drowzee 10%, Shuppet 10%, Gastly 10%, Raticate 5%, Persian 5%, Misdreavus 4%, Mightyena 4%, Marowak 1%, Haunter 1%
+3F
+Interior: Seviper 20%, Persian 20%, Xatu 10%, Abra 10%, Exeggcute 10%, Vulpix 10%, Absol 5%, Misdreavus 5%, Grumpig 4%, Marowak 4%, Banette 1%, Kirlia 1%
+4F
+Interior: Chimecho 20%, Gastly 20%, Shuppet 10%, Drowzee 10%, Cubone 10%, Unown 10%, Xatu 5%, Vulpix 5%, Mr. Mime 4%, Persian 4%, Haunter 1%, Jynx 1%
+5F
+Interior: Abra 20%, Mr. Mime 20%, Xatu 10%, Vulpix 10%, Cubone 10%, Raticate 10%, Persian 5%, Golbat 5%, Seviper 4%, Banette 4%, Haunter 1%, Hypno 1%
+6F
+Interior: Kirlia 20%, Ninetales 20%, Venomoth 10%, Xatu 10%, Misdreavus 10%, Marowak 10%, Persian 5%, Golbat 5%, Haunter 4%, Banette 4%, Kadabra 2%
+Exterior
+Grass: Noctowl 20%, Ninetales 20%, Marowak 10%, Cacturne 10%, Banette 10%, Absol 10%, Murkrow 5%, Shiftry 5%, Persian 4%, Misdreavus 4%, Hypno 1%, Umbreon 1%
+Summit
+Grass: Banette 20%, Absol 20%, Cacturne 10%, Marowak 10%, Hypno 10%, Shiftry 10%, Noctowl 5%, Jynx 5%, Espeon 4%, Gengar 4%, Gardevoir 1%, Umbreon 1%
+
+Route 123
+Grass: Wobbuffet 20%, Tauros 20%, Ludicolo 10%, Arcanine 10%, Medicham 10%, Slaking 10%, Skarmory 5%, Duskull 5%, Miltank 4%, Heracross 4%, Snorlax 2%
+Surf: Crawdaunt 60%, Qwilfish 30%, Sharpedo 5%, Gyarados 4%, Lombre 1%
+Old Rod: Qwilfish 70%, Lombre 30%
+Good Rod: Gyarados 60%, Kingler 40%
+Super Rod: Feraligatr 40%, Crawdaunt 40%, Seaking 15%, Blastoise 5%
+
+Lilycove City
+Grass: Granbull 20%, Jumpluff 20%, Blastoise 10%, Vileplume 10%, Bellossom 10%, Wigglytuff 10%, Lickitung 6%, Togetic 5%, Feraligatr 5%, Exploud 4%
+Surf: Sharpedo 60%, Crawdaunt 30%, Kingler 5%, Octillery 4%, Blastoise 1%
+Old Rod: Sharpedo 70%, Crawdaunt 30%
+Good Rod: Sharpedo 60%, Qwilfish 20%, Mantine 20%
+Super Rod: Sharpedo 40%, Tentacruel 40%, Cloyster 15%, Gyarados 4%, Lanturn 1%
+
+Route 124
+Surf: Qwilfish 60%, Mantine 30%, Tentacruel 5%, Pelipper 5%
+Old Rod: Corsola 70%, Seaking 30%
+Good Rod: Qwilfish 60%, Remoraid 20%, Tentacruel 20%
+Super Rod: Sharpedo 40%, Octillery 40%, Mantine 15%, Lanturn 5%
+
+Mossdeep City
+Grass: Ralts 20%, Abra 20%, Spoink 10%, Mr. Mime 10%, Exeggcute 10%, Slowpoke 10%, Girafirig 5%, Drowzee 5%, Xatu 4%, Chimecho 4%, Espeon 1%, Jynx 1%
+Surf: Mantine 60%, Octillery 30%, Seaking 5%, Relicanth 4%, Tentacruel 1%
+Old Rod: Slowpoke 70%, Shellder 30%
+Good Rod: Huntail 60%, Slowbro 20%, Slowking 20%
+Super Rod: Gorebyss 40%, Cloyster 40%, Kingler 15%, Crawdaunt 4%, Sharpedo 1%
+
+Route 125
+Surf: Dewgong 60%, Walrein 30%, Cloyster 5%, Slowking 4%, Slowbro 1%
+Old Rod: Sealeo 100%
+Good Rod: Slowking 60%, Slowbro 20%, Shellder 20%
+Super Rod: Cloyster 40%, Dewgong 40%, Walrein 15%, Sharpedo 5%
+
+Shoal Cave
+Entrance Room
+Cave: Spheal 20%, Seel 20%, Sealeo 10%, Smoochum 10%, Swinub 10%, Slowpoke 10%, Shellder 5%, Delibird 5%, Kingler 4%, Golduck 4%, Cloyster 1%, Walrein 1%
+Surf: Sealeo 60%, Dewgong 30%, Shellder 5%, Slowbro 4%, Walrein 1%
+Old Rod: Shellder 70%, Seel 30%
+Good Rod: Seel 60%, Spheal 20%, Shellder 20%
+Super Rod: Sealeo 40%, Dewgong 40%, Walrein 15%, Cloyster 4%, Wailmer 1%
+Inner Room
+Cave: Swinub 20%, Sealeo 20%, Smoochum 10%, Seel 10%, Shellder 10%, Delibird 10%, Sneasel 5%, Kingler 5%, Slowking 4%, Slowbro 4%, Jynx 1%, Walrein 1%
+Surf: Dewgong 60%, Slowking 30%, Slowbro 5%, Cloyster 4%, Walrein 1%
+Old Rod: Shellder 70%, Clamperl 30%
+Good Rod: Seel 60%, Sealeo 40%
+Super Rod: Cloyster 40%, Dewgong 40%, Walrein 19%, Wailmer 1%
+Stairs Room
+Cave: Snorunt 20%, Smoochum 20%, Swinub 10%, Seel 10%, Sealeo 10%, Shellder 10%, Slowpoke 5%, Cloyster 5%, Jynx 4%, Glalie 4%, Piloswine 1%, Walrein 1%
+Lower Room
+Cave: Piloswine 20%, Glalie 20%, Jynx 10%, Seel 10%, Sealeo 10%, Slowpoke 10%, Slowking 5%, Slowbro 5%, Delibird 4%, Swinub 4%, Smoochum 1%, Snorunt 1%
+Ice Room
+Cave: Dugtrio 20%, Jynx 20%, Dewgong 10%, Cloyster 10%, Piloswine 10%, Glalie 10%, Walrein 5%, Slowbro 5%, Slowking 4%, Wobbuffet 4%, Hariyama 1%, Lapras 1%
+
+Route 127
+Surf: Sharpedo 60%, Mantine 30%, Qwilfish 5%, Tentacruel 5%
+Old Rod: Octillery 70%, Slowbro 30%
+Good Rod: Qwilfish 60%, Mantine 20%, Tentacruel 20%
+Super Rod: Sharpedo 40%, Kabutops 40%, Omastar 15%, Lanturn 5%
+
+Route 128
+Surf: Sharpedo 60%, Lanturn 30%, Tentacruel 5%, Jumpluff 4%, Gyarados 1%
+Old Rod: Clamperl 100%
+Good Rod: Cloyster 60%, Huntail 20%, Gorebyss 20%
+Super Rod: Corsola 40%, Octillery 40%, Relicanth 15%, Armaldo 4%, Cradily 1%
+
+Seafloor Cavern
+Entrance
+Surf: Crobat 60%, Gyarados 30%, Feraligatr 5%, Tentacruel 5%
+Old Rod: Huntail 70%, Gorebyss 30%
+Good Rod: Tentacruel 60%, Qwilfish 20%, Feraligatr 20%
+Super Rod: Blastoise 40%, Sharpedo 40%, Relicanth 15%, Walrein 5%
+Room 1
+Cave: Crawdaunt 20%, Wobbuffet 20%, Crobat 10%, Muk 10%, Gengar 10%, Dugtrio 10%, Feraligatr 5%, Kingler 5%, Blastoise 4%, Seviper 4%, Kabutops 2%
+Room 2
+Cave: Wobbuffet 22%, Dugtrio 20%, Seviper 10%, Dunsparce 10%, Feraligatr 10%, Crobat 10%, Blastoise 5%, Electrode 5%, Glalie 4%, Steelix 4%
+Room 3
+Cave: Dugtrio 20%, Wobbuffet 20%, Parasect 10%, Feraligatr 10%, Ariados 10%, Crobat 10%, Seviper 5%, Muk 5%, Crawdaunt 4%, Misdreavus 4%, Vaporeon 2%
+Room 4
+Cave: Dugtrio 20%, Wobbuffet 20%, Omastar 10%, Kabutops 10%, Muk 10%, Crobat 10%, Cloyster 5%, Crawdaunt 5%, Kingler 4%, Steelix 4%, Claydol 2%
+Room 5
+Cave: Wobbuffet 20%, Glalie 20%, Jynx 10%, Piloswine 10%, Walrein 10%, Dugtrio 10%, Armaldo 5%, Dewgong 5%, Misdreavus 4%, Gyarados 4%, Dunsparce 1%, Steelix 1%
+Surf: Gorebyss 60%, Cloyster 30%, Dewgong 5%, Walrein 4%, Lapras 1%
+Old Rod: Walrein 70%, Tentacruel 30%
+Good Rod: Dewgong 60%, Cloyster 20%, Qwilfish 20%
+Super Rod: Sharpedo 40%, Huntail 40%, Gorebyss 15%, Lapras 4%, Wailmer 1%
+Room 6
+Cave: Wobbuffet 100%
+Surf: Qwilfish 60%, Mantine 30%, Gorebyss 5%, Huntail 4%, Dewgong 1%
+Old Rod: Seviper 70%, Gorebyss 30%
+Good Rod: Muk 60%, Tentacruel 20%, Mantine 20%
+Super Rod: Muk 40%, Mantine 40%, Lapras 15%, Wailmer 4%, Wailord 1%
+Room 7
+Cave: Wobbuffet 26%, Dugtrio 20%, Gengar 10%, Muk 10%, Huntail 10%, Gorebyss 10%, Steelix 5%, Gyarados 5%, Octillery 4%
+Room 8
+Cave: Wobbuffet 100%
+
+Route 126
+Surf: Poliwrath 60%, Feraligatr 30%, Blastoise 5%, Seaking 5%
+Old Rod: Slowpoke 100%
+Good Rod: Slowbro 60%, Tentacruel 20%, Qwilfish 20%
+Super Rod: Sharpedo 40%, Corsola 40%, Gyarados 15%, Octillery 5%
+
+Sootopolis City
+Grass: Heracross 40%, Lotad 29%, Lombre 29%, Ludicolo 2%
+Surf: Mantine 60%, Relicanth 30%, Octillery 5%, Magikarp 5%
+Old Rod: Seaking 70%, Relicanth 30%
+Good Rod: Huntail 60%, Kabutops 20%, Relicanth 20%
+Super Rod: Armaldo 40%, Omastar 40%, Gorebyss 15%, Cradily 5%
+
+Cave of Origin
+Entrance
+Cave: Misdreavus 20%, Xatu 20%, Marowak 10%, Banette 10%, Kadabra 10%, Absol 10%, Haunter 5%, Persian 5%, Hypno 4%, Crobat 4%, Gardevoir 1%, Gengar 1%
+1F
+Cave: Wobbuffet 20%, Crobat 20%, Parasect 10%, Banette 10%, Armaldo 10%, Cradily 10%, Omastar 5%, Kabutops 5%, Marowak 4%, Ninetales 4%, Duskull 1%, Dusclops 1%
+2F
+Cave: Wobbuffet 20%, Crobat 20%, Gardevoir 10%, Dunsparce 10%, Armaldo 10%, Cradily 10%, Banette 5%, Gengar 5%, Misdreavus 4%, Houndour 4%, Duskull 1%, Dusclops 1%
+3F
+Cave: Duskull 98%, Dusclops 2%
+4F
+Cave: Wobbuffet 20%, Crobat 20%, Ninetales 10%, Gardevoir 10%, Alakazam 10%, Dugtrio 10%, Marowak 5%, Misdreavus 5%, Duskull 4%, Gengar 4%, Houndoom 1%, Aerodactyl 1%
+
+Route 129
+Surf: Pelipper 60%, Qwilfish 30%, Octillery 5%, Tentacruel 4%, Gyarados 1%
+Old Rod: Mantine 70%, Omastar 30%
+Good Rod: Kabutops 60%, Sharpedo 20%, Tentacruel 20%
+Super Rod: Relicanth 40%, Lanturn 40%, Armaldo 15%, Cradily 5%
+
+Route 130
+Surf: Qwilfish 60%, Mantine 30%, Huntail 5%, Dewgong 4%, Gorebyss 1%
+Old Rod: Dewgong 70%, Tentacruel 30%
+Good Rod: Mantine 60%, Gyarados 20%, Slowking 20%
+Super Rod: Sharpedo 40%, Slowbro 40%, Octillery 15%, Relicanth 5%
+
+Mirage Island
+Grass: Sableye 20%, Shuckle 20%, Tauros 10%, Snorlax 10%, Blissey 10%, Dusclops 10%, Shedinja 5%, Ninjask 5%, Tyranitar 4%, Salamence 4%, Metagross 1%, Dragonite 1%
+
+Route 131
+Surf: Qwilfish 60%, Mantine 30%, Misdreavus 5%, Dewgong 4%, Altaria 1%
+Old Rod: Corsola 70%, Sharpedo 30%
+Good Rod: Mantine 60%, Gyarados 20%, Tentacruel 20%
+Super Rod: Relicanth 40%, Qwilfish 40%, Tentacruel 15%, Lanturn 5%
+
+Sky Pillar
+1F
+Inside: Gengar 20%, Xatu 20%, Dugtrio 10%, Altaria 10%, Shiftry 10%, Flygon 10%, Banette 5%, Claydol 5%, Misdreavus 4%, Unown 4%, Crobat 1%, Noctowl 1%
+3F
+Inside: Wobbuffet 20%, Crobat 20%, Dugtrio 10%, Gengar 10%, Claydol 10%, Electrode 10%, Banette 5%, Charizard 5%, Noctowl 4%, Swellow 4%, Flygon 2%
+5F
+Inside: Wobbuffet 20%, Electrode 20%, Crobat 10%, Castform 10%, Dugtrio 10%, Venomoth 5%, Xatu 5%, Claydol 4%, Altaria 4%, Flygon 1%, Unown 1%
+
+Abandoned Ship
+1F
+Surf: Sharpedo 60%, Gyarados 30%, Muk 5%, Kingdra 4%, Vaporeon 1%
+Old Rod: Sharpedo 70%, Tentacool 30%
+Good Rod: Sharpedo 60%, Qwilfish 20%, Mantine 20%
+Super Rod: Sharpedo 40%, Muk 40%, Kingdra 15%, Tentacruel 4%, Wailmer 1%
+B1F
+Surf: Sharpedo 60%, Gyarados 30%, Lapras 5%, Kingdra 4%, Wailmer 1%
+Old Rod: Sharpedo 70%, Gyarados 30%
+Good Rod: Armaldo 60%, Kabutops 20%, Cradily 20%
+Super Rod: Omastar 40%, Relicanth 40%, Lapras 15%, Kingdra 4%, Wailmer 1%
+
+New Mauville
+Upper Floor
+Inside: Electrode 20%, Plusle 20%, Minun 10%, Magneton 10%, Raichu 10%, Manectric 10%, Porygon 5%, Electabuzz 5%, Ampharos 4%, Flaaffy 4%, Voltorb 1%, Pikachu 1%
+Lower Floor
+Inside: Electrode 20%, Raichu 20%, Muk 10%, Porygon 10%, Raichu 10%, Manectric 10%, Voltorb 5%, Ampharos 5%, Electabuzz 4%, Porygon2 4%, Jolteon 1%, Pikachu 1%
+
+Pacifidlog Town
+Surf: Octillery 60%, Mantine 30%, Blastoise 5%, Relicanth 4%, Corsola 1%
+Old Rod: Huntail 70%, Corsola 30%
+Good Rod: Sharpedo 60%, Relicanth 20%, Gorebyss 20%
+Super Rod: Kabutops 40%, Clamperl 40%, Cloyster 15%, Omastar 4%, Seadra 1%
+
+Route 132
+Surf: Tentacruel 60%, Relicanth 30%, Seadra 5%, Staryu 4%, Wailmer 1%
+Old Rod: Clamperl 70%, Cloyster 30%
+Good Rod: Mantine 60%, Qwilfish 20%, Staryu 20%
+Super Rod: Sharpedo 40%, Lanturn 40%, Tentacruel 15%, Luvdisc 4%, Wailmer 1%
+
+Route 133
+Surf: Staryu 60%, Sharpedo 30%, Gyarados 5%, Lapras 4%, Wailord 1%
+Old Rod: Mantine 70%, Qwilfish 30%
+Good Rod: Blastoise 60%, Seadra 20%, Wailmer 20%
+Super Rod: Sharpedo 40%, Wailmer 40%, Kingdra 15%, Lapras 4%, Wailord 1%
+
+Route 134
+Surf: Horsea 60%, Seadra 30%, Remoraid 5%, Seaking 4%, Seadra 1%
+Old Rod: Horsea 70%, Octillery 30%
+Good Rod: Octillery 60%, Remoraid 40%
+Super Rod: Corsola 40%, Mantine 40%, Horsea 15%, Chinchou 5%
+
+Ever Grande City
+Grass: Torchic 25%, Treecko 25%, Combusken 10%, Grovyle 10%, Blaziken 10%, Sceptile 10%, Eevee 4%, Marshtomp 4%, Mudkip 1%, Swampert 1%
+Surf: Blastoise 60%, Feraligatr 30%, Gyarados 5%, Sharpedo 4%, Lanturn 1%
+Old Rod: Sharpedo 70%, Mantine 30%
+Good Rod: Tentacruel 60%, Qwilfish 20%, Gyarados 20%
+Super Rod: Luvdisc 81%, Corsola 19%
+
+Victory Road
+1F
+Cave: Wobbuffet 20%, Crobat 20%, Electrode 10%, Dodrio 10%, Dugtrio 10%, Medicham 10%, Kangaskhan 5%, Jynx 5%, Electabuzz 4%, Mr. Mime 4%, Exploud 2%
+B1F
+Cave: Wobbuffet 20%, Dugtrio 20%, Electrode 10%, Crobat 10%, Banette 10%, Machamp 10%, Blastoise 5%, Hariyama 5%, Golem 4%, Hypno 4%, Venomoth 2%
+Rock Smash: Graveler 70%, Geodude 30%
+B2F
+Cave: Electrode 20%, Wobbuffet 20%, Crobat 10%, Dugtrio 10%, Muk 10%, Golduck 10%, Arcanine 5%, Nidoking 5%, Ursaring 4%, Grumpig 4%, Granbull 2%
+Surf: Crobat 60%, Muk 30%, Sharpedo 5%, Weezing 5%
+Old Rod: Crawdaunt 70%, Gyarados 30%
+Good Rod: Whiscash 60%, Relicanth 20%, Tentacruel 20%
+Super Rod: Muk 40%, Feraligatr 40%, Blastoise 15%, Lapras 4%, Quagsire 1%
+
+Desert Underpass (Postgame)
+Cave: Dugtrio 20%, Wobbuffet 20%, Ditto 10%, Flygon 10%, Tyranitar 10%, Nincada 10%, Shedinja 10%, Steelix 5%, Crobat 4%, Sableye 4%, Aerodactyl 2%
+
+Artisan Cave 1 (Postgame)
+Cave: Smeargle 52%, Wynaut 10%, Wobbuffet 10%, Blissey 14%, Chansey 10%, Shuckle 4%
+
+Artisan Cave 2 (Postgame)
+Cave: Smeargle 56%, Hitmonlee 10%, Hitmonchan 10%, Hitmontop 10%, Chansey 5%, Houndour 5%, Shuckle 4%
+
+Altering Cave (Postgame)
+Cave: Houndour 25%, Nincada 20%, Shedinja 10%, Ninjask 10%, Wobbuffet 10%, Wynaut 15%, Shuckle 5%, Sableye 4%, Houndoom 2%
