@@ -6329,3 +6329,4 @@ Lv. 40        Recover
 Lv. 45        Psycho Boost
 Lv. 50        Extremespeed
 @Lum Berry 100%
+

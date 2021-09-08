@@ -3,7 +3,6 @@ const readline = require('readline')
 const path = require('path')
 const { exit } = require('process')
 
-
 const data = []
 
 
@@ -21,8 +20,8 @@ async function process() {
             const match = line.match(/Generation\s(\d)/);
             generation = match[1];
         } else if (line.length > 0 ) {
-            if (/^\d*?\.\s[\w\.\(\)]*?/.test(line)) {
-                const match = line.match(/(\d*?)\.\s([\w\.\(\)]*)/);
+            if (/^\d*?\.\s[\w\.\s\(\)]*?/.test(line)) {
+                const match = line.match(/(\d*?)\.\s([\w\.\s\(\)]*)/);
                 tempPokemon = {
                     Name: match[2].trim(),
                     Number: match[1],
