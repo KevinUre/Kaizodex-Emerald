@@ -21,8 +21,8 @@ async function process() {
             const match = line.match(/Generation\s(\d)/);
             generation = match[1];
         } else if (line.length > 0 ) {
-            if (/^\d*?\.\s[\w\(\)]*?/.test(line)) {
-                const match = line.match(/(\d*?)\.\s([\w\(\)]*)/);
+            if (/^\d*?\.\s[\w\.\(\)]*?/.test(line)) {
+                const match = line.match(/(\d*?)\.\s([\w\.\(\)]*)/);
                 tempPokemon = {
                     Name: match[2].trim(),
                     Number: match[1],
@@ -46,6 +46,7 @@ async function process() {
             }
         }
     }
+    console.log(data.length)
 
     fs.writeFileSync(path.join(__dirname,'../input_data/MoveSets.json'),JSON.stringify(data))
 }
