@@ -149,5 +149,5 @@ smogonMoveData.forEach((element) => {
 
 fs.writeFileSync(path.join(__dirname,'../data/Pokemon.json'),JSON.stringify(allPokemon,null,'\t'))
 fs.writeFileSync(path.join(__dirname,'../data/Locations.json'),JSON.stringify(allRoutes,null,'\t'))
-fs.writeFileSync(path.join(__dirname,'../data/Moves.json'),JSON.stringify(allAbilities,null,'\t'))
-fs.writeFileSync(path.join(__dirname,'../data/Abilities.json'),JSON.stringify(allMoves,null,'\t'))
+fs.writeFileSync(path.join(__dirname,'../data/Moves.json'),JSON.stringify(allMoves,null,'\t'))
+fs.writeFileSync(path.join(__dirname,'../data/Abilities.json'),JSON.stringify(allAbilities,null,'\t'))
