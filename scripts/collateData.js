@@ -155,6 +155,47 @@ kaizoMoveData.forEach((element) => {
     allMoves.push(element);
 })
 
+allPokemon.forEach((pokemon) => {
+    pokemon.Abilities.forEach((pokemonAbility) => {
+        const abilityHandle = allAbilities.find(a => a.Name === pokemonAbility)
+        if(!abilityHandle) { console.log(`[ERROR] ${pokemon.Name} has ability ${pokemonAbility} not found in abilities DB`) }
+    })
+    pokemon.Moves.forEach((pokemonMove) => {
+        const moveHandle = allMoves.find(m => m.Name === pokemonMove.Move)
+        if(!moveHandle) { console.log(`[ERROR] ${pokemon.Name} has move ${pokemonMove.Move} not found in moves DB`) }
+    })
+    if(pokemon.EvolvesFrom) {
+        const evolutionHandle = allPokemon.find(p => p.Name === pokemon.EvolvesFrom.From)
+        if(!evolutionHandle) { console.log(`[ERROR] ${pokemon.Name} has evolution from ${pokemon.EvolvesFrom.From} not found in pokemon DB`) }
+    }
+    if(pokemon.EvolvesInto) {
+        pokemon.EvolvesInto.forEach((evolution) => {
+            const evolutionHandle = allPokemon.find(p => p.Name === evolution.Into)
+            if(!evolutionHandle) { console.log(`[ERROR] ${pokemon.Name} has evolution to ${evolution.Into} not found in pokemon DB`) }
+        })
+    }
+})
+
+allRoutes.forEach((location) => {
+    if(location.Encounters) {
+        location.Encounters.forEach((encounterType) => {
+            encounterType.Pokemon.forEach((pokemonEncounter) => {
+                const pokemonHandle = allPokemon.find(p => p.Name === pokemonEncounter.Pokemon)
+                if(!pokemonHandle) { console.log(`[ERROR] ${location.Location} has Pokemon ${pokemonEncounter.Pokemon} not found in pokemon DB`) }
+            })
+        })
+    }
+    if(location.SubLocations) {
+        location.SubLocations.forEach((subLocation) => {
+            subLocation.Encounters.forEach((encounterType) => {
+                encounterType.Pokemon.forEach((pokemonEncounter) => {
+                    const pokemonHandle = allPokemon.find(p => p.Name === pokemonEncounter.Pokemon)
+                    if(!pokemonHandle) { console.log(`[ERROR] "${location.Location} - ${subLocation.Name}" has Pokemon ${pokemonEncounter.Pokemon} not found in pokemon DB`) }
+                })
+            })
+        })
+    }
+})
 
 fs.writeFileSync(path.join(__dirname,'../data/Pokemon.json'),JSON.stringify(allPokemon,null,'\t'))
 fs.writeFileSync(path.join(__dirname,'../data/Locations.json'),JSON.stringify(allRoutes,null,'\t'))

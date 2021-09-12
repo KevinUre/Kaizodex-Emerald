@@ -31,7 +31,7 @@ async function process() {
                 Pokemon: []
             }
             for (const poke of pokemon) {
-                const regexpPokemon = /([\w\.\s\(\)]*?)\s+(\d*?)\%/;
+                const regexpPokemon = /([\w\.\s\(\)\']*?)\s+(\d*?)\%/;
                 if(poke.trim().length == 0) {continue; }
                 const match = poke.match(regexpPokemon);
                 encounter.Pokemon.push({

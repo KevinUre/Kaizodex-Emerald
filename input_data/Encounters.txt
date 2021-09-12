@@ -307,7 +307,7 @@ Good Rod: Qwilfish 60%, Remoraid 20%, Tentacruel 20%
 Super Rod: Sharpedo 40%, Octillery 40%, Mantine 15%, Lanturn 5%
 
 Mossdeep City
-Grass: Ralts 20%, Abra 20%, Spoink 10%, Mr. Mime 10%, Exeggcute 10%, Slowpoke 10%, Girafirig 5%, Drowzee 5%, Xatu 4%, Chimecho 4%, Espeon 1%, Jynx 1%
+Grass: Ralts 20%, Abra 20%, Spoink 10%, Mr. Mime 10%, Exeggcute 10%, Slowpoke 10%, Girafarig 5%, Drowzee 5%, Xatu 4%, Chimecho 4%, Espeon 1%, Jynx 1%
 Surf: Mantine 60%, Octillery 30%, Seaking 5%, Relicanth 4%, Tentacruel 1%
 Old Rod: Slowpoke 70%, Shellder 30%
 Good Rod: Huntail 60%, Slowbro 20%, Slowking 20%

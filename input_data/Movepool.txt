@@ -1389,7 +1389,7 @@ Lv. 1         Peck
 Lv. 6         Sand-Attack
 Lv. 11        False Swipe
 Lv. 16        Quick Attack
-Lv. 21        Aerial A ce
+Lv. 21        Aerial Ace
 Lv. 26        Slash
 Lv. 31        Flail
 Lv. 36        Leaf Blade
@@ -2642,7 +2642,7 @@ Lv. 57        Whirlwind
 
 
 148. Dragonair
-Lv. 1         Extremepseed
+Lv. 1         Extremespeed
 Lv. 1         Fly
 Lv. 1         Thunder Wave
 Lv. 1         Twister
@@ -5754,7 +5754,7 @@ Lv. 6         Dizzy Punch
 Lv. 7         Seismic Toss
 Lv. 12        Knock Off
 Lv. 17        Thunder Wave
-Lv. 20        Brick Beak
+Lv. 20        Brick Break
 Lv. 25        Shadow Ball
 Lv. 27        Body Slam
 Lv. 36        Ancientpower

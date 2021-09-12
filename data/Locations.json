@@ -1,6 +1,6 @@
 [
 	{
-		"Location": "Littleroot Town",
+		"Location": "﻿Littleroot Town",
 		"Encounters": [
 			{
 				"Type": "Surf",
@@ -341,7 +341,7 @@
 						"Frequency": "5"
 					},
 					{
-						"Pokemon": "d",
+						"Pokemon": "Farfetch'd",
 						"Frequency": "4"
 					},
 					{
@@ -5871,7 +5871,7 @@
 						"Frequency": "10"
 					},
 					{
-						"Pokemon": "Girafirig",
+						"Pokemon": "Girafarig",
 						"Frequency": "5"
 					},
 					{

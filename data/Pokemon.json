@@ -206,7 +206,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -368,7 +368,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "1"
 			},
 			{
@@ -464,7 +464,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "1"
 			},
 			{
@@ -586,7 +586,7 @@
 				"Level": "23"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "28"
 			},
 			{
@@ -610,7 +610,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "60%"
 			},
@@ -686,7 +686,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "31"
 			},
 			{
@@ -714,7 +714,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "5%"
 			},
@@ -799,7 +799,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "31"
 			},
 			{
@@ -1006,7 +1006,7 @@
 				"Level": "10"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "13"
 			},
 			{
@@ -1234,7 +1234,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "5"
 			},
 			{
@@ -1307,11 +1307,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "5"
 			},
 			{
@@ -1391,7 +1391,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -1399,7 +1399,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "5"
 			},
 			{
@@ -1931,7 +1931,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -1947,7 +1947,7 @@
 				"Level": "8"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "11"
 			},
 			{
@@ -2107,7 +2107,7 @@
 				"Level": "6"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "11"
 			},
 			{
@@ -2201,7 +2201,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -2209,7 +2209,7 @@
 				"Level": "6"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "11"
 			},
 			{
@@ -2933,7 +2933,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "64"
 			}
 		],
@@ -3993,7 +3993,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -4068,11 +4068,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -4277,7 +4277,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "6"
 			},
 			{
@@ -4342,7 +4342,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
@@ -4465,7 +4465,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "16"
 			},
 			{
@@ -4563,7 +4563,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "22"
 			},
 			{
@@ -4978,7 +4978,7 @@
 				"Level": "48"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "49"
 			}
 		],
@@ -5046,7 +5046,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "13"
 			},
 			{
@@ -5124,7 +5124,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "13"
 			},
 			{
@@ -5164,12 +5164,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "20%"
 			},
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "15%"
 			},
@@ -5434,7 +5434,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -5605,7 +5605,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Dynamicpunch",
+				"Move": "Dynamic Punch",
 				"Level": "1"
 			},
 			{
@@ -5685,7 +5685,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Dynamicpunch",
+				"Move": "Dynamic Punch",
 				"Level": "1"
 			},
 			{
@@ -6005,7 +6005,7 @@
 				"Level": "12"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "19"
 			},
 			{
@@ -6143,7 +6143,7 @@
 				"Level": "19"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "25"
 			},
 			{
@@ -6346,7 +6346,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "21"
 			},
 			{
@@ -6420,7 +6420,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -6448,7 +6448,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "21"
 			},
 			{
@@ -6523,7 +6523,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -6543,7 +6543,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "21"
 			},
 			{
@@ -6714,7 +6714,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "1"
 			},
 			{
@@ -6848,7 +6848,7 @@
 				"Level": "6"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "15"
 			},
 			{
@@ -7099,7 +7099,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "6"
 			},
 			{
@@ -7107,7 +7107,7 @@
 				"Level": "11"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "16"
 			},
 			{
@@ -7184,7 +7184,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -7192,7 +7192,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "6"
 			},
 			{
@@ -7200,7 +7200,7 @@
 				"Level": "11"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "16"
 			},
 			{
@@ -7269,7 +7269,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "6"
 			},
 			{
@@ -7281,7 +7281,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Aerial A ce",
+				"Move": "Aerial Ace",
 				"Level": "21"
 			},
 			{
@@ -7305,7 +7305,13 @@
 				"Level": "46"
 			}
 		],
-		"FoundAt": []
+		"FoundAt": [
+			{
+				"Location": "Route 102",
+				"Type": "Grass",
+				"Frequency": "4%"
+			}
+		]
 	},
 	{
 		"Name": "Doduo",
@@ -7498,7 +7504,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "9"
 			},
 			{
@@ -7652,7 +7658,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "9"
 			},
 			{
@@ -8073,11 +8079,11 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "18"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "36"
 			},
 			{
@@ -8196,7 +8202,7 @@
 				"Level": "12"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "25"
 			},
 			{
@@ -8422,7 +8428,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "1"
 			},
 			{
@@ -8527,7 +8533,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "8"
 			},
 			{
@@ -8654,7 +8660,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "31"
 			},
 			{
@@ -8831,7 +8837,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -8926,7 +8932,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -8958,7 +8964,7 @@
 				"Level": "41"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "45"
 			}
 		],
@@ -9011,7 +9017,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -9151,7 +9157,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -9163,7 +9169,7 @@
 				"Level": "8"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "15"
 			},
 			{
@@ -9171,7 +9177,7 @@
 				"Level": "21"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "27"
 			},
 			{
@@ -9265,7 +9271,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "1"
 			},
 			{
@@ -9273,7 +9279,7 @@
 				"Level": "8"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "15"
 			},
 			{
@@ -9281,7 +9287,7 @@
 				"Level": "21"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "27"
 			},
 			{
@@ -9419,7 +9425,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "7"
 			},
 			{
@@ -9501,7 +9507,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -9824,7 +9830,7 @@
 				"Level": "21"
 			},
 			{
-				"Move": "Hi Jump Kick",
+				"Move": "High Jump Kick",
 				"Level": "26"
 			},
 			{
@@ -9844,7 +9850,7 @@
 				"Level": "46"
 			},
 			{
-				"Move": "Hi Jump Kick",
+				"Move": "High Jump Kick",
 				"Level": "51"
 			}
 		],
@@ -9879,7 +9885,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -10047,7 +10053,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "21"
 			},
 			{
@@ -10131,7 +10137,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "1"
 			},
 			{
@@ -10139,7 +10145,7 @@
 				"Level": "9"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "17"
 			},
 			{
@@ -10460,7 +10466,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Doubleslap",
+				"Move": "Double Slap",
 				"Level": "17"
 			},
 			{
@@ -10542,7 +10548,7 @@
 				"Level": "4"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "10"
 			},
 			{
@@ -10570,7 +10576,7 @@
 				"Level": "37"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "40"
 			},
 			{
@@ -10708,7 +10714,7 @@
 				"Level": "22"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "29"
 			},
 			{
@@ -10720,7 +10726,7 @@
 				"Level": "43"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "50"
 			}
 		],
@@ -10795,7 +10801,7 @@
 				"Level": "22"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "29"
 			},
 			{
@@ -10807,7 +10813,7 @@
 				"Level": "51"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "62"
 			}
 		],
@@ -10873,7 +10879,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -10921,12 +10927,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Old rod",
 				"Frequency": "30%"
 			},
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "20%"
 			},
@@ -10986,7 +10992,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -11032,7 +11038,7 @@
 		},
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "40%"
 			},
@@ -11170,7 +11176,7 @@
 				"Level": "6"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "10"
 			},
 			{
@@ -11334,7 +11340,7 @@
 				"Level": "9"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "13"
 			},
 			{
@@ -11648,11 +11654,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "9"
 			},
 			{
@@ -11726,7 +11732,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -12083,7 +12089,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -12291,7 +12297,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -12451,7 +12457,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -12552,7 +12558,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "8"
 			},
 			{
@@ -12568,7 +12574,7 @@
 				"Level": "30"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "36"
 			},
 			{
@@ -12637,11 +12643,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "8"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "16"
 			},
 			{
@@ -12717,7 +12723,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "8"
 			},
 			{
@@ -12893,7 +12899,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -12925,7 +12931,7 @@
 				"Level": "37"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "42"
 			},
 			{
@@ -13028,7 +13034,7 @@
 				"Level": "46"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "47"
 			},
 			{
@@ -13150,7 +13156,7 @@
 				"Level": "49"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "55"
 			}
 		],
@@ -13209,7 +13215,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -13253,7 +13259,7 @@
 				"Level": "55"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "65"
 			}
 		],
@@ -13368,7 +13374,7 @@
 				"Level": "43"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "50"
 			}
 		],
@@ -13697,7 +13703,7 @@
 				"Level": "29"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "36"
 			},
 			{
@@ -13746,7 +13752,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Extremepseed",
+				"Move": "Extreme Speed",
 				"Level": "1"
 			},
 			{
@@ -13778,7 +13784,7 @@
 				"Level": "29"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "38"
 			},
 			{
@@ -13954,7 +13960,7 @@
 				"Level": "66"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "77"
 			},
 			{
@@ -14007,7 +14013,7 @@
 				"Level": "40"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "50"
 			}
 		],
@@ -14036,7 +14042,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "1"
 			},
 			{
@@ -14118,7 +14124,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "1"
 			},
 			{
@@ -14204,7 +14210,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "1"
 			},
 			{
@@ -14457,7 +14463,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "40"
 			},
 			{
@@ -14539,7 +14545,7 @@
 				"Level": "27"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "35"
 			},
 			{
@@ -14559,7 +14565,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "30%"
 			},
@@ -14622,7 +14628,7 @@
 				"Level": "30"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "40"
 			},
 			{
@@ -14646,7 +14652,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "5%"
 			},
@@ -14686,7 +14692,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -15079,7 +15085,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "25"
 			},
 			{
@@ -15245,7 +15251,7 @@
 				"Level": "23"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "23"
 			},
 			{
@@ -15669,7 +15675,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -15681,7 +15687,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "17"
 			},
 			{
@@ -15890,7 +15896,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -16075,7 +16081,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Softboiled",
+				"Move": "Soft-Boiled",
 				"Level": "6"
 			},
 			{
@@ -16177,7 +16183,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "41"
 			}
 		],
@@ -16398,7 +16404,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -16478,7 +16484,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -16565,7 +16571,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "9"
 			},
 			{
@@ -16577,7 +16583,7 @@
 				"Level": "27"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "30"
 			},
 			{
@@ -16690,7 +16696,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "3"
 			},
 			{
@@ -16792,7 +16798,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -17028,7 +17034,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "5"
 			},
 			{
@@ -17131,7 +17137,7 @@
 				"Level": "10"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "13"
 			},
 			{
@@ -17296,7 +17302,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -17433,7 +17439,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Grasswhistle",
+				"Move": "Grass Whistle",
 				"Level": "1"
 			},
 			{
@@ -17510,7 +17516,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Sonicboom",
+				"Move": "Sonic Boom",
 				"Level": "13"
 			},
 			{
@@ -17655,7 +17661,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -17663,7 +17669,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "23"
 			},
 			{
@@ -17732,7 +17738,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -17832,7 +17838,7 @@
 				"Level": "2"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "5"
 			},
 			{
@@ -17844,7 +17850,7 @@
 				"Level": "23"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "30"
 			},
 			{
@@ -17918,7 +17924,7 @@
 				"Level": "9"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "15"
 			},
 			{
@@ -17938,7 +17944,7 @@
 				"Level": "48"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "49"
 			}
 		],
@@ -18283,7 +18289,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Counter        ",
+				"Move": "Counter",
 				"Level": "1"
 			},
 			{
@@ -18525,6 +18531,11 @@
 				"Location": "Safari Zone - Area 1 Southeast",
 				"Type": "Grass",
 				"Frequency": "10%"
+			},
+			{
+				"Location": "Mossdeep City",
+				"Type": "Grass",
+				"Frequency": "5%"
 			}
 		]
 	},
@@ -18555,7 +18566,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "8"
 			},
 			{
@@ -18634,7 +18645,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "8"
 			},
 			{
@@ -18794,11 +18805,11 @@
 		],
 		"Moves": [
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "6"
 			},
 			{
@@ -18880,7 +18891,7 @@
 				"Level": "21"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "36"
 			},
 			{
@@ -19137,7 +19148,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "10"
 			},
 			{
@@ -19443,7 +19454,7 @@
 				"Level": "70"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "75"
 			}
 		],
@@ -19596,7 +19607,7 @@
 				"Level": "8"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "15"
 			},
 			{
@@ -19668,7 +19679,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "7"
 			},
 			{
@@ -19844,11 +19855,11 @@
 				"Level": "15"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "16"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "29"
 			},
 			{
@@ -19913,7 +19924,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "8"
 			},
 			{
@@ -19925,7 +19936,7 @@
 				"Level": "22"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "29"
 			},
 			{
@@ -20010,7 +20021,7 @@
 				"Level": "30"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "35"
 			},
 			{
@@ -20124,7 +20135,7 @@
 				"Level": "42"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "56"
 			},
 			{
@@ -20184,7 +20195,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "6"
 			},
 			{
@@ -20216,7 +20227,7 @@
 				"Level": "39"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "45"
 			}
 		],
@@ -20301,7 +20312,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "7"
 			},
 			{
@@ -20623,7 +20634,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -20832,7 +20843,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "10"
 			},
 			{
@@ -20905,7 +20916,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "7"
 			},
 			{
@@ -20998,7 +21009,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "7"
 			},
 			{
@@ -21108,7 +21119,7 @@
 				"Level": "22"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "29"
 			},
 			{
@@ -21120,7 +21131,7 @@
 				"Level": "51"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "62"
 			}
 		],
@@ -21282,7 +21293,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -21433,7 +21444,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -21823,7 +21834,7 @@
 				"Level": "9"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "17"
 			},
 			{
@@ -22147,7 +22158,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "11"
 			},
 			{
@@ -22209,11 +22220,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "11"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "21"
 			},
 			{
@@ -22267,11 +22278,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "11"
 			},
 			{
@@ -22403,7 +22414,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -22579,7 +22590,7 @@
 				"Level": "11"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "22"
 			},
 			{
@@ -22661,7 +22672,7 @@
 				"Level": "66"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "67"
 			},
 			{
@@ -22711,7 +22722,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "10"
 			},
 			{
@@ -22788,7 +22799,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "41"
 			},
 			{
@@ -23045,7 +23056,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "19"
 			},
 			{
@@ -23119,7 +23130,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Smellingsalt",
+				"Move": "Smelling Salts",
 				"Level": "7"
 			},
 			{
@@ -23131,11 +23142,11 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Flame wheel",
+				"Move": "Flame Wheel",
 				"Level": "17"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "21"
 			},
 			{
@@ -23202,7 +23213,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -23234,7 +23245,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Hi Jump Kick",
+				"Move": "High Jump Kick",
 				"Level": "16"
 			},
 			{
@@ -23322,7 +23333,7 @@
 				"Level": "19"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "24"
 			},
 			{
@@ -23397,7 +23408,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -23421,7 +23432,7 @@
 				"Level": "20"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "25"
 			},
 			{
@@ -23501,7 +23512,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -23525,7 +23536,7 @@
 				"Level": "20"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "25"
 			},
 			{
@@ -23584,7 +23595,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "4"
 			},
 			{
@@ -23670,7 +23681,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -23682,7 +23693,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "9"
 			},
 			{
@@ -23771,7 +23782,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -23815,7 +23826,7 @@
 				"Level": "37"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "41"
 			}
 		],
@@ -23860,7 +23871,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -23904,7 +23915,7 @@
 				"Level": "60"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "73"
 			}
 		],
@@ -24227,7 +24238,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "21"
 			},
 			{
@@ -24309,7 +24320,7 @@
 				"Level": "19"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "25"
 			},
 			{
@@ -24392,7 +24403,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -24530,7 +24541,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "19"
 			},
 			{
@@ -24616,7 +24627,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
@@ -24844,7 +24855,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "13"
 			},
 			{
@@ -24915,7 +24926,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "3"
 			},
 			{
@@ -25218,11 +25229,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "1"
 			},
 			{
@@ -25380,7 +25391,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -25461,7 +25472,7 @@
 				"Level": "4"
 			},
 			{
-				"Move": "Poisonpowder",
+				"Move": "Poison Powder",
 				"Level": "7"
 			},
 			{
@@ -25541,7 +25552,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Dynamicpunch",
+				"Move": "Dynamic Punch",
 				"Level": "1"
 			},
 			{
@@ -25585,7 +25596,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "45"
 			},
 			{
@@ -25640,7 +25651,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "19"
 			},
 			{
@@ -25802,7 +25813,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "19"
 			},
 			{
@@ -25949,7 +25960,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -26046,7 +26057,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "9"
 			},
 			{
@@ -26374,15 +26385,15 @@
 		],
 		"Moves": [
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
-				"Move": "Smellingsalt",
+				"Move": "Smelling Salts",
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "4"
 			},
 			{
@@ -26474,11 +26485,11 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -26486,7 +26497,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "4"
 			},
 			{
@@ -26584,7 +26595,7 @@
 				"Level": "6"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "10"
 			},
 			{
@@ -26653,7 +26664,7 @@
 				"Level": "28"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "31"
 			},
 			{
@@ -26872,7 +26883,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "29"
 			},
 			{
@@ -26953,7 +26964,7 @@
 				"Level": "28"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "29"
 			},
 			{
@@ -27103,7 +27114,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -27209,7 +27220,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -27341,7 +27352,7 @@
 				"Level": "28"
 			},
 			{
-				"Move": "Hi Jump Kick",
+				"Move": "High Jump Kick",
 				"Level": "32"
 			},
 			{
@@ -27395,7 +27406,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -27443,7 +27454,7 @@
 				"Level": "28"
 			},
 			{
-				"Move": "Hi Jump Kick",
+				"Move": "High Jump Kick",
 				"Level": "32"
 			},
 			{
@@ -27496,7 +27507,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -27709,7 +27720,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "2"
 			},
 			{
@@ -27777,7 +27788,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Thundershock",
+				"Move": "Thunder Shock",
 				"Level": "1"
 			},
 			{
@@ -28032,7 +28043,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Grasswhistle",
+				"Move": "Grass Whistle",
 				"Level": "29"
 			},
 			{
@@ -28179,7 +28190,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -28292,7 +28303,7 @@
 				"Level": "16"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "22"
 			},
 			{
@@ -28384,7 +28395,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -28412,7 +28423,7 @@
 				"Level": "28"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "33"
 			},
 			{
@@ -28664,7 +28675,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "1"
 			},
 			{
@@ -28821,7 +28832,7 @@
 				"Level": "4"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "5"
 			},
 			{
@@ -28829,7 +28840,7 @@
 				"Level": "10"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "14"
 			},
 			{
@@ -29067,7 +29078,7 @@
 				"Level": "45"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "55"
 			}
 		],
@@ -29567,7 +29578,7 @@
 				"Level": "9"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "17"
 			},
 			{
@@ -29653,7 +29664,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "1"
 			},
 			{
@@ -29661,7 +29672,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "17"
 			},
 			{
@@ -29673,7 +29684,7 @@
 				"Level": "33"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "42"
 			},
 			{
@@ -29764,7 +29775,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "33"
 			},
 			{
@@ -29865,7 +29876,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "17"
 			},
 			{
@@ -29877,7 +29888,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "29"
 			},
 			{
@@ -29947,7 +29958,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Grasswhistle",
+				"Move": "Grass Whistle",
 				"Level": "1"
 			},
 			{
@@ -29955,7 +29966,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "9"
 			},
 			{
@@ -29963,7 +29974,7 @@
 				"Level": "13"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "17"
 			},
 			{
@@ -29975,7 +29986,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "29"
 			},
 			{
@@ -29987,11 +29998,11 @@
 				"Level": "41"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "47"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "53"
 			}
 		],
@@ -30173,7 +30184,7 @@
 				"Level": "31"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "35"
 			},
 			{
@@ -30496,7 +30507,7 @@
 				"Level": "37"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "43"
 			},
 			{
@@ -30599,7 +30610,7 @@
 				"Level": "37"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "43"
 			},
 			{
@@ -30686,7 +30697,7 @@
 				"Level": "11"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "16"
 			},
 			{
@@ -30798,7 +30809,7 @@
 				"Level": "11"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "16"
 			},
 			{
@@ -30913,7 +30924,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "1"
 			},
 			{
@@ -30964,7 +30975,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "60%"
 			},
@@ -31036,7 +31047,7 @@
 				"Level": "4"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "7"
 			},
 			{
@@ -31052,7 +31063,7 @@
 				"Level": "23"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "27"
 			},
 			{
@@ -31081,7 +31092,7 @@
 		},
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "4%"
 			},
@@ -31226,11 +31237,11 @@
 				"Level": "15"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "19"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "25"
 			},
 			{
@@ -31316,11 +31327,11 @@
 				"Level": "15"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "19"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "25"
 			},
 			{
@@ -31451,7 +31462,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "43"
 			},
 			{
@@ -31495,7 +31506,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -31646,7 +31657,7 @@
 				"Level": "43"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "49"
 			},
 			{
@@ -31694,7 +31705,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Sand-Attack",
+				"Move": "Sand Attack",
 				"Level": "1"
 			},
 			{
@@ -31726,7 +31737,7 @@
 				"Level": "46"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "55"
 			},
 			{
@@ -31889,7 +31900,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "30"
 			},
 			{
@@ -32066,7 +32077,7 @@
 				"Level": "17"
 			},
 			{
-				"Move": "Brick Beak",
+				"Move": "Brick Break",
 				"Level": "20"
 			},
 			{
@@ -32078,7 +32089,7 @@
 				"Level": "27"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "36"
 			}
 		],
@@ -32134,11 +32145,11 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "32"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "37"
 			},
 			{
@@ -32229,11 +32240,11 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "32"
 			},
 			{
-				"Move": "Faint Attack",
+				"Move": "Feint Attack",
 				"Level": "39"
 			},
 			{
@@ -32713,7 +32724,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Will-o-Wisp",
+				"Move": "Will-O-Wisp",
 				"Level": "5"
 			},
 			{
@@ -33107,7 +33118,7 @@
 				"Level": "7"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "12"
 			},
 			{
@@ -33242,7 +33253,7 @@
 				"Level": "4"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "16"
 			},
 			{
@@ -33366,7 +33377,7 @@
 			"Ice"
 		],
 		"Abilities": [
-			"Thich Fat",
+			"Thick Fat",
 			"Rain Dish"
 		],
 		"Moves": [
@@ -33857,7 +33868,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Bubblebeam",
+				"Move": "Bubble Beam",
 				"Level": "8"
 			},
 			{
@@ -33873,7 +33884,7 @@
 				"Level": "29"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "36"
 			},
 			{
@@ -34068,12 +34079,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Old rod",
 				"Frequency": "70%"
 			},
 			{
-				"Location": "Littleroot Town",
+				"Location": "﻿Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "41%"
 			},
@@ -34142,7 +34153,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "33"
 			},
 			{
@@ -34245,7 +34256,7 @@
 				"Level": "30"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "38"
 			},
 			{
@@ -34348,7 +34359,7 @@
 				"Level": "30"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "38"
 			},
 			{
@@ -34539,7 +34550,7 @@
 				"Level": "1"
 			},
 			{
-				"Move": "Thunderpunch",
+				"Move": "Thunder Punch",
 				"Level": "1"
 			},
 			{
@@ -34639,7 +34650,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "33"
 			},
 			{
@@ -34651,7 +34662,7 @@
 				"Level": "57"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "65"
 			}
 		],
@@ -34676,7 +34687,7 @@
 		],
 		"Moves": [
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "1"
 			},
 			{
@@ -34696,7 +34707,7 @@
 				"Level": "25"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "33"
 			},
 			{
@@ -34745,7 +34756,7 @@
 				"Level": "17"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "25"
 			},
 			{
@@ -34757,7 +34768,7 @@
 				"Level": "36"
 			},
 			{
-				"Move": "Selfdestruct",
+				"Move": "Self-Destruct",
 				"Level": "39"
 			},
 			{
@@ -34811,7 +34822,7 @@
 				"Level": "15"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "20"
 			},
 			{
@@ -34877,7 +34888,7 @@
 				"Level": "15"
 			},
 			{
-				"Move": "Dragonbreath",
+				"Move": "Dragon Breath",
 				"Level": "20"
 			},
 			{
@@ -34935,7 +34946,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "15"
 			},
 			{
@@ -34955,7 +34966,7 @@
 				"Level": "45"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "50"
 			},
 			{
@@ -35001,7 +35012,7 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "15"
 			},
 			{
@@ -35029,7 +35040,7 @@
 				"Level": "60"
 			},
 			{
-				"Move": "Solarbeam",
+				"Move": "Solar Beam",
 				"Level": "65"
 			},
 			{
@@ -35068,11 +35079,11 @@
 				"Level": "5"
 			},
 			{
-				"Move": "Ancientpower",
+				"Move": "Ancient Power",
 				"Level": "15"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "20"
 			},
 			{
@@ -35239,7 +35250,7 @@
 				"Level": "45"
 			},
 			{
-				"Move": "Extremespeed",
+				"Move": "Extreme Speed",
 				"Level": "50"
 			}
 		],
