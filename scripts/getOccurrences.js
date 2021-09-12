@@ -35,7 +35,7 @@ async function process() {
                 if(poke.trim().length == 0) {continue; }
                 const match = poke.match(regexpPokemon);
                 encounter.Pokemon.push({
-                    Pokemon: match[1],
+                    Pokemon: match[1].trim(),
                     Frequency: match[2]
                 })
             }
