@@ -1,37 +1,53 @@
-import React, { Fragment } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { DataProvider } from './DataProvider';
-import DataContext from './DataContext';
+import {
+  BrowserRouter,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
 // https://reactrouter.com/web/guides/quick-start
 
 function App() {
   return (
-    // <DataProvider>
-      <div className="App">
-        <body className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-          <DataContext.Consumer>
-            {context => (
-              <span>{context.Name}</span>
-            )}
-          </DataContext.Consumer>
-        </body>
+    <BrowserRouter>
+      <div>
+        <nav className="Nav-bar">
+          <Link className="Navbar-Link Home-Button" to="/">Kaizodex Emerald</Link>
+          <Link className="Navbar-Link" to="/pokemon">Pokemon</Link>
+          <Link className="Navbar-Link" to="/locations">Locations</Link>
+          <Link className="Navbar-Link" to="/moves">Moves</Link>
+          <Link className="Navbar-Link" to="/abilities">Abilities</Link>
+        </nav>
+        <div className="Main">
+          <Switch>
+            <Route path="/pokemon">
+              <p>Pokemon Under Construction</p>
+            </Route>
+            <Route path="/locations">
+              <p>Locations Under Construction</p>
+            </Route>
+            <Route path="/moves">
+              <p>Moves Under Construction</p>
+            </Route>
+            <Route path="/abilities">
+              <p>Abilities Under Construction</p>
+            </Route>
+            <Route path="/">
+              <p>Home Under Construction</p>
+            </Route>
+          </Switch>
+        </div>
       </div>
-    // </DataProvider>
+    </BrowserRouter>
   );
 }
 
 export default App;
+
+{/* <DataContext.Consumer>
+  {context => (
+    <span>{context.Name}</span>
+  )}
+</DataContext.Consumer> */}
