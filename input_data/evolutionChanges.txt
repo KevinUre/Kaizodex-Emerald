@@ -1,0 +1,132 @@
+Pidgey->Pidgeotto:
+Old: level 18
+New: level 16
+
+Pidgeotto->Pidgeot:
+Old: level 36
+New: level 30
+
+Oddish->Gloom:
+Old: level 21
+New: level 16
+
+Psyduck->Golduck:
+Old: level 33
+New: level 25
+
+Poliwrath->Politoad:
+Old: trade with King's Rock
+New: level 37
+
+Kadabra->Alakazam:
+Old: trade
+New: level 55
+
+Machoke->Machamp:
+Old: trade
+New: level 50
+
+Bellsprout->Weepinbell:
+Old: level 21
+New: level 16
+
+Graveler->Golem:
+Old: Trade
+New: level 42
+
+Ponyta->Rapidash:
+Old: level 40
+New: level 25
+
+Slowpoke->Slowking:
+Old: trade with King's Rock
+New: Water Stone
+
+Seel->Dewgong:
+Old: level 34
+New: level 28
+
+Haunter-> Gengar:
+Old: trade
+New: Level 50
+
+Onix-> Steelix:
+Old: trade with Metal Coat
+New: level 45
+
+Drowzee-> Hypno:
+Old: level 26
+New: level 38
+
+Seadra-> Kingdra:
+Old: trade with Dragon Scale
+New: level 55
+
+Goldeen-> Seeking:
+Old: level 33
+New: level 20
+
+Scyther->Scizor:
+Old: trade with Metal Coat
+New: level 50
+
+Eevee->Espeon:
+Old: max Happiness during the day
+New: Sun Stone
+
+Eevee->Umbreon:
+Old: max Happiness during the night
+New: Moon Stone
+
+Porygon->Porygon2:
+Old: trade with an Upgrade
+New: level 42
+
+Slugma->Magcargo:
+Old: level 38
+New: level 16
+
+Houndour->Houndoom:
+Old: level 24
+New: level 66
+
+Wailmer->Wailord:
+Old: level 40
+New: level 70
+
+Corphish-> Crawdaunt:
+Old: level 30
+New: level 25
+
+Spheal->Sealeo:
+Old: level 32
+New: level 25
+
+Cacnea->Cacturne:
+Old: level 32
+New: level 29
+
+Spoink->Grumpig:
+Old: level 32
+New: level 27
+
+Wynaut-> Wobbuffet:
+Old: level 15
+New: level 64
+
+Duskull->Dusclops:
+Old: level 37
+New: level 65
+
+Clamperl->Huntail:
+Old: trade with Deep Sea Tooth
+New: level 24
+
+Clamperl->Gorebyss:
+Old: trade with Deep Sea Scale
+New: Water Stone
+
+Aron->Lairon:
+Old: level 32
+New: level 25
+

@@ -1,0 +1,296 @@
+Venusaur:
+Old: Overgrow
+New: Chlorophyll/Overgrow
+
+Pidgeot:
+Old: Keen Eye
+New: Early Bird
+
+Rattata:
+Old: Run Away/Guts
+New: Run Away
+
+Raticate:
+Old: Run Away/Guts
+New: Guts
+
+Fearow:
+Old: Keen Eye
+New: Early Bird
+
+Pikachu/Raichu:
+Old: Static
+New: Lightning Rod
+
+Vulpix/Ninetales:
+Old: Flash Fire
+New: Pressure
+
+Venonat:
+Old: Compound Eyes
+New: Compound Eyes/Shield Dust
+
+Venomoth:
+Old: Shield Dust
+New: Compound Eyes/Shield Dust
+
+Meowth:
+Old: Pickup
+New: Limber
+
+Psyduck/Golduck:
+Old: Damp/Cloud Nine
+New: Swift Swim/Oblivious
+
+Growlithe:
+Old: Intimidate/Flash Fire
+New: Intimidate/Run Away
+
+Arcanine:
+Old: Intimidate/Flash Fire
+New: Intimidate/Blaze
+
+Poliwag/Poliwhirl/Poliwrath/Politoed:
+Old: Damp/ Water Absorb
+New: Swift Swim
+
+Ponyta/Rapidash:
+Old: Run Away/Flash Fire
+New: Run Away/Flame Body
+
+Slowbro:
+Old: Oblivious/Own Tempo
+New: Shell Armor/Own Tempo
+
+Dewgong:
+Old: Thick Fat
+New: Thick Fat/Swift Swim
+
+Grimer/Muk:
+Old: Stench/Sticky Hold
+New: Poison Point/Sticky Hold
+
+Voltorb/Electrode:
+Old: Soundproof/Static
+New: Static
+
+Hitmonchan:
+Old: Keen Eye
+New: Guts
+
+Mr. Mime:
+Old: Soundproof
+New: Own Tempo
+
+Pinsir:
+Old: Hyper Cutter
+New: Hyper Cutter/Intimidate
+
+Lapras:
+Old: Water Absorb/Shell Armor
+New: Shell Armor
+
+Ditto:
+Old: Limber
+New: Shadow Tag
+
+Vaporeon:
+Old: Water Absorb
+New: Swift Swim
+
+Jolteon:
+Old: Volt Absorb
+New: Static
+
+Flareon:
+Old: Flash Fire
+New: Flame Body
+
+Snorlax:
+Old: Immunity/Thick Fat
+New: Guts/Thick Fat
+
+Dragonite:
+Old: Inner Focus
+New: Thick Fat/Shed Skin
+
+Mewtwo:
+Old: Pressure
+New: Pressure/Run Away
+
+Meganium:
+Old: Overgrow
+New: Thick Fat/Overgrow
+
+Feraligatr:
+Old: Torrent
+New: Battle Armor/Torrent
+
+Sentret/Furret:
+Old: Run Away/Keen Eye
+New: Early Bird/Keen Eye
+
+Aipom:
+Old: Run Away/Pickup
+New: Vital Spirit/Own Tempo
+
+Wooper/Quagsire:
+Old: Damp/ Water Absorb
+New: Oblivious/ Water Absorb
+
+Slowking:
+Old: Oblivious/Own Tempo
+New: Natural Cure/Own Tempo
+
+Pinco:
+Old: Sturdy
+New: Rough Skin/Sturdy
+
+Fortress:
+Old: Sturdy
+New: Shell Armor/Sturdy
+
+Shuckle:
+Old: Sturdy
+New: Shell Armor/Sturdy
+
+Teddiursa:
+Old: Pickup
+New: Guts
+
+Magcargo:
+Old: Magma Armor/Flame Body
+New: Flame Body
+
+Piloswine:
+Old: Oblivious
+New: Oblivious/Thick Fat
+
+Mantine:
+Old: Swift Swim/Water Absorb
+New: Swift Swim/Water Veil
+
+Houndour:
+Old: Early Bird/Flash Fire
+New: Early Bird
+
+Houndoom:
+Old: Early Bird/Flash Fire
+New: Early Bird/Intimidate
+
+Phanpy:
+Old: Pickup
+New: Cute Charm
+
+Donphan:
+Old: Sturdy
+New: Battle Armor/Sturdy
+
+Raikou:
+Old: Pressure
+New: Lightning Rod/Pressure
+
+Entei:
+Old: Pressure
+New: Inner Focus/Pressure
+
+Suicune:
+Old: Pressure
+New: Battle Armor/Pressure
+
+Tyranitar:
+Old: Sand Stream
+New: Intimidate
+
+Lugia:
+Old: Pressure
+New: Pressure/Run Away
+
+Ho-oh:
+Old: Pressure
+New: Pressure/Run Away
+
+Torchic:
+Old: Blaze
+New: Speed Boost/Blaze
+
+Swampert:
+Old: Torrent
+New: Swift Swim/Torrent
+
+Zigzagoon/Linoone:
+Old: Pickup
+New: Guts
+
+Pelipper:
+Old: Keen Eye
+New: Keen Eye/Swift Swim
+
+Ralts/Kirlia:
+Old: Synchronize/Trace
+New: Synchronize
+
+Wailmer/Wailord:
+Old: Water Veil/Oblivious
+New: Pressure/Oblivious
+
+Nosepass:
+Old: Sturdy/Magnet Pull
+New: Sturdy/Battle Armor
+
+Torkoal:
+Old: White Smoke
+New: White Smoke/Shell Armor
+
+Sableye:
+Old: Keen Eye
+New: Pressure
+
+Whiscash:
+Old: Oblivious
+New: Oblivious/Swift Swim
+
+Milotic:
+Old: Marvel Scale
+New: Marvel Scale/Swift Swim
+
+Manectric:
+Old: Static/Lightning Rod
+New: Intimidate/Lightning Rod
+
+Walrein:
+Old: Thick Fat
+New: Thich Fat/Rain Dish
+
+Glalie:
+Old: Inner Focus
+New: Inner Focus/Intimidate
+
+Dusclops:
+Old: Pressure
+New: Pressure/Keen Eye
+
+Whismur/Loudred/Exploud:
+Old: Soundproof
+New: Vital Spirit
+
+Zangoose:
+Old: Immunity
+New: Immunity/Guts
+
+Volbeat:
+Old: Illuminate/Swarm
+New: Swarm
+
+Kyogre:
+Old: Drizzle
+New: Pressure/Run Away
+
+Groudon:
+Old: Drought
+New: Rock Head/Run Away
+
+Rayquaza:
+Old: Air Lock
+New: Pressure/Run Away
+

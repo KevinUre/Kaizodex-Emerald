@@ -3184,5 +3184,113 @@
 		"Accuracy": "50%",
 		"PP": "5",
 		"Description": "Has a 100% chance to paralyze the target."
+	},
+	{
+		"Name": "Drill Run",
+		"Type": "Ground",
+		"Category": "Unknown",
+		"Power": "80",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "High crit ratio"
+	},
+	{
+		"Name": "Earth Power",
+		"Type": "Ground",
+		"Category": "Unknown",
+		"Power": "90",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "30% chance of lowering opponent’s defence"
+	},
+	{
+		"Name": "Gunk Shot",
+		"Type": "Poison",
+		"Category": "Unknown",
+		"Power": "120",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "30% chance of poisoning opponent"
+	},
+	{
+		"Name": "Head Smash",
+		"Type": "Rock",
+		"Category": "Unknown",
+		"Power": "150",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "⅓ Recoil"
+	},
+	{
+		"Name": "Wild Charge",
+		"Type": "Electric",
+		"Category": "Unknown",
+		"Power": "90",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "⅓ Recoil, Has a 10% chance of paralyzing the opponent"
+	},
+	{
+		"Name": "X-Scissors",
+		"Type": "Bug",
+		"Category": "Unknown",
+		"Power": "80",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "High crit ratio"
+	},
+	{
+		"Name": "Draco Meteor",
+		"Type": "Dragon",
+		"Category": "Unknown",
+		"Power": "120",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "⅓ recoil damage"
+	},
+	{
+		"Name": "Force Palm",
+		"Type": "Fighting",
+		"Category": "Unknown",
+		"Power": "60",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "has a 30% chance of Paralyzing the opponent"
+	},
+	{
+		"Name": "Shadow Sneak",
+		"Type": "Ghost",
+		"Category": "Unknown",
+		"Power": "40",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "Priority move"
+	},
+	{
+		"Name": "Air Slash",
+		"Type": "Flying",
+		"Category": "Unknown",
+		"Power": "80",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "30% Flinch Rate"
+	},
+	{
+		"Name": "Flash Cannon",
+		"Type": "Steel",
+		"Category": "Unknown",
+		"Power": "90",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "30% chance to lower opponent’s defence"
+	},
+	{
+		"Name": "Ice Shard",
+		"Type": "Ice",
+		"Category": "Unknown",
+		"Power": "40",
+		"Accuracy": "100%",
+		"PP": "Unknown",
+		"Description": "priority move"
 	}
 ]

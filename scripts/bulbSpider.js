@@ -5,6 +5,9 @@ const puppeteer = require('puppeteer-extra');
 let browser, page;
 const outPokemon = [];
 
+const statData = JSON.parse(fs.readFileSync(path.join(__dirname,'../input_data/Stats.json')))
+const pokemonNames = statData.map(stats => stats.Pokemon)
+
 async function setupBrowser() {
     const AdblockerPlugin = require('puppeteer-extra-plugin-adblocker')
     puppeteer.use(AdblockerPlugin())
@@ -42,6 +45,8 @@ async function getData() {
         var evolvesFromLevelRegex = /It evolves from (\w*?) starting at level (\d*)/
         var evolvesFromStoneRegex = /It evolves from (\w*?) when exposed to a ([\w\s]*)\./
         var evolvesFromTradeRegex = /It evolves from (\w*?) when traded/
+        var evolvesFromFriendshipRegex = /It evolves from (\w*?) when leveled up with high friendship/
+        var evolvesFromBeautyRegex = /It evolves from (\w*?) when leveled up with its Beautiful condition high enough/
         var evolvesFromMiscRegex = /It evolves from (\w*?) when/
     
         var evolution = null;
@@ -64,12 +69,28 @@ async function getData() {
                 From: match[1],
                 Trade: true
             }
+        } else if(evolveText.match(evolvesFromFriendshipRegex)) {
+            const match = evolveText.match(evolvesFromFriendshipRegex)
+            evolution = {
+                From: match[1],
+                Friendship: 'High'
+            }
+        } else if(evolveText.match(evolvesFromBeautyRegex)) {
+            const match = evolveText.match(evolvesFromBeautyRegex)
+            evolution = {
+                From: match[1],
+                Beauty: 'High'
+            }
         } else if(evolveText.match(evolvesFromMiscRegex)) {
             const match = evolveText.match(evolvesFromMiscRegex)
             evolution = {
                 From: match[1],
                 UnknownCondition: evolveText
             }
+        }
+
+        if(evolution && !pokemonNames.find(a => a === evolution.From)) {
+            evolution = null
         }
     
         const tempEntry = {

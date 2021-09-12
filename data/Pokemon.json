@@ -193,6 +193,7 @@
 			"Grass"
 		],
 		"Abilities": [
+			"Chlorophyll",
 			"Overgrow"
 		],
 		"Moves": [
@@ -1267,8 +1268,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Pidgeotto",
-				"Level": "18"
+				"Into": "Pidgeotto"
 			}
 		],
 		"FoundAt": [
@@ -1345,12 +1345,14 @@
 		],
 		"EvolvesFrom": {
 			"From": "Pidgey",
-			"Level": "18"
+			"Evolution": {
+				"From": "Pidgey",
+				"Level": "16"
+			}
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Pidgeot",
-				"Level": "36"
+				"Into": "Pidgeot"
 			}
 		],
 		"FoundAt": [
@@ -1377,7 +1379,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Keen Eye"
+			"Early Bird"
 		],
 		"Moves": [
 			{
@@ -1431,7 +1433,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Pidgeotto",
-			"Level": "36"
+			"Evolution": {
+				"From": "Pidgeotto",
+				"Level": "30"
+			}
 		},
 		"FoundAt": [
 			{
@@ -1466,8 +1471,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Run Away",
-			"Guts"
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -1532,7 +1536,6 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Run Away",
 			"Guts"
 		],
 		"Moves": [
@@ -1681,7 +1684,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Keen Eye"
+			"Early Bird"
 		],
 		"Moves": [
 			{
@@ -1924,7 +1927,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Static"
+			"Lightning Rod"
 		],
 		"Moves": [
 			{
@@ -1974,7 +1977,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Pichu",
-			"UnknownCondition": "It evolves from Pichu when leveled up with high friendship and evolves into Raichu when exposed to a Thunder Stone."
+			"Friendship": "High"
 		},
 		"EvolvesInto": [
 			{
@@ -2035,7 +2038,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Static"
+			"Lightning Rod"
 		],
 		"Moves": [
 			{
@@ -2763,7 +2766,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Cleffa",
-			"UnknownCondition": "It evolves from Cleffa when leveled up with high friendship and evolves into Clefable when exposed to a Moon Stone."
+			"Friendship": "High"
 		},
 		"EvolvesInto": [
 			{
@@ -2886,7 +2889,7 @@
 			"Fire"
 		],
 		"Abilities": [
-			"Flash Fire"
+			"Pressure"
 		],
 		"Moves": [
 			{
@@ -3013,7 +3016,7 @@
 			"Fire"
 		],
 		"Abilities": [
-			"Flash Fire"
+			"Pressure"
 		],
 		"Moves": [
 			{
@@ -3139,7 +3142,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Igglybuff",
-			"UnknownCondition": "It evolves from Igglybuff when leveled up with high friendship and evolves into Wigglytuff when exposed to a Moon Stone."
+			"Friendship": "High"
 		},
 		"EvolvesInto": [
 			{
@@ -3359,8 +3362,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Crobat",
-				"UnknownCondition": "It evolves from Golbat when leveled up with high friendship. It is the final form of Zubat."
+				"Into": "Crobat"
 			}
 		],
 		"FoundAt": [
@@ -3448,6 +3450,11 @@
 				"Level": "39"
 			}
 		],
+		"EvolvesInto": [
+			{
+				"Into": "Gloom"
+			}
+		],
 		"FoundAt": [
 			{
 				"Location": "Petalburg Woods",
@@ -3531,6 +3538,13 @@
 				"Level": "42"
 			}
 		],
+		"EvolvesFrom": {
+			"From": "Oddish",
+			"Evolution": {
+				"From": "Oddish",
+				"Level": "16"
+			}
+		},
 		"EvolvesInto": [
 			{
 				"Into": "Vileplume",
@@ -3793,7 +3807,8 @@
 			"Bug"
 		],
 		"Abilities": [
-			"Compound Eyes"
+			"Compound Eyes",
+			"Shield Dust"
 		],
 		"Moves": [
 			{
@@ -3871,6 +3886,7 @@
 			"Bug"
 		],
 		"Abilities": [
+			"Compound Eyes",
 			"Shield Dust"
 		],
 		"Moves": [
@@ -4253,7 +4269,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Pickup"
+			"Limber"
 		],
 		"Moves": [
 			{
@@ -4428,8 +4444,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Damp",
-			"Cloud Nine"
+			"Swift Swim",
+			"Oblivious"
 		],
 		"Moves": [
 			{
@@ -4471,8 +4487,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Golduck",
-				"Level": "33"
+				"Into": "Golduck"
 			}
 		],
 		"FoundAt": [
@@ -4523,8 +4538,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Damp",
-			"Cloud Nine"
+			"Swift Swim",
+			"Oblivious"
 		],
 		"Moves": [
 			{
@@ -4574,7 +4589,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Psyduck",
-			"Level": "33"
+			"Evolution": {
+				"From": "Psyduck",
+				"Level": "25"
+			}
 		},
 		"FoundAt": [
 			{
@@ -4841,7 +4859,7 @@
 		],
 		"Abilities": [
 			"Intimidate",
-			"Flash Fire"
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -4940,7 +4958,7 @@
 		],
 		"Abilities": [
 			"Intimidate",
-			"Flash Fire"
+			"Blaze"
 		],
 		"Moves": [
 			{
@@ -5016,8 +5034,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -5087,8 +5104,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -5185,8 +5201,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -5383,8 +5398,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Alakazam",
-				"Trade": true
+				"Into": "Alakazam"
 			}
 		],
 		"FoundAt": [
@@ -5470,7 +5484,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Kadabra",
-			"Trade": true
+			"Evolution": {
+				"From": "Kadabra",
+				"Level": "55"
+			}
 		},
 		"FoundAt": [
 			{
@@ -5638,8 +5655,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Machamp",
-				"Trade": true
+				"Into": "Machamp"
 			}
 		],
 		"FoundAt": [
@@ -5723,7 +5739,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Machoke",
-			"Trade": true
+			"Evolution": {
+				"From": "Machoke",
+				"Level": "50"
+			}
 		},
 		"FoundAt": [
 			{
@@ -5795,8 +5814,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Weepinbell",
-				"Level": "21"
+				"Into": "Weepinbell"
 			}
 		],
 		"FoundAt": [
@@ -5882,7 +5900,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Bellsprout",
-			"Level": "21"
+			"Evolution": {
+				"From": "Bellsprout",
+				"Level": "16"
+			}
 		},
 		"EvolvesInto": [
 			{
@@ -6457,8 +6478,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Golem",
-				"Trade": true
+				"Into": "Golem"
 			}
 		],
 		"FoundAt": [
@@ -6549,7 +6569,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Graveler",
-			"Trade": true
+			"Evolution": {
+				"From": "Graveler",
+				"Level": "42"
+			}
 		},
 		"FoundAt": [
 			{
@@ -6590,7 +6613,7 @@
 		],
 		"Abilities": [
 			"Run Away",
-			"Flash Fire"
+			"Flame Body"
 		],
 		"Moves": [
 			{
@@ -6636,8 +6659,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Rapidash",
-				"Level": "40"
+				"Into": "Rapidash"
 			}
 		],
 		"FoundAt": [
@@ -6684,7 +6706,7 @@
 		],
 		"Abilities": [
 			"Run Away",
-			"Flash Fire"
+			"Flame Body"
 		],
 		"Moves": [
 			{
@@ -6746,7 +6768,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Ponyta",
-			"Level": "40"
+			"Evolution": {
+				"From": "Ponyta",
+				"Level": "25"
+			}
 		},
 		"FoundAt": [
 			{
@@ -6853,8 +6878,7 @@
 				"Level": "37"
 			},
 			{
-				"Into": "Slowking",
-				"Trade": true
+				"Into": "Slowking"
 			}
 		],
 		"FoundAt": [
@@ -6926,8 +6950,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Own Tempo",
-			"Oblivious"
+			"Shell Armor",
+			"Own Tempo"
 		],
 		"Moves": [
 			{
@@ -7504,8 +7528,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Dewgong",
-				"Level": "34"
+				"Into": "Dewgong"
 			}
 		],
 		"FoundAt": [
@@ -7612,7 +7635,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Thick Fat"
+			"Thick Fat",
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -7666,7 +7690,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Seel",
-			"Level": "34"
+			"Evolution": {
+				"From": "Seel",
+				"Level": "28"
+			}
 		},
 		"FoundAt": [
 			{
@@ -7771,8 +7798,8 @@
 			"Poison"
 		],
 		"Abilities": [
-			"Sticky Hold",
-			"Stench"
+			"Poison Point",
+			"Sticky Hold"
 		],
 		"Moves": [
 			{
@@ -7865,8 +7892,8 @@
 			"Poison"
 		],
 		"Abilities": [
-			"Sticky Hold",
-			"Stench"
+			"Poison Point",
+			"Sticky Hold"
 		],
 		"Moves": [
 			{
@@ -8437,8 +8464,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Gengar",
-				"Trade": true
+				"Into": "Gengar"
 			}
 		],
 		"FoundAt": [
@@ -8535,7 +8561,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Haunter",
-			"Trade": true
+			"Evolution": {
+				"From": "Haunter",
+				"Level": "50"
+			}
 		},
 		"FoundAt": [
 			{
@@ -8647,8 +8676,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Steelix",
-				"Trade": true
+				"Into": "Steelix"
 			}
 		],
 		"FoundAt": [
@@ -8740,8 +8768,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Hypno",
-				"Level": "26"
+				"Into": "Hypno"
 			}
 		],
 		"FoundAt": [
@@ -8846,7 +8873,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Drowzee",
-			"Level": "26"
+			"Evolution": {
+				"From": "Drowzee",
+				"Level": "38"
+			}
 		},
 		"FoundAt": [
 			{
@@ -9117,8 +9147,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Static",
-			"Soundproof"
+			"Static"
 		],
 		"Moves": [
 			{
@@ -9220,8 +9249,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Static",
-			"Soundproof"
+			"Static"
 		],
 		"Moves": [
 			{
@@ -9847,7 +9875,7 @@
 			"Fighting"
 		],
 		"Abilities": [
-			"Keen Eye"
+			"Guts"
 		],
 		"Moves": [
 			{
@@ -10460,14 +10488,9 @@
 				"Level": "57"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Happiny",
-			"UnknownCondition": "It evolves from Happiny when leveled up holding an Oval Stone during the day and evolves into Blissey when leveled up with high friendship."
-		},
 		"EvolvesInto": [
 			{
-				"Into": "Blissey",
-				"UnknownCondition": "It evolves from Chansey when leveled up with high friendship. It is the final form of Happiny."
+				"Into": "Blissey"
 			}
 		],
 		"FoundAt": [
@@ -10794,8 +10817,7 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Kingdra",
-				"Trade": true
+				"Into": "Kingdra"
 			}
 		],
 		"FoundAt": [
@@ -11454,8 +11476,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Scizor",
-				"Trade": true
+				"Into": "Scizor"
 			}
 		],
 		"FoundAt": [
@@ -11811,7 +11832,8 @@
 			"Bug"
 		],
 		"Abilities": [
-			"Hyper Cutter"
+			"Hyper Cutter",
+			"Intimidate"
 		],
 		"Moves": [
 			{
@@ -12265,7 +12287,6 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
 			"Shell Armor"
 		],
 		"Moves": [
@@ -12391,7 +12412,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Limber"
+			"Shadow Tag"
 		],
 		"Moves": [
 			{
@@ -12476,12 +12497,10 @@
 				"Stone": "Fire Stone"
 			},
 			{
-				"Into": "Espeon",
-				"UnknownCondition": "It evolves from Eevee when leveled up with high friendship during the day (in the main series games) or when leveled up with high friendship with a Sun Shard in the Bag (in Pokémon XD: Gale of Darkness). It is one of Eevee's final forms, the others being Vaporeon, Jolteon, Flareon, Umbreon, Leafeon, Glaceon, and Sylveon."
+				"Into": "Espeon"
 			},
 			{
-				"Into": "Umbreon",
-				"UnknownCondition": "It evolves from Eevee when leveled up with high friendship during the night (in the main series games) or when leveled up with high friendship with a Moon Shard in the Bag (in Pokémon XD: Gale of Darkness). It is one of Eevee's final forms, the others being Vaporeon, Jolteon, Flareon, Espeon, Leafeon, Glaceon, and Sylveon."
+				"Into": "Umbreon"
 			}
 		],
 		"FoundAt": [
@@ -12517,7 +12536,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb"
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -12602,7 +12621,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Volt Absorb"
+			"Static"
 		],
 		"Moves": [
 			{
@@ -12682,7 +12701,7 @@
 			"Fire"
 		],
 		"Abilities": [
-			"Flash Fire"
+			"Flame Body"
 		],
 		"Moves": [
 			{
@@ -12827,8 +12846,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Porygon2",
-				"Trade": true
+				"Into": "Porygon2"
 			}
 		],
 		"FoundAt": [
@@ -13382,8 +13400,8 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Thick Fat",
-			"Immunity"
+			"Guts",
+			"Thick Fat"
 		],
 		"Moves": [
 			{
@@ -13439,10 +13457,6 @@
 				"Level": "51"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Munchlax",
-			"UnknownCondition": "It evolves from Munchlax when leveled up with high friendship."
-		},
 		"FoundAt": [
 			{
 				"Location": "Safari Zone - Area 3 Northwest",
@@ -13819,7 +13833,8 @@
 			"Dragon"
 		],
 		"Abilities": [
-			"Inner Focus"
+			"Thick Fat",
+			"Shed Skin"
 		],
 		"Moves": [
 			{
@@ -13902,7 +13917,8 @@
 			"Psychic"
 		],
 		"Abilities": [
-			"Pressure"
+			"Pressure",
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -14171,6 +14187,7 @@
 			"Grass"
 		],
 		"Abilities": [
+			"Thick Fat",
 			"Overgrow"
 		],
 		"Moves": [
@@ -14660,6 +14677,7 @@
 			"Water"
 		],
 		"Abilities": [
+			"Battle Armor",
 			"Torrent"
 		],
 		"Moves": [
@@ -14800,7 +14818,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Run Away",
+			"Early Bird",
 			"Keen Eye"
 		],
 		"Moves": [
@@ -14870,7 +14888,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Run Away",
+			"Early Bird",
 			"Keen Eye"
 		],
 		"Moves": [
@@ -15506,7 +15524,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Golbat",
-			"UnknownCondition": "It evolves from Golbat when leveled up with high friendship. It is the final form of Zubat."
+			"Friendship": "High"
 		},
 		"FoundAt": [
 			{
@@ -15894,8 +15912,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Pikachu",
-				"UnknownCondition": "It evolves from Pichu when leveled up with high friendship and evolves into Raichu when exposed to a Thunder Stone."
+				"Into": "Pikachu"
 			}
 		],
 		"FoundAt": [
@@ -15957,8 +15974,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Clefairy",
-				"UnknownCondition": "It evolves from Cleffa when leveled up with high friendship and evolves into Clefable when exposed to a Moon Stone."
+				"Into": "Clefairy"
 			}
 		],
 		"FoundAt": [
@@ -16020,8 +16036,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Jigglypuff",
-				"UnknownCondition": "It evolves from Igglybuff when leveled up with high friendship and evolves into Wigglytuff when exposed to a Moon Stone."
+				"Into": "Jigglypuff"
 			}
 		],
 		"FoundAt": [
@@ -16094,8 +16109,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Togetic",
-				"UnknownCondition": "It evolves from Togepi when leveled up with high friendship and evolves into Togekiss when exposed to a Shiny Stone."
+				"Into": "Togetic"
 			}
 		],
 		"FoundAt": [
@@ -16169,7 +16183,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Togepi",
-			"UnknownCondition": "It evolves from Togepi when leveled up with high friendship and evolves into Togekiss when exposed to a Shiny Stone."
+			"Friendship": "High"
 		},
 		"FoundAt": [
 			{
@@ -16710,7 +16724,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Azurill",
-			"UnknownCondition": "It evolves from Azurill when leveled up with high friendship and evolves into Azumarill starting at level 18."
+			"Friendship": "High"
 		},
 		"EvolvesInto": [
 			{
@@ -16902,10 +16916,6 @@
 				"Level": "57"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Bonsly",
-			"UnknownCondition": "It evolves from Bonsly when leveled up while knowing Mimic."
-		},
 		"FoundAt": [
 			{
 				"Location": "Fallarbor Town",
@@ -16939,8 +16949,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -17278,8 +17287,8 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Run Away",
-			"Pickup"
+			"Vital Spirit",
+			"Own Tempo"
 		],
 		"Moves": [
 			{
@@ -17553,8 +17562,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Oblivious",
+			"Water Absorb"
 		],
 		"Moves": [
 			{
@@ -17633,8 +17642,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Damp"
+			"Oblivious",
+			"Water Absorb"
 		],
 		"Moves": [
 			{
@@ -17765,7 +17774,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Eevee",
-			"UnknownCondition": "It evolves from Eevee when leveled up with high friendship during the day (in the main series games) or when leveled up with high friendship with a Sun Shard in the Bag (in Pokémon XD: Gale of Darkness). It is one of Eevee's final forms, the others being Vaporeon, Jolteon, Flareon, Umbreon, Leafeon, Glaceon, and Sylveon."
+			"Evolution": {
+				"From": "Eevee",
+				"Stone": "Sun Stone"
+			}
 		},
 		"FoundAt": [
 			{
@@ -17850,7 +17862,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Eevee",
-			"UnknownCondition": "It evolves from Eevee when leveled up with high friendship during the night (in the main series games) or when leveled up with high friendship with a Moon Shard in the Bag (in Pokémon XD: Gale of Darkness). It is one of Eevee's final forms, the others being Vaporeon, Jolteon, Flareon, Espeon, Leafeon, Glaceon, and Sylveon."
+			"Evolution": {
+				"From": "Eevee",
+				"Stone": "Moon Stone"
+			}
 		},
 		"FoundAt": [
 			{
@@ -17961,8 +17976,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Own Tempo",
-			"Oblivious"
+			"Natural Cure",
+			"Own Tempo"
 		],
 		"Moves": [
 			{
@@ -18008,7 +18023,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Slowpoke",
-			"Trade": true
+			"Evolution": {
+				"From": "Slowpoke",
+				"Stone": "Water Stone"
+			}
 		},
 		"FoundAt": [
 			{
@@ -18283,7 +18301,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Wynaut",
-			"Level": "15"
+			"Evolution": {
+				"From": "Wynaut",
+				"Level": "64"
+			}
 		},
 		"FoundAt": [
 			{
@@ -18885,7 +18906,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Onix",
-			"Trade": true
+			"Evolution": {
+				"From": "Onix",
+				"Level": "45"
+			}
 		},
 		"FoundAt": [
 			{
@@ -19356,7 +19380,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Scyther",
-			"Trade": true
+			"Evolution": {
+				"From": "Scyther",
+				"Level": "50"
+			}
 		},
 		"FoundAt": [
 			{
@@ -19387,6 +19414,7 @@
 			"Bug"
 		],
 		"Abilities": [
+			"Shell Armor",
 			"Sturdy"
 		],
 		"Moves": [
@@ -19628,7 +19656,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Pickup"
+			"Guts"
 		],
 		"Moves": [
 			{
@@ -19838,8 +19866,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Magcargo",
-				"Level": "38"
+				"Into": "Magcargo"
 			}
 		],
 		"FoundAt": [
@@ -19866,7 +19893,6 @@
 			"Fire"
 		],
 		"Abilities": [
-			"Magma Armor",
 			"Flame Body"
 		],
 		"Moves": [
@@ -19917,7 +19943,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Slugma",
-			"Level": "38"
+			"Evolution": {
+				"From": "Slugma",
+				"Level": "16"
+			}
 		},
 		"FoundAt": [
 			{
@@ -20054,7 +20083,8 @@
 			"Ice"
 		],
 		"Abilities": [
-			"Oblivious"
+			"Oblivious",
+			"Thick Fat"
 		],
 		"Moves": [
 			{
@@ -20584,8 +20614,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Absorb",
-			"Swift Swim"
+			"Swift Swim",
+			"Water Veil"
 		],
 		"Moves": [
 			{
@@ -20625,10 +20655,6 @@
 				"Level": "50"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Mantyke",
-			"UnknownCondition": "It evolves from Mantyke when leveled up with a Remoraid in the party."
-		},
 		"FoundAt": [
 			{
 				"Location": "Route 103",
@@ -20867,7 +20893,6 @@
 			"Dark"
 		],
 		"Abilities": [
-			"Flash Fire",
 			"Early Bird"
 		],
 		"Moves": [
@@ -20914,8 +20939,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Houndoom",
-				"Level": "24"
+				"Into": "Houndoom"
 			}
 		],
 		"FoundAt": [
@@ -20957,8 +20981,8 @@
 			"Dark"
 		],
 		"Abilities": [
-			"Flash Fire",
-			"Early Bird"
+			"Early Bird",
+			"Intimidate"
 		],
 		"Moves": [
 			{
@@ -21008,7 +21032,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Houndour",
-			"Level": "24"
+			"Evolution": {
+				"From": "Houndour",
+				"Level": "66"
+			}
 		},
 		"FoundAt": [
 			{
@@ -21099,7 +21126,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Seadra",
-			"Trade": true
+			"Evolution": {
+				"From": "Seadra",
+				"Level": "55"
+			}
 		},
 		"FoundAt": [
 			{
@@ -21149,7 +21179,7 @@
 			"Ground"
 		],
 		"Abilities": [
-			"Pickup"
+			"Cute Charm"
 		],
 		"Moves": [
 			{
@@ -21243,6 +21273,7 @@
 			"Ground"
 		],
 		"Abilities": [
+			"Battle Armor",
 			"Sturdy"
 		],
 		"Moves": [
@@ -21370,7 +21401,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Porygon",
-			"Trade": true
+			"Evolution": {
+				"From": "Porygon",
+				"Level": "42"
+			}
 		},
 		"FoundAt": [
 			{
@@ -22070,7 +22104,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Chansey",
-			"UnknownCondition": "It evolves from Chansey when leveled up with high friendship. It is the final form of Happiny."
+			"Friendship": "High"
 		},
 		"FoundAt": [
 			{
@@ -22100,6 +22134,7 @@
 			"Electric"
 		],
 		"Abilities": [
+			"Lightning Rod",
 			"Pressure"
 		],
 		"Moves": [
@@ -22161,6 +22196,7 @@
 			"Fire"
 		],
 		"Abilities": [
+			"Inner Focus",
 			"Pressure"
 		],
 		"Moves": [
@@ -22222,6 +22258,7 @@
 			"Water"
 		],
 		"Abilities": [
+			"Battle Armor",
 			"Pressure"
 		],
 		"Moves": [
@@ -22444,7 +22481,7 @@
 			"Rock"
 		],
 		"Abilities": [
-			"Sand Stream"
+			"Intimidate"
 		],
 		"Moves": [
 			{
@@ -22529,7 +22566,8 @@
 			"Psychic"
 		],
 		"Abilities": [
-			"Pressure"
+			"Pressure",
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -22982,6 +23020,7 @@
 			"Fire"
 		],
 		"Abilities": [
+			"Speed Boost",
 			"Blaze"
 		],
 		"Moves": [
@@ -23445,6 +23484,7 @@
 			"Water"
 		],
 		"Abilities": [
+			"Swift Swim",
 			"Torrent"
 		],
 		"Moves": [
@@ -23723,7 +23763,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Pickup"
+			"Guts"
 		],
 		"Moves": [
 			{
@@ -23808,7 +23848,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Pickup"
+			"Guts"
 		],
 		"Moves": [
 			{
@@ -24854,7 +24894,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Keen Eye"
+			"Keen Eye",
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -24972,7 +25013,6 @@
 			"Psychic"
 		],
 		"Abilities": [
-			"Trace",
 			"Synchronize"
 		],
 		"Moves": [
@@ -25066,7 +25106,6 @@
 			"Psychic"
 		],
 		"Abilities": [
-			"Trace",
 			"Synchronize"
 		],
 		"Moves": [
@@ -26063,7 +26102,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Soundproof"
+			"Vital Spirit"
 		],
 		"Moves": [
 			{
@@ -26140,7 +26179,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Soundproof"
+			"Vital Spirit"
 		],
 		"Moves": [
 			{
@@ -26229,7 +26268,7 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Soundproof"
+			"Vital Spirit"
 		],
 		"Moves": [
 			{
@@ -26559,8 +26598,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Marill",
-				"UnknownCondition": "It evolves from Azurill when leveled up with high friendship and evolves into Azumarill starting at level 18."
+				"Into": "Marill"
 			}
 		],
 		"FoundAt": [
@@ -26587,7 +26625,7 @@
 		],
 		"Abilities": [
 			"Sturdy",
-			"Magnet Pull"
+			"Battle Armor"
 		],
 		"Moves": [
 			{
@@ -26798,7 +26836,7 @@
 			"Dark"
 		],
 		"Abilities": [
-			"Keen Eye"
+			"Pressure"
 		],
 		"Moves": [
 			{
@@ -27019,8 +27057,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Lairon",
-				"Level": "32"
+				"Into": "Lairon"
 			}
 		],
 		"FoundAt": [
@@ -27124,7 +27161,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Aron",
-			"Level": "32"
+			"Evolution": {
+				"From": "Aron",
+				"Level": "25"
+			}
 		},
 		"EvolvesInto": [
 			{
@@ -27544,7 +27584,7 @@
 			"Electric"
 		],
 		"Abilities": [
-			"Static",
+			"Intimidate",
 			"Lightning Rod"
 		],
 		"Moves": [
@@ -27814,8 +27854,7 @@
 			"Bug"
 		],
 		"Abilities": [
-			"Swarm",
-			"Illuminate"
+			"Swarm"
 		],
 		"Moves": [
 			{
@@ -28025,10 +28064,6 @@
 				"Level": "57"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Budew",
-			"UnknownCondition": "It evolves from Budew when leveled up with high friendship during the day and evolves into Roserade when exposed to a Shiny Stone."
-		},
 		"FoundAt": [
 			{
 				"Location": "Rustboro City",
@@ -28624,7 +28659,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Veil",
+			"Pressure",
 			"Oblivious"
 		],
 		"Moves": [
@@ -28679,8 +28714,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Wailord",
-				"Level": "40"
+				"Into": "Wailord"
 			}
 		],
 		"FoundAt": [
@@ -28766,7 +28800,7 @@
 			"Water"
 		],
 		"Abilities": [
-			"Water Veil",
+			"Pressure",
 			"Oblivious"
 		],
 		"Moves": [
@@ -28833,7 +28867,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Wailmer",
-			"Level": "40"
+			"Evolution": {
+				"From": "Wailmer",
+				"Level": "70"
+			}
 		},
 		"FoundAt": [
 			{
@@ -29081,7 +29118,8 @@
 			"Fire"
 		],
 		"Abilities": [
-			"White Smoke"
+			"White Smoke",
+			"Shell Armor"
 		],
 		"Moves": [
 			{
@@ -29257,8 +29295,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Grumpig",
-				"Level": "32"
+				"Into": "Grumpig"
 			}
 		],
 		"FoundAt": [
@@ -29388,7 +29425,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Spoink",
-			"Level": "32"
+			"Evolution": {
+				"From": "Spoink",
+				"Level": "27"
+			}
 		},
 		"FoundAt": [
 			{
@@ -29859,8 +29899,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Cacturne",
-				"Level": "32"
+				"Into": "Cacturne"
 			}
 		],
 		"FoundAt": [
@@ -29958,7 +29997,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Cacnea",
-			"Level": "32"
+			"Evolution": {
+				"From": "Cacnea",
+				"Level": "29"
+			}
 		},
 		"FoundAt": [
 			{
@@ -30193,7 +30235,8 @@
 			"Normal"
 		],
 		"Abilities": [
-			"Immunity"
+			"Immunity",
+			"Guts"
 		],
 		"Moves": [
 			{
@@ -30726,7 +30769,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Oblivious"
+			"Oblivious",
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -30915,8 +30959,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Crawdaunt",
-				"Level": "30"
+				"Into": "Crawdaunt"
 			}
 		],
 		"FoundAt": [
@@ -31031,7 +31074,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Corphish",
-			"Level": "30"
+			"Evolution": {
+				"From": "Corphish",
+				"Level": "25"
+			}
 		},
 		"FoundAt": [
 			{
@@ -31773,8 +31819,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Milotic",
-				"UnknownCondition": "It evolves from Feebas when leveled up with its Beautiful condition high enough, or (from Generation V onward) when traded holding a Prism Scale."
+				"Into": "Milotic"
 			}
 		],
 		"FoundAt": [
@@ -31815,7 +31860,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Marvel Scale"
+			"Marvel Scale",
+			"Swift Swim"
 		],
 		"Moves": [
 			{
@@ -31865,7 +31911,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Feebas",
-			"UnknownCondition": "It evolves from Feebas when leveled up with its Beautiful condition high enough, or (from Generation V onward) when traded holding a Prism Scale."
+			"Beauty": "High"
 		},
 		"FoundAt": [
 			{
@@ -32330,8 +32376,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Dusclops",
-				"Level": "37"
+				"Into": "Dusclops"
 			}
 		],
 		"FoundAt": [
@@ -32377,7 +32422,8 @@
 			"Ghost"
 		],
 		"Abilities": [
-			"Pressure"
+			"Pressure",
+			"Keen Eye"
 		],
 		"Moves": [
 			{
@@ -32439,7 +32485,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Duskull",
-			"Level": "37"
+			"Evolution": {
+				"From": "Duskull",
+				"Level": "65"
+			}
 		},
 		"FoundAt": [
 			{
@@ -32618,10 +32667,6 @@
 				"Level": "46"
 			}
 		],
-		"EvolvesFrom": {
-			"From": "Chingling",
-			"UnknownCondition": "It evolves from Chingling when leveled up with high friendship during the night."
-		},
 		"FoundAt": [
 			{
 				"Location": "Route 116",
@@ -32815,8 +32860,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Wobbuffet",
-				"Level": "15"
+				"Into": "Wobbuffet"
 			}
 		],
 		"FoundAt": [
@@ -32934,7 +32978,8 @@
 			"Ice"
 		],
 		"Abilities": [
-			"Inner Focus"
+			"Inner Focus",
+			"Intimidate"
 		],
 		"Moves": [
 			{
@@ -33096,8 +33141,7 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Sealeo",
-				"Level": "32"
+				"Into": "Sealeo"
 			}
 		],
 		"FoundAt": [
@@ -33232,7 +33276,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Spheal",
-			"Level": "32"
+			"Evolution": {
+				"From": "Spheal",
+				"Level": "25"
+			}
 		},
 		"EvolvesInto": [
 			{
@@ -33319,7 +33366,8 @@
 			"Ice"
 		],
 		"Abilities": [
-			"Thick Fat"
+			"Thich Fat",
+			"Rain Dish"
 		],
 		"Moves": [
 			{
@@ -33494,12 +33542,10 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Huntail",
-				"Trade": true
+				"Into": "Huntail"
 			},
 			{
-				"Into": "Gorebyss",
-				"Trade": true
+				"Into": "Gorebyss"
 			}
 		],
 		"FoundAt": [
@@ -33593,7 +33639,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Clamperl",
-			"Trade": true
+			"Evolution": {
+				"From": "Clamperl",
+				"Level": "24"
+			}
 		},
 		"FoundAt": [
 			{
@@ -33706,7 +33755,10 @@
 		],
 		"EvolvesFrom": {
 			"From": "Clamperl",
-			"Trade": true
+			"Evolution": {
+				"From": "Clamperl",
+				"Stone": "Water Stone"
+			}
 		},
 		"FoundAt": [
 			{
@@ -34870,7 +34922,8 @@
 			"Water"
 		],
 		"Abilities": [
-			"Drizzle"
+			"Pressure",
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -34935,7 +34988,8 @@
 			"Ground"
 		],
 		"Abilities": [
-			"Drought"
+			"Rock Head",
+			"Run Away"
 		],
 		"Moves": [
 			{
@@ -35001,7 +35055,8 @@
 			"Dragon"
 		],
 		"Abilities": [
-			"Air Lock"
+			"Pressure",
+			"Run Away"
 		],
 		"Moves": [
 			{

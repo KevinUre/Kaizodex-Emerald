@@ -1,0 +1,84 @@
+Drill Run
+Replaces: Horn Drill
+Type: Ground
+BP: 80
+Accuracy: 100%
+Effects: High crit ratio
+
+Earth Power
+Replaces: Fissure
+Type: Ground
+BP: 90
+Accuracy: 100%
+Effects: 30% chance of lowering opponent’s defence
+
+Gunk Shot
+Replaces: Sludge
+Type: Poison
+BP: 120
+Accuracy: 100%
+Effects: 30% chance of poisoning opponent
+
+Head Smash
+Replaces: Skull Bash
+Type: Rock
+BP: 150
+Accuracy: 100%
+Effects: ⅓ Recoil
+
+Wild Charge
+Replaces: Spark
+Type: Electric
+BP: 90
+Accuracy: 100%
+Effect: ⅓ Recoil, Has a 10% chance of paralyzing the opponent
+
+X-Scissors
+Replaces: Fury Cutter
+Type: Bug
+BP: 80
+Accuracy: 100%
+Effect: High crit ratio
+
+Draco Meteor
+Replaces: Eruption
+Type: Dragon
+BP: 120
+Accuracy: 100%
+Effect: ⅓ recoil damage
+
+Force Palm
+Replaces: Arm Thrust
+Type: Fighting
+BP: 60
+Accuracy: 100%
+Effect: has a 30% chance of Paralyzing the opponent
+
+Shadow Sneak
+Replaces: Astonish
+Type: Ghost
+BP: 40
+Accuracy: 100%
+Effect: Priority move
+
+Air Slash
+Replaces: Air Cutter
+Type: Flying
+BP: 80
+Accuracy: 100%
+Effect: 30% Flinch Rate
+
+Flash Cannon
+Replaces: Metal Sound
+Type: Steel
+BP: 90
+Accuracy: 100%
+Effect: 30% chance to lower opponent’s defence
+
+Ice Shard
+Replaces: Icicle Spear
+Type: Ice
+BP: 40
+Accuracy: 100%
+Effect: priority move
+
