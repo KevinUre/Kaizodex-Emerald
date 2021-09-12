@@ -1,306 +1,3392 @@
 [
 	{
-		"Name": "Air Lock",
-		"Description": "While this Pokemon is active, the effects of weather conditions are disabled."
-	},
-	{
-		"Name": "Arena Trap",
-		"Description": "Prevents adjacent opposing Pokemon from choosing to switch out unless they are immune to trapping or are airborne."
-	},
-	{
-		"Name": "Battle Armor",
-		"Description": "This Pokemon cannot be struck by a critical hit."
-	},
-	{
-		"Name": "Blaze",
-		"Description": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Fire-type attacks have their power multiplied by 1.5."
-	},
-	{
-		"Name": "Chlorophyll",
-		"Description": "If Sunny Day is active, this Pokemon's Speed is doubled."
-	},
-	{
-		"Name": "Clear Body",
-		"Description": "Prevents other Pokemon from lowering this Pokemon's stat stages."
-	},
-	{
-		"Name": "Cloud Nine",
-		"Description": "While this Pokemon is active, the effects of weather conditions are disabled."
-	},
-	{
-		"Name": "Color Change",
-		"Description": "This Pokemon's type changes to match the type of the last move that hit it, unless that type is already one of its types. This effect applies after each hit from a multi-hit move. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Compound Eyes",
-		"Description": "This Pokemon's moves have their accuracy multiplied by 1.3."
-	},
-	{
-		"Name": "Cute Charm",
-		"Description": "There is a 1/3 chance a Pokemon making contact with this Pokemon will become infatuated if it is of the opposite gender. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Damp",
-		"Description": "While this Pokemon is active, Explosion, Self-Destruct, and the Aftermath Ability are prevented from having an effect."
-	},
-	{
-		"Name": "Drizzle",
-		"Description": "On switch-in, this Pokemon summons Rain Dance."
-	},
-	{
-		"Name": "Drought",
-		"Description": "On switch-in, this Pokemon summons Sunny Day."
-	},
-	{
-		"Name": "Early Bird",
-		"Description": "This Pokemon's sleep counter drops by 2 instead of 1."
-	},
-	{
-		"Name": "Effect Spore",
-		"Description": "10% chance a Pokemon making contact with this Pokemon will be poisoned, paralyzed, or fall asleep. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Flame Body",
-		"Description": "1/3 chance a Pokemon making contact with this Pokemon will be burned. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Flash Fire",
-		"Description": "This Pokemon is immune to Fire-type moves, as long as it is not frozen. The first time it is hit by a Fire-type move, damage from its Fire-type attacks will be multiplied by 1.5 as long as it remains active and has this Ability. If this Pokemon has a non-volatile status condition, is a Fire type, or has a substitute, Will-O-Wisp will not activate this Ability."
-	},
-	{
-		"Name": "Forecast",
-		"Description": "If this Pokemon is a Castform, its type changes to the current weather condition's type, except Sandstorm."
-	},
-	{
-		"Name": "Guts",
-		"Description": "If this Pokemon has a non-volatile status condition, its Attack is multiplied by 1.5; burn's physical damage halving is ignored."
-	},
-	{
-		"Name": "Huge Power",
-		"Description": "This Pokemon's Attack is doubled."
-	},
-	{
-		"Name": "Hustle",
-		"Description": "This Pokemon's Attack is multiplied by 1.5 and the accuracy of its physical attacks is multiplied by 0.8."
-	},
-	{
-		"Name": "Hyper Cutter",
-		"Description": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage."
-	},
-	{
-		"Name": "Illuminate",
-		"Description": "No competitive use."
-	},
-	{
-		"Name": "Immunity",
-		"Description": "This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it."
-	},
-	{
-		"Name": "Inner Focus",
-		"Description": "This Pokemon cannot be made to flinch."
-	},
-	{
-		"Name": "Insomnia",
-		"Description": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it."
-	},
-	{
-		"Name": "Intimidate",
-		"Description": "On switch-in, this Pokemon lowers the Attack of adjacent opposing Pokemon by 1 stage. Pokemon behind a substitute are immune."
-	},
-	{
-		"Name": "Keen Eye",
-		"Description": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage."
-	},
-	{
-		"Name": "Levitate",
-		"Description": "This Pokemon is immune to Ground-type attacks and the effects of Spikes and the Arena Trap Ability."
-	},
-	{
-		"Name": "Lightning Rod",
-		"Description": "If this Pokemon is not the target of a single-target Electric-type move used by an opposing Pokemon, this Pokemon redirects that move to itself. This effect considers Hidden Power a Normal-type move."
-	},
-	{
-		"Name": "Limber",
-		"Description": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
-	},
-	{
-		"Name": "Liquid Ooze",
-		"Description": "This Pokemon damages those draining HP from it for as much as they would heal."
-	},
-	{
-		"Name": "Magma Armor",
-		"Description": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it."
-	},
-	{
-		"Name": "Magnet Pull",
-		"Description": "Prevents adjacent opposing Steel-type Pokemon from choosing to switch out unless they are immune to trapping."
-	},
-	{
-		"Name": "Marvel Scale",
-		"Description": "If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5."
-	},
-	{
-		"Name": "Minus",
-		"Description": "If an active Pokemon has the Plus Ability, this Pokemon's Special Attack is multiplied by 1.5."
-	},
-	{
-		"Name": "Natural Cure",
-		"Description": "This Pokemon has its non-volatile status condition cured when it switches out."
-	},
-	{
-		"Name": "Oblivious",
-		"Description": "This Pokemon cannot be infatuated. Gaining this Ability while infatuated cures it."
-	},
-	{
-		"Name": "Overgrow",
-		"Description": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Grass-type attacks have their power multiplied by 1.5."
-	},
-	{
-		"Name": "Own Tempo",
-		"Description": "This Pokemon cannot be confused. Gaining this Ability while confused cures it."
-	},
-	{
-		"Name": "Pickup",
-		"Description": "No competitive use."
-	},
-	{
-		"Name": "Plus",
-		"Description": "If an active Pokemon has the Minus Ability, this Pokemon's Special Attack is multiplied by 1.5."
-	},
-	{
-		"Name": "Poison Point",
-		"Description": "1/3 chance a Pokemon making contact with this Pokemon will be poisoned. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Pressure",
-		"Description": "If this Pokemon is the target of another Pokemon's move, that move loses one additional PP."
-	},
-	{
-		"Name": "Pure Power",
-		"Description": "This Pokemon's Attack is doubled."
-	},
-	{
-		"Name": "Rain Dish",
-		"Description": "If Rain Dance is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn."
-	},
-	{
-		"Name": "Rock Head",
-		"Description": "This Pokemon does not take recoil damage besides Struggle, Life Orb, and crash damage."
-	},
-	{
-		"Name": "Rough Skin",
-		"Description": "Pokemon making contact with this Pokemon lose 1/16 of their maximum HP, rounded down. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Run Away",
-		"Description": "No competitive use."
-	},
-	{
-		"Name": "Sand Stream",
-		"Description": "On switch-in, this Pokemon summons Sandstorm."
-	},
-	{
-		"Name": "Sand Veil",
-		"Description": "If Sandstorm is active, this Pokemon's evasiveness is multiplied by 1.25. This Pokemon takes no damage from Sandstorm."
-	},
-	{
-		"Name": "Serene Grace",
-		"Description": "This Pokemon's moves have their secondary effect chance doubled."
-	},
-	{
-		"Name": "Shadow Tag",
-		"Description": "Prevents opposing Pokemon from choosing to switch out."
-	},
-	{
-		"Name": "Shed Skin",
-		"Description": "This Pokemon has a 33% chance to have its non-volatile status condition cured at the end of each turn."
-	},
-	{
-		"Name": "Shell Armor",
-		"Description": "This Pokemon cannot be struck by a critical hit."
-	},
-	{
-		"Name": "Shield Dust",
-		"Description": "This Pokemon is not affected by the secondary effect of another Pokemon's attack."
-	},
-	{
-		"Name": "Soundproof",
-		"Description": "This Pokemon is immune to sound-based moves, including Heal Bell."
-	},
-	{
-		"Name": "Speed Boost",
-		"Description": "This Pokemon's Speed is raised by 1 stage at the end of each full turn it has been on the field."
-	},
-	{
-		"Name": "Static",
-		"Description": "1/3 chance a Pokemon making contact with this Pokemon will be paralyzed. This effect does not happen if this Pokemon did not lose HP from the attack."
-	},
-	{
-		"Name": "Stench",
-		"Description": "No competitive use."
-	},
-	{
-		"Name": "Sticky Hold",
-		"Description": "This Pokemon cannot lose its held item due to another Pokemon's attack."
-	},
-	{
-		"Name": "Sturdy",
-		"Description": "OHKO moves fail when used against this Pokemon."
-	},
-	{
-		"Name": "Suction Cups",
-		"Description": "This Pokemon cannot be forced to switch out by another Pokemon's attack or item."
-	},
-	{
-		"Name": "Swarm",
-		"Description": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Bug-type attacks have their power multiplied by 1.5."
-	},
-	{
-		"Name": "Swift Swim",
-		"Description": "If Rain Dance is active, this Pokemon's Speed is doubled."
-	},
-	{
-		"Name": "Synchronize",
-		"Description": "If another Pokemon burns, paralyzes, or poisons this Pokemon, that Pokemon receives the same non-volatile status condition. If another Pokemon badly poisons this Pokemon, that Pokemon becomes poisoned."
-	},
-	{
-		"Name": "Thick Fat",
-		"Description": "If a Pokemon uses a Fire- or Ice-type attack against this Pokemon, that Pokemon's attacking stat is halved when calculating the damage to this Pokemon."
-	},
-	{
-		"Name": "Torrent",
-		"Description": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Water-type attacks have their power multiplied by 1.5."
-	},
-	{
-		"Name": "Trace",
-		"Description": "On switch-in, or when this Pokemon acquires this ability, this Pokemon copies a random adjacent opposing Pokemon's Ability. However, if one or more adjacent Pokemon has the Ability &quot;No Ability&quot;, Trace won't copy anything even if there is another valid Ability it could normally copy. Otherwise, if there is no Ability that can be copied at that time, this Ability will activate as soon as an Ability can be copied. Abilities that cannot be copied are the previously mentioned &quot;No Ability&quot;, as well as Battle Bond, Comatose, Disguise, Flower Gift, Forecast, Illusion, Imposter, Multitype, Power Construct, Power of Alchemy, Receiver, RKS System, Schooling, Shields Down, Stance Change, Trace, and Zen Mode."
-	},
-	{
-		"Name": "Truant",
-		"Description": "This Pokemon skips every other turn instead of using a move."
-	},
-	{
-		"Name": "Vital Spirit",
-		"Description": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it."
-	},
-	{
-		"Name": "Volt Absorb",
-		"Description": "This Pokemon is immune to damaging Electric-type moves and restores 1/4 of its maximum HP, rounded down, when hit by one."
-	},
-	{
-		"Name": "Water Absorb",
-		"Description": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move."
-	},
-	{
-		"Name": "Water Veil",
-		"Description": "This Pokemon cannot be burned. Gaining this Ability while burned cures it."
-	},
-	{
-		"Name": "White Smoke",
-		"Description": "Prevents other Pokemon from lowering this Pokemon's stat stages."
-	},
-	{
-		"Name": "Wonder Guard",
-		"Description": "This Pokemon is only damaged by supereffective moves and indirect damage."
+		"Name": "Pound",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Karate Chop",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Double Slap",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "85",
+		"PP": "10",
+		"Description": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mega Punch",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "85",
+		"PP": "20",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Pay Day",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fire Punch",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Has a 10% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Ice Punch",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Has a 10% chance to freeze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thunder Punch",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Has a 10% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Scratch",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Guillotine",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "30",
+		"PP": "5",
+		"Description": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Razor Wind",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "This attack charges on the first turn and executes on the second.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Swords Dance",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Raises the user's Attack by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Cut",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Gust",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "Power doubles if the target is using Bounce or Fly.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Wing Attack",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Whirlwind",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The target is forced to switch out and be replaced with a random unfainted ally. Fails if the target is the last unfainted Pokemon in its party, if the target used Ingrain previously or has the Suction Cups Ability, or if the user's level is lower than the target's and X * (user's level + target's level) / 256 + 1 is less than or equal to (target's level / 4), rounded down, where X is a random number from 0 to 255.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fly",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "95",
+		"PP": "15",
+		"Description": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Gust, Sky Uppercut, Thunder, and Twister, and Gust and Twister have doubled power when used against it.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bind",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Slam",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "75",
+		"PP": "20",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Vine Whip",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "35",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Stomp",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "65",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 30% chance to make the target flinch. Damage doubles if the target has used Minimize while active.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Double Kick",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "30",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mega Kick",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "75",
+		"PP": "5",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Jump Kick",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "95",
+		"PP": "25",
+		"Description": "If this attack is not successful and the target was not immune, the user loses HP equal to half of the damage the target would have taken, rounded down, but no less than 1 HP and no more than half of the target's maximum HP, as crash damage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rolling Kick",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 30% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sand Attack",
+		"Type": "Ground",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Headbutt",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Has a 30% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Horn Attack",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "65",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fury Attack",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "85",
+		"PP": "20",
+		"Description": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Drill Run",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "High critical hit ratio.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Tackle",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "35",
+		"Accuracy": "95",
+		"PP": "35",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Body Slam",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "85",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 30% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Wrap",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Take Down",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "85",
+		"PP": "20",
+		"Description": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded down, but not less than 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thrash",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "The user spends two or three turns locked into this move and becomes confused at the end of the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, falls asleep, becomes frozen, or the attack is not successful against the target, the effect ends without causing confusion. If this move is called by Sleep Talk, the move is used for one turn and does not confuse the user.",
+		"Targets": "Opponent [???]"
+	},
+	{
+		"Name": "Double-Edge",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Tail Whip",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "Lowers the target's Defense by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Poison Sting",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "Has a 30% chance to poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Twineedle",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "25",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Hits twice, with each hit having a 20% chance to poison the target. If the first hit breaks the target's substitute, it will take damage for the second hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Pin Missile",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Leer",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "Lowers the target's Defense by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Bite",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 30% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Growl",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "Lowers the target's Attack by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Roar",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The target is forced to switch out and be replaced with a random unfainted ally. Fails if the target is the last unfainted Pokemon in its party, if the target used Ingrain previously or has the Suction Cups Ability, or if the user's level is lower than the target's and X * (user's level + target's level) / 256 + 1 is less than or equal to (target's level / 4), rounded down, where X is a random number from 0 to 255.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sing",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "70",
+		"PP": "32",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Supersonic",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "55",
+		"PP": "20",
+		"Description": "Causes the target to become confused.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sonic Boom",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Deals 20 HP of damage to the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Disable",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "For 2 to 5 turns, the target's last move used becomes disabled. Fails if one of the target's moves is already disabled, if the target has not made a move, if the target no longer knows the move, or if the move has 0 PP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Acid",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Has a 10% chance to lower the target's Defense by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Ember",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 10% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flamethrower",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 10% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mist",
+		"Type": "Ice",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "For 5 turns, the user and its party members are protected from having their stat stages lowered by other Pokemon. Fails if the effect is already active on the user's side.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Water Gun",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Hydro Pump",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "85",
+		"PP": "8",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Surf",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Power doubles if the target is using Dive.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Ice Beam",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 10% chance to freeze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Blizzard",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "70",
+		"PP": "8",
+		"Description": "Has a 10% chance to freeze the target.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Psybeam",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "65",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 10% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bubble Beam",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "65",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 10% chance to lower the target's Speed by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Aurora Beam",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "65",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 10% chance to lower the target's Attack by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Hyper Beam",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Peck",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "35",
+		"Accuracy": "100",
+		"PP": "35",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Drill Peck",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "High critical hit ratio.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Low Kick",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "This move's power is 20 if the target weighs less than 10 kg, 40 if less than 25 kg, 60 if less than 50 kg, 80 if less than 100 kg, 100 if less than 200 kg, and 120 if greater than or equal to 200 kg.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Counter",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "Deals damage to the last opposing Pokemon to hit the user with a physical attack this turn equal to twice the HP lost by the user from that attack. If that opposing Pokemon's position is no longer in use and there is another opposing Pokemon on the field, the damage is done to it instead. This move considers Hidden Power as Normal type, and only the last hit of a multi-hit attack is counted. Fails if the user was not hit by an opposing Pokemon's physical attack this turn, or if the user did not lose HP from the attack.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Seismic Toss",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Deals damage to the target equal to the user's level.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Strength",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Absorb",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "The user recovers 1/2 the HP lost by the target, rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mega Drain",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user recovers 1/2 the HP lost by the target, rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Leech Seed",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "The Pokemon at the user's position steals 1/8 of the target's maximum HP, rounded down, at the end of each turn. If the target uses Baton Pass, the replacement will continue being leeched. If the target switches out or uses Rapid Spin, the effect ends. Grass-type Pokemon are immune to this move on use, but not its effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Growth",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Raises the user's Special Attack by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Razor Leaf",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "55",
+		"Accuracy": "95",
+		"PP": "25",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Solar Beam",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "This attack charges on the first turn and executes on the second. Damage is halved if the weather is Hail, Rain Dance, or Sandstorm. If the weather is Sunny Day, the move completes in one turn.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Poison Powder",
+		"Type": "Poison",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "75",
+		"PP": "35",
+		"Description": "Poisons the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Stun Spore",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "75",
+		"PP": "30",
+		"Description": "Paralyzes the target. This move does not ignore type immunity.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sleep Powder",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "80",
+		"PP": "24",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Petal Dance",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "10% chance to lower the target's Sp. Def.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "String Shot",
+		"Type": "Bug",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's Speed by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Dragon Rage",
+		"Type": "Dragon",
+		"Category": "Special",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Deals 40 HP of damage to the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fire Spin",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thunder Shock",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Has a 10% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thunderbolt",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 10% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thunder Wave",
+		"Type": "Electric",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Paralyzes the target. This move does not ignore type immunity.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thunder",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "70",
+		"PP": "16",
+		"Description": "Has a 30% chance to paralyze the target. This move can hit a target using Bounce or Fly. If the weather is Rain Dance, this move does not check accuracy. If the weather is Sunny Day, this move's accuracy is 50%.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rock Throw",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "90",
+		"PP": "15",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Earthquake",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Power doubles if the target is using Dig.",
+		"Targets": "All"
+	},
+	{
+		"Name": "Earth Power",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "30% chance to lower the target's Defense.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Dig",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Earthquake and Magnitude, which have doubled power when used against it, and is also unaffected by weather.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Toxic",
+		"Type": "Poison",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Badly poisons the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Confusion",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 10% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Psychic",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Hypnosis",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "70",
+		"PP": "24",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Meditate",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Raises the user's Attack by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Agility",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Speed by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Quick Attack",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rage",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Once this move is used and unless the target protected itself, the user's Attack is raised by 1 stage every time it is hit by another Pokemon's attack as long as this move is chosen for use.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Teleport",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "Fails when used.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Night Shade",
+		"Type": "Ghost",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Deals damage to the target equal to the user's level.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mimic",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "While the user remains active, this move is replaced by the last move used by the target. The copied move has 5 PP. Fails if the target has not made a move, if the user has Transformed, if the user already knows the move, or if the move is Metronome, Mimic, Sketch, or Struggle.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Screech",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "85",
+		"PP": "3",
+		"Description": "Lowers the target's Defense by 2 stages.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Double Team",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "6",
+		"Description": "Raises the user's evasiveness by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Recover",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user restores 1/2 of its maximum HP, rounded down.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Harden",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Raises the user's Defense by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Minimize",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "6",
+		"Description": "Raises the user's evasiveness by 1 stage. Whether or not the user's evasiveness was changed, Astonish, Extrasensory, Needle Arm, and Stomp will have their damage doubled if used against the user while it is active.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Smokescreen",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Confuse Ray",
+		"Type": "Ghost",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Causes the target to become confused.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Withdraw",
+		"Type": "Water",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "Raises the user's Defense by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Defense Curl",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "Raises the user's Defense by 1 stage. As long as the user remains active, the power of the user's Ice Ball and Rollout will be doubled (this effect is not stackable).",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Barrier",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Defense by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Light Screen",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "For 5 turns, the user and its party members take 1/2 damage from special attacks, or 2/3 damage if there are multiple active Pokemon on the user's side. Critical hits ignore this effect. It is removed from the user's side if the user or an ally is successfully hit by Brick Break. Fails if the effect is already active on the user's side.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Haze",
+		"Type": "Ice",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Resets the stat stages of all active Pokemon to 0.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Reflect",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "For 5 turns, the user and its party members take 1/2 damage from physical attacks, or 2/3 damage if there are multiple active Pokemon on the user's side. Critical hits ignore this effect. It is removed from the user's side if the user or an ally is successfully hit by Brick Break. Fails if the effect is already active on the user's side.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Focus Energy",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "Raises the user's chance for a critical hit by 2 stages. Fails if the user already has the effect. Baton Pass can be used to transfer this effect to an ally.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Bide",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user spends two turns locked into this move and then, on the second turn after using this move, the user attacks the last Pokemon that hit it, inflicting double the damage in HP it lost during the two turns. If the last Pokemon that hit it is no longer active, the user attacks a random opposing Pokemon instead. If the user is prevented from moving during this move's use, the effect ends. This move does not ignore type immunity.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Metronome",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "35",
+		"Description": "A random move is selected for use, other than Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Metronome, Mimic, Mirror Coat, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief, or Trick.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Mirror Move",
+		"Type": "Flying",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "The user uses the last move that successfully targeted the user. The copied move is used with no specific target. Fails if no move has targeted the user, if the move missed, failed, or had no effect on the user, or if the move cannot be copied by this move.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Self-Destruct",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "200",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "The user faints after using this move. The target's Defense is halved during damage calculation. This move is prevented from executing if any active Pokemon has the Damp Ability.",
+		"Targets": "All"
+	},
+	{
+		"Name": "Egg Bomb",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Lick",
+		"Type": "Ghost",
+		"Category": "Physical",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Has a 30% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Smog",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "20",
+		"Accuracy": "70",
+		"PP": "20",
+		"Description": "Has a 40% chance to poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sludge Bomb",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 30% chance to poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bone Club",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "65",
+		"Accuracy": "85",
+		"PP": "20",
+		"Description": "Has a 10% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fire Blast",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "85",
+		"PP": "8",
+		"Description": "Has a 10% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Waterfall",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "30% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Clamp",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "35",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Swift",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "This move does not check accuracy.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Head Smash",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Amnesia",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Special Defense by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Kinesis",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "6",
+		"Description": "Lowers the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Soft-Boiled",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "The user restores 1/2 of its maximum HP, rounded down.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "High Jump Kick",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "85",
+		"Accuracy": "90",
+		"PP": "20",
+		"Description": "If this attack is not successful and the target was not immune, the user loses HP equal to half of the damage the target would have taken, rounded down, but no less than 1 HP and no more than half of the target's maximum HP, as crash damage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Glare",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Paralyzes the target. This move does not ignore type immunity.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Dream Eater",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "The target is unaffected by this move unless it is asleep and does not have a substitute. The user recovers 1/2 the HP lost by the target, rounded down, but not less than 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Leech Life",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "The user recovers 1/2 the HP lost by the target, rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Lovely Kiss",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "85",
+		"PP": "16",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sky Attack",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Transform",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "32",
+		"Description": "The user transforms into the target. The target's current stats, stat stages, types, moves, Ability, weight, IVs, species, and sprite are copied. The user's level and HP remain the same and each copied move receives only 5 PP. This move fails if the target has transformed.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bubble",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Has a 10% chance to lower the target's Speed by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Dizzy Punch",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "30% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Spore",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flash",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "70",
+		"PP": "5",
+		"Description": "Lowers the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Psywave",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Does damage equal to the user's level.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Acid Armor",
+		"Type": "Poison",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Defense by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Crabhammer",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Explosion",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "250",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "The user faints after using this move. The target's Defense is halved during damage calculation. This move is prevented from executing if any active Pokemon has the Damp Ability.",
+		"Targets": "All"
+	},
+	{
+		"Name": "Fury Swipes",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "18",
+		"Accuracy": "80",
+		"PP": "15",
+		"Description": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bonemerang",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rest",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user falls asleep for the next two turns and restores all of its HP, curing itself of any non-volatile status condition in the process. Fails if the user has full HP, is already asleep, or if another effect is preventing sleep.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Rock Slide",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 30% chance to make the target flinch.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Hyper Fang",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 10% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Conversion",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "30",
+		"Description": "The user's type changes to match the original type of one of its known moves besides Curse, at random, but not either of its current types. Fails if the user cannot change its type, or if this move would only be able to select one of the user's current types.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Tri Attack",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 20% chance to either burn, freeze, or paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Super Fang",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Deals damage to the target equal to half of its current HP, rounded down, but not less than 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Slash",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Substitute",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user takes 1/4 of its maximum HP, rounded down, and puts it into a substitute to take its place in battle. The substitute is removed once enough damage is inflicted on it, or if the user switches out or faints. Baton Pass can be used to transfer the substitute to an ally, and the substitute will keep its remaining HP. Until the substitute is broken, it receives damage from all attacks made by other Pokemon and shields the user from status effects and stat stage changes caused by other Pokemon. The user still takes normal damage from weather and status effects while behind its substitute. If the substitute breaks during a multi-hit attack, the user will take damage from any remaining hits. If a substitute is created while the user is trapped by a binding move, the binding effect ends immediately. Fails if the user does not have enough HP remaining to create a substitute without fainting, or if it already has a substitute.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Struggle",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "Deals typeless damage to a random opposing Pokemon. If this move was successful, the user takes damage equal to 1/4 the HP lost by the target, rounded down, but not less than 1 HP, and the Rock Head Ability does not prevent this. This move is automatically used if none of the user's known moves can be selected.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sketch",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "This move is permanently replaced by the last move used by the target. The copied move has the maximum PP for that move. Fails if the target has not made a move, if the user has Transformed, or if the move is Sketch, Struggle, or any move the user knows.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Thief",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Spider Web",
+		"Type": "Bug",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mind Reader",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Until the end of the next turn, the target cannot avoid the user's moves, even if the target is in the middle of a two-turn move. When this effect is started against the target, this and Lock-On's effects end for every other Pokemon against that target. If the target leaves the field using Baton Pass, the replacement remains under this effect. If the user leaves the field using Baton Pass, this effect is restarted against the same target for the replacement. The effect ends if either the user or the target leaves the field.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Nightmare",
+		"Type": "Ghost",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Causes the target to lose 1/4 of its maximum HP, rounded down, at the end of each turn as long as it is asleep. This move does not affect the target unless it is asleep. The effect ends when the target wakes up, even if it falls asleep again in the same turn.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flame Wheel",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 10% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Snore",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Has a 30% chance to make the target flinch. Fails if the user is not asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Curse",
+		"Type": "Unknown",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "6",
+		"Description": "If the user is not a Ghost type, lowers the user's Speed by 1 stage and raises the user's Attack and Defense by 1 stage. If the user is a Ghost type, the user loses 1/2 of its maximum HP, rounded down and even if it would cause fainting, in exchange for the target losing 1/4 of its maximum HP, rounded down, at the end of each turn while it is active. If the target uses Baton Pass, the replacement will continue to be affected. Fails if there is no target or if the target is already affected or has a substitute.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flail",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The power of this move is 20 if X is 33 to 48, 40 if X is 17 to 32, 80 if X is 10 to 16, 100 if X is 5 to 9, 150 if X is 2 to 4, and 200 if X is 0 or 1, where X is equal to (user's current HP * 48 / user's maximum HP), rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Conversion 2",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "The user's type changes to match a type that resists or is immune to the type of the last move used against the user, if it was successful against the user, but not either of its current types. The determined type of the move is used rather than the original type, but considers Struggle as Normal. Fails if the last move used against the user was not successful, or if this move would only be able to select one of the user's current types.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Aeroblast",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Reversal",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The power of this move is 20 if X is 33 to 48, 40 if X is 17 to 32, 80 if X is 10 to 16, 100 if X is 5 to 9, 150 if X is 2 to 4, and 200 if X is 0 or 1, where X is equal to (user's current HP * 48 / user's maximum HP), rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Spite",
+		"Type": "Ghost",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Causes the target's last move used to lose 2 to 5 PP, at random. Fails if the target has not made a move, if the move has 0 or 1 PP, or if it no longer knows the move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Powder Snow",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 10% chance to freeze the target.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Protect",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user is protected from most attacks made by other Pokemon during this turn. This move has an X/65536 chance of being successful, where X starts at 65535 and halves, rounded down, each time this move is successfully used. After the fourth successful use in a row, X drops to 118 and continues with seemingly random values from 0-65535 on subsequent successful uses. X resets to 65535 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user moves last this turn.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Mach Punch",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Scary Face",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "Lowers the target's Speed by 2 stages.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Feint Attack",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sweet Kiss",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "75",
+		"PP": "10",
+		"Description": "Causes the target to become confused.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Belly Drum",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Attack by 12 stages in exchange for the user losing 1/2 of its maximum HP, rounded down. Fails if the user would faint or if its Attack stat stage is 6.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Gunk Shot",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "30% chance to poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mud-Slap",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a 100% chance to lower the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Octazooka",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 50% chance to lower the target's accuracy by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Spikes",
+		"Type": "Ground",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Sets up a hazard on the opposing side of the field, damaging each opposing Pokemon that switches in, unless it is a Flying-type Pokemon or has the Levitate Ability. Can be used up to three times before failing. Opponents lose 1/8 of their maximum HP with one layer, 1/6 of their maximum HP with two layers, and 1/4 of their maximum HP with three layers, all rounded down. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin successfully.",
+		"Targets": "Your sent out Pokemon"
+	},
+	{
+		"Name": "Zap Cannon",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "100",
+		"Accuracy": "50",
+		"PP": "5",
+		"Description": "Has a 100% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Foresight",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Destiny Bond",
+		"Type": "Ghost",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that Pokemon faints as well, unless the attack was Doom Desire or Future Sight.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Perish Song",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Each active Pokemon receives a perish count of 4 if it doesn't already have a perish count. At the end of each turn including the turn used, the perish count of all active Pokemon lowers by 1 and Pokemon faint if the number reaches 0. The perish count is removed from Pokemon that switch out. If a Pokemon uses Baton Pass while it has a perish count, the replacement will gain the perish count and continue to count down.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Icy Wind",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "55",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 100% chance to lower the target's Speed by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Detect",
+		"Type": "Fighting",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "The user is protected from most attacks made by other Pokemon during this turn. This move has an X/65536 chance of being successful, where X starts at 65535 and halves, rounded down, each time this move is successfully used. After the fourth successful use in a row, X drops to 118 and continues with seemingly random values from 0-65535 on subsequent successful uses. X resets to 65535 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user moves last this turn.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Bone Rush",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Lock-On",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Until the end of the next turn, the target cannot avoid the user's moves, even if the target is in the middle of a two-turn move. When this effect is started against the target, this and Mind Reader's effects end for every other Pokemon against that target. If the target leaves the field using Baton Pass, the replacement remains under this effect. If the user leaves the field using Baton Pass, this effect is restarted against the same target for the replacement. The effect ends if either the user or the target leaves the field.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sandstorm",
+		"Type": "Rock",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "For 5 turns, the weather becomes Sandstorm. At the end of each turn except the last, all active Pokemon lose 1/16 of their maximum HP, rounded down, unless they are a Ground, Rock, or Steel type, or have the Sand Veil Ability. Fails if the current weather is Sandstorm.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Giga Drain",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "The user recovers 1/2 the HP lost by the target, rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Endure",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "The user will survive attacks made by other Pokemon during this turn with at least 1 HP. This move has an X/65536 chance of being successful, where X starts at 65535 and halves, rounded down, each time this move is successfully used. After the fourth successful use in a row, X drops to 118 and continues with seemingly random values from 0-65535 on subsequent successful uses. X resets to 65535 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user moves last this turn.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Charm",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's Attack by 2 stages.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rollout",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "30",
+		"Accuracy": "90",
+		"PP": "20",
+		"Description": "If this move is successful, the user is locked into this move and cannot make another move until it misses, 5 turns have passed, or the attack cannot be used. Power doubles with each successful hit of this move and doubles again if Defense Curl was used previously by the user. If this move is called by Sleep Talk, the move is used for one turn.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "False Swipe",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "40",
+		"Description": "Leaves the target with at least 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Swagger",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "90",
+		"PP": "15",
+		"Description": "Raises the target's Attack by 2 stages and confuses it.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Milk Drink",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user restores 1/2 of its maximum HP, rounded down.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Wild Charge",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has 1/3 recoil. 10% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "X-Scissors",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "High critical hit ratio.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Steel Wing",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "Has a 10% chance to raise the user's Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mean Look",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Attract",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "Causes the target to become infatuated, making it unable to attack 50% of the time. Fails if both the user and the target are the same gender, if either is genderless, or if the target is already infatuated. The effect ends when either the user or the target is no longer active. Pokemon with the Oblivious Ability are immune.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sleep Talk",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "16",
+		"Description": "One of the user's known moves, besides this move, is selected for use at random. Fails if the user is not asleep. The selected move does not have PP deducted from it, but if it currently has 0 PP it will fail to be used. This move cannot select Assist, Bide, Focus Punch, Metronome, Mirror Move, Sleep Talk, Uproar, or any two-turn move.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Heal Bell",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "2",
+		"Description": "Every Pokemon in the user's party is cured of its non-volatile status condition. Pokemon with the Soundproof Ability are not cured.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Return",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "103",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Present",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "90",
+		"PP": "15",
+		"Description": "If this move is successful, it deals damage or heals the target. 40% chance for 40 power, 30% chance for 80 power, 10% chance for 120 power, and 20% chance to heal the target by 1/4 of its maximum HP, rounded down.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Frustration",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "103",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Safeguard",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "For 5 turns, the user and its party members cannot have non-volatile status conditions or confusion inflicted on them by other Pokemon. Pokemon on the user's side cannot become affected by Yawn but can fall asleep from its effect. Fails if the effect is already active on the user's side.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Pain Split",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user and the target's HP become the average of their current HP, rounded down, but not more than the maximum HP of either one.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sacred Fire",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a 50% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Magnitude",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "The power of this move varies. 5% chances for 10 and 150 power, 10% chances for 30 and 110 power, 20% chances for 50 and 90 power, and 30% chance for 70 power. Power doubles if the target is using Dig.",
+		"Targets": "All"
+	},
+	{
+		"Name": "Dynamic Punch",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "50",
+		"PP": "5",
+		"Description": "Has a 100% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Megahorn",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "90",
+		"PP": "16",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Dragon Breath",
+		"Type": "Dragon",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 30% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Baton Pass",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "40",
+		"Description": "The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Encore",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "For 3 to 6 turns, the target is forced to repeat its last move used. If the affected move runs out of PP, the effect ends. Fails if the target is already under this effect, if it has not made a move, if the move has 0 PP, or if the move is Encore, Mimic, Mirror Move, Sketch, Struggle, or Transform.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Pursuit",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "If the target is an opposing Pokemon and it switches out this turn, this move hits that Pokemon before it leaves the field. Power doubles and no accuracy check is done if the user hits an opponent switching out, and the user's turn is over; if an opponent faints from this, the replacement Pokemon becomes active immediately.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rapid Spin",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "If this move is successful, the effects of Leech Seed and binding moves end for the user, and Spikes are removed from the user's side of the field.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sweet Scent",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's evasiveness by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Iron Tail",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "90",
+		"PP": "24",
+		"Description": "30% chance to lower the target's Defense.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Metal Claw",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "95",
+		"PP": "35",
+		"Description": "Has a 10% chance to raise the user's Attack by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Vital Throw",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Morning Sun",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "Heals the user.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Synthesis",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "Heals the user.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Moonlight",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "Heals the user.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Hidden Power",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "This move's type and power depend on the user's individual values (IVs). Power varies between 30 and 70, and type can be any but Normal.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Cross Chop",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "90",
+		"PP": "8",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Twister",
+		"Type": "Dragon",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 20% chance to make the target flinch. Power doubles if the target is using Bounce or Fly.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Rain Dance",
+		"Type": "Water",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "For 5 turns, the weather becomes Rain Dance. The damage of Water-type attacks is multiplied by 1.5 and the damage of Fire-type attacks is multiplied by 0.5 during the effect. Fails if the current weather is Rain Dance.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Sunny Day",
+		"Type": "Fire",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "For 5 turns, the weather becomes Sunny Day. The damage of Fire-type attacks is multiplied by 1.5 and the damage of Water-type attacks is multiplied by 0.5 during the effect. Fails if the current weather is Sunny Day.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Crunch",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 20% chance to lower the target's Special Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mirror Coat",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "Deals damage to the last opposing Pokemon to hit the user with a special attack this turn equal to twice the HP lost by the user from that attack. If that opposing Pokemon's position is no longer in use and there is another opposing Pokemon on the field, the damage is done to it instead. This move considers Hidden Power as Normal type, and only the last hit of a multi-hit attack is counted. Fails if the user was not hit by an opposing Pokemon's special attack this turn, or if the user did not lose HP from the attack.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Psych Up",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "The user copies all of the target's current stat stage changes.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Extreme Speed",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Ancient Power",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Shadow Ball",
+		"Type": "Ghost",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 20% chance to lower the target's Special Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rock Smash",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "50% chance to lower the target's Defense.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Whirlpool",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Beat Up",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "10",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Deals typeless damage. Hits one time for each unfainted Pokemon without a non-volatile status condition in the user's party, or fails if no Pokemon meet the criteria. For each hit, the damage formula uses the participating Pokemon's base Attack as the Attack stat, the target's base Defense as the Defense stat, and ignores stat stages and other effects that modify Attack or Defense; each hit is considered to come from the user.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Fake Out",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Has a 100% chance to make the target flinch. Fails unless it is the user's first turn on the field.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Uproar",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user spends two to five turns locked into this move. This move targets an opposing Pokemon at random on each turn. During effect, no active Pokemon can fall asleep by any means, and Pokemon that are already asleep wake up as their turn starts or at the end of each turn, including the last one. If the user is prevented from moving or the attack is not successful against the target during one of the turns, the effect ends.",
+		"Targets": "Opponent [???]"
+	},
+	{
+		"Name": "Stockpile",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "16",
+		"Description": "Raises the your Pokemon's Defense and Sp. Def by 1 each.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Spit Up",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "No additional effect.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Swallow",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "10",
+		"Description": "Heals the user.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Heat Wave",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "20% chance to burn the target.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Hail",
+		"Type": "Ice",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "1",
+		"Description": "For 5 turns, the weather becomes Hail. At the end of each turn except the last, all active Pokemon lose 1/16 of their maximum HP, rounded down, unless they are an Ice type. Fails if the current weather is Hail.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Torment",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Prevents the target from selecting the same move for use two turns in a row. This effect ends when the target is no longer active.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flatter",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Confuses the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Will-O-Wisp",
+		"Type": "Fire",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "85",
+		"PP": "15",
+		"Description": "Burns the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Memento",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "Lowers the target's Attack and Special Attack by 2 stages. The user faints. This move does not check accuracy, and can hit targets in the middle of a two-turn move. Fails entirely if the target's Attack and Special Attack stat stages are both -6.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Facade",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "Power doubles if the user is burned, paralyzed, or poisoned.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Focus Punch",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "The user loses its focus and does nothing if it is hit by a damaging attack this turn before it can execute the move, but it still loses PP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Smelling Salts",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Damage doubles if the target is paralyzed. If this move is successful, the target is cured of paralysis.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Follow Me",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Until the end of the turn, all single-target attacks from the opposing side are redirected to the user. Such attacks are redirected to the user before they can be reflected by Magic Coat, or drawn in by the Lightning Rod Ability. This effect remains active even if the user leaves the field. Fails if it is not a Double Battle.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Nature Power",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "95",
+		"PP": "20",
+		"Description": "This move calls another move for use depending on the battle terrain. Swift in Wi-Fi battles.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Charge",
+		"Type": "Electric",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "If the user uses an Electric-type attack on the next turn, its power will be doubled.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Taunt",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "No competitive use.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Helping Hand",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "The power of the target's attack this turn is multiplied by 1.5 (this effect is stackable). Fails if there is no ally adjacent to the user or if the ally already moved this turn, but does not fail if the ally is using a two-turn move.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Role Play",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user's Ability changes to match the target's Ability. Fails if the target's Ability is Wonder Guard.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Wish",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "2",
+		"Description": "At the end of the next turn, the Pokemon at the user's position has 1/2 of its maximum HP restored to it, rounded down. Fails if this move is already in effect for the user's position.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Assist",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "A random move among those known by the user's party members is selected for use. Does not select Assist, Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Metronome, Mimic, Mirror Coat, Mirror Move, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief, or Trick.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Ingrain",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "1",
+		"Description": "The user has 1/16 of its maximum HP restored at the end of each turn, but it is prevented from switching out and other Pokemon cannot force the user to switch out. The user can still switch out if it uses Baton Pass, and the replacement will remain trapped and still receive the healing effect.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Superpower",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Magic Coat",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "The user is unaffected by certain non-damaging moves directed at it and will instead use such moves against the original user. If the move targets both opposing Pokemon and the Pokemon under this effect is on the left side, it will reflect the move targeting both opposing Pokemon and its ally will not be affected by the original move; otherwise, if the Pokemon under this effect is on the right side, its ally will be affected by the original move and this Pokemon will reflect the move only targeting the original user. The effect ends once a move is reflected or at the end of the turn. Moves reflected in this way can be reflected again by another Pokemon under this effect. If the user has the Soundproof Ability, it nullifies sound-based moves before this effect happens. The Lightning Rod Ability redirects Electric moves before this move takes effect.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Recycle",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "The user regains the item last used by a Pokemon in its current position on the field, even if that Pokemon was not the user. Fails if the user is holding an item, if no items have been used at the user's position, or if the item was lost to Covet, Knock Off, or Thief. Items thrown with Fling can be regained.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Revenge",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Damage doubles if the user was hit by a Pokemon in the target's current position this turn, and that Pokemon was the last to hit the user.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Brick Break",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "If this attack does not miss and whether or not the target is immune, the effects of Reflect and Light Screen end for the opponent's side of the field before damage is calculated.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Yawn",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "70",
+		"PP": "10",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Knock Off",
+		"Type": "Dark",
+		"Category": "Special",
+		"Power": "20",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The target's held item is lost for the rest of the battle, unless it has the Sticky Hold Ability. During the effect, the target cannot gain a new item by any means.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Endeavor",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "1",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Deals damage to the target equal to (target's current HP - user's current HP). The target is unaffected if its current HP is less than or equal to the user's current HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Draco Meteor",
+		"Type": "Dragon",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Skill Swap",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user swaps its Ability with the target's Ability. Fails if either the user or the target's Ability is Wonder Guard.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Imprison",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user prevents all opposing Pokemon from using any moves that the user also knows as long as the user remains active. Fails if no opposing Pokemon know any of the user's moves.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Refresh",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "The user cures its burn, poison, or paralysis. Fails if the user is not burned, poisoned, or paralyzed.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Grudge",
+		"Type": "Ghost",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that move loses all its remaining PP.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Snatch",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "No competitive use.",
+		"Targets": "Your Pokemon"
+	},
+	{
+		"Name": "Secret Power",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 30% chance to cause a secondary effect on the target based on the battle terrain. Causes paralysis on the regular Wi-Fi terrain.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Dive",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Surf and Whirlpool, which have doubled power when used against it, and is also unaffected by weather.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Force Palm",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "30% chance to paralyze the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Camouflage",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "The user's type changes based on the battle terrain. Normal type on the regular Wi-Fi terrain. Fails if the type is one of the user's current types.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Tail Glow",
+		"Type": "Bug",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "Raises the user's Special Attack by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Luster Purge",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a 50% chance to lower the target's Special Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mist Ball",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a 50% chance to lower the target's Special Attack by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Feather Dance",
+		"Type": "Flying",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Lowers the target's Attack by 2 stages.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Teeter Dance",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "32",
+		"Description": "Confuses the target(s).",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Blaze Kick",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "High critical hit ratio. 30% chance to burn the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mud Sport",
+		"Type": "Ground",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "While the user is active, all Electric-type attacks used by any active Pokemon have their power halved. Fails if this effect is already active for the user. Baton Pass can be used to transfer this effect to an ally.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Ice Ball",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "30",
+		"Accuracy": "90",
+		"PP": "20",
+		"Description": "If this move is successful, the user is locked into this move and cannot make another move until it misses, 5 turns have passed, or the attack cannot be used. Power doubles with each successful hit of this move and doubles again if Defense Curl was used previously by the user. If this move is called by Sleep Talk, the move is used for one turn.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Needle Arm",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 30% chance to make the target flinch. Damage doubles if the target has used Minimize while active.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Slack Off",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "The user restores 1/2 of its maximum HP, rounded down.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Hyper Voice",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "20% chance to lower the target's Defense.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Poison Fang",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 30% chance to badly poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Crush Claw",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 50% chance to lower the target's Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Blast Burn",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Hydro Cannon",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Meteor Mash",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "100",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 20% chance to raise the user's Attack by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Shadow Sneak",
+		"Type": "Ghost",
+		"Category": "Physical",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Usually goes first.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Weather Ball",
+		"Type": "Normal",
+		"Category": "Physical",
+		"Power": "50",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Damage doubles if a weather condition is active, and this move's type changes to match. Ice type during Hail, Water type during Rain Dance, Rock type during Sandstorm, and Fire type during Sunny Day.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Aromatherapy",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "2",
+		"Description": "Every Pokemon in the user's party is cured of its non-volatile status condition.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Fake Tears",
+		"Type": "Dark",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "Lowers the target's Special Defense by 2 stages.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Air Slash",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "25",
+		"Description": "30% chance to make the target flinch.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Overheat",
+		"Type": "Fire",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has 1/3 recoil.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Odor Sleuth",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "3",
+		"Description": "As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Rock Tomb",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "55",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "Has a 100% chance to lower the target's Speed by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Silver Wind",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Flash Cannon",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "30% chance to lower the target's Defense.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Grass Whistle",
+		"Type": "Grass",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "70",
+		"PP": "24",
+		"Description": "Causes the target to fall asleep.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Tickle",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "6",
+		"Description": "Lowers the target's Attack and Defense by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Cosmic Power",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "6",
+		"Description": "Raises the user's Defense and Special Defense by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Water Spout",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Unknown",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Signal Beam",
+		"Type": "Bug",
+		"Category": "Physical",
+		"Power": "75",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 10% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Shadow Punch",
+		"Type": "Ghost",
+		"Category": "Physical",
+		"Power": "70",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Extrasensory",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "30% chance to make the target flinch. Double damage to Minimized targets.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sky Uppercut",
+		"Type": "Fighting",
+		"Category": "Physical",
+		"Power": "90",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "This move can hit a target using Bounce or Fly.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sand Tomb",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "15",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Sheer Cold",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "1",
+		"Accuracy": "30",
+		"PP": "8",
+		"Description": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Muddy Water",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "10",
+		"Description": "Has a 30% chance to lower the target's accuracy by 1 stage.",
+		"Targets": "Both Opponent Pokemon"
+	},
+	{
+		"Name": "Bullet Seed",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "25",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Hits 2 times in one turn.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Aerial Ace",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "60",
+		"Accuracy": "0",
+		"PP": "32",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Ice Shard",
+		"Type": "Ice",
+		"Category": "Special",
+		"Power": "40",
+		"Accuracy": "100",
+		"PP": "30",
+		"Description": "Usually goes first.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Iron Defense",
+		"Type": "Steel",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Defense by 2 stages.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Block",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "5",
+		"Description": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Howl",
+		"Type": "Normal",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "5",
+		"Description": "Raises the user's Attack by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Dragon Claw",
+		"Type": "Dragon",
+		"Category": "Special",
+		"Power": "80",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "High critical hit ratio.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Frenzy Plant",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "150",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Bulk Up",
+		"Type": "Fighting",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Attack and Defense by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Bounce",
+		"Type": "Flying",
+		"Category": "Physical",
+		"Power": "85",
+		"Accuracy": "85",
+		"PP": "5",
+		"Description": "Has a 30% chance to paralyze the target. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Gust, Sky Uppercut, Thunder, and Twister, and Gust and Twister have doubled power when used against it.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Mud Shot",
+		"Type": "Ground",
+		"Category": "Physical",
+		"Power": "55",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a 100% chance to lower the target's Speed by 1 stage.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Poison Tail",
+		"Type": "Poison",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "16",
+		"Description": "30% change to badly poison the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Volt Tackle",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "120",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Magical Leaf",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Water Sport",
+		"Type": "Water",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "100",
+		"PP": "15",
+		"Description": "While the user is active, all Fire-type attacks used by any active Pokemon have their power halved. Fails if this effect is already active for the user. Baton Pass can be used to transfer this effect to an ally.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Calm Mind",
+		"Type": "Psychic",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Special Attack and Special Defense by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Leaf Blade",
+		"Type": "Grass",
+		"Category": "Special",
+		"Power": "95",
+		"Accuracy": "100",
+		"PP": "24",
+		"Description": "Has a higher chance for a critical hit.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Dragon Dance",
+		"Type": "Dragon",
+		"Category": "Non-Damaging",
+		"Power": "0",
+		"Accuracy": "0",
+		"PP": "3",
+		"Description": "Raises the user's Attack and Speed by 1 stage.",
+		"Targets": "Your two Pokemon"
+	},
+	{
+		"Name": "Rock Blast",
+		"Type": "Rock",
+		"Category": "Physical",
+		"Power": "25",
+		"Accuracy": "80",
+		"PP": "10",
+		"Description": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Shock Wave",
+		"Type": "Electric",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "0",
+		"PP": "20",
+		"Description": "This move does not check accuracy.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Water Pulse",
+		"Type": "Water",
+		"Category": "Special",
+		"Power": "60",
+		"Accuracy": "100",
+		"PP": "20",
+		"Description": "Has a 20% chance to confuse the target.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Doom Desire",
+		"Type": "Steel",
+		"Category": "Physical",
+		"Power": "120",
+		"Accuracy": "85",
+		"PP": "5",
+		"Description": "Deals typeless damage that cannot be a critical hit two turns after this move is used. Damage is calculated against the target on use, and at the end of the final turn that damage is dealt to the Pokemon at the position the original target had at the time. Fails if this move or Future Sight is already in effect for the target's position.",
+		"Targets": "One Opponent Pokemon"
+	},
+	{
+		"Name": "Psycho Boost",
+		"Type": "Psychic",
+		"Category": "Special",
+		"Power": "140",
+		"Accuracy": "100",
+		"PP": "8",
+		"Description": "Unknown",
+		"Targets": "One Opponent Pokemon"
 	}
 ]

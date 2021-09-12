@@ -12,6 +12,7 @@ const smogonAbilityData = JSON.parse(fs.readFileSync(path.join(__dirname,'../inp
 const smogonMoveData = JSON.parse(fs.readFileSync(path.join(__dirname,'../input_data/SmogonMoves.json')))
 const smogonPokemonData = JSON.parse(fs.readFileSync(path.join(__dirname,'../input_data/SmogonPokemon.json')))
 const statData = JSON.parse(fs.readFileSync(path.join(__dirname,'../input_data/Stats.json')))
+const kaizoMoveData = JSON.parse(fs.readFileSync(path.join(__dirname,'../input_data/KaizoMoves.json')))
 
 let allPokemon = []
 let allRoutes = []
@@ -142,7 +143,15 @@ smogonAbilityData.forEach((element) => {
     allAbilities.push(element);
 })
 
-smogonMoveData.forEach((element) => {
+kaizoMoveData.forEach((element) => {
+    const smogonMove = smogonMoveData.find(m => m.Name === element.Name)
+    if(!smogonMove) {
+        console.log(`[WARN] Move ${element.Name} not found in Smogon move dump`)
+    } else {
+        if (element.Description === '') {
+            element.Description = smogonMove.Description
+        }
+    }
     allMoves.push(element);
 })
 
