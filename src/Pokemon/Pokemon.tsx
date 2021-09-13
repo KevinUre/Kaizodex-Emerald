@@ -39,6 +39,7 @@ function Pokemon() {
 export default Pokemon;
 
 function PokemonView() {
+  window.scrollTo(0, 0)
   let { name } = useParams<{ name: string }>();
   let Pokemon = Data.Pokemon.find(p => GetSafeName(p.Name) === name);
   if (!Pokemon) { Pokemon = Data.Pokemon[0]; }
