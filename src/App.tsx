@@ -8,6 +8,7 @@ import {
 import Pokemon from './Pokemon/Pokemon';
 import Abilities from './Abilities/Abilities';
 import Moves from './Moves/Moves';
+import Locations from './Locations/Locations';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -29,7 +30,7 @@ function App() {
                 <Pokemon />
               </Route>
               <Route path="/locations">
-                <p>Locations Under Construction</p>
+                <Locations/>
               </Route>
               <Route path="/moves">
                 <Moves />

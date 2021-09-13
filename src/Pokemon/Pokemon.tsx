@@ -119,7 +119,7 @@ function PokemonView() {
           { Pokemon.FoundAt.map((encounter) => {
             return (
               <div>
-                <span className="Location-Info">{encounter.Location}</span>
+                <Link className="Location-Info" to={`../locations/${GetSafeName(encounter.Location)}`}>{encounter.Location}</Link>
                 <span>{`(${encounter.Type})`}</span>
               </div>
             )
