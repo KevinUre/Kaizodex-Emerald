@@ -1,0 +1,9275 @@
+[
+	{
+		"Location": "﻿Littleroot Town",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Squirtle",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Totodile",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Croconaw",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Wartortle",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corphish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Poliwhirl",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "41"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Poliwhirl",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 101",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Wurmple",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Poochyena",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Caterpie",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Weedle",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sentret",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Pidgey",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Zigzagoon",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Rattata",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Togepi",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Igglybuff",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Cleffa",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Pichu",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Oldale Town",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "21"
+					},
+					{
+						"Pokemon": "Slugma",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Ponyta",
+						"Frequency": "6"
+					},
+					{
+						"Pokemon": "Magby",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Cyndaquil",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Charmander",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 103",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Sunkern",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wingull",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Ledyba",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Spearow",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Skitty",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Ekans",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mareep",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Hoppip",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Poliwag",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Aipom",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Taillow",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "80"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 102",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Meowth",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Nidoran ♂",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Electrike",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Hoothoot",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Gulpin",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Spinarak",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Farfetch'd",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Ralts",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Minun",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Pikachu",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Poliwrath",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Politoed",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Barboach",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Psyduck",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Corphish",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "20"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Petalburg City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Krabby",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Corphish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Psyduck",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Poliwag",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Surskit",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Marill",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Totodile",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Squirtle",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Azumarill",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Poliwrath",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Azurill",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Marill",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Corphish",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Poliwhirl",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Azumarill",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 104",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Jigglypuff",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Cubone",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Seedot",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Snubbull",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Nidoran ♀",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Natu",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mareep",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Hoothoot",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Venonat",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Drowzee",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Elekid",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Swellow",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pidgeot",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Wartortle",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "99"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Petalburg Woods",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Oddish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Hoothoot",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Teddiursa",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Bellsprout",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Pineco",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Illumise",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Volbeat",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Cascoon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Silcoon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Mankey",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Slakoth",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Rustboro City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Shroomish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Seedot",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Cacnea",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Bellsprout",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Oddish",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Hoppip",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sunkern",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Roselia",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Chikorita",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Bulbasaur",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Exeggcute",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Lotad",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 116",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Grimer",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Makuhita",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Yanma",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Natu",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Paras",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Voltorb",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Chimecho",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Ralts",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Unown",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Kakuna",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Metapod",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Rusturf Tunnel",
+		"Encounters": [
+			{
+				"Type": "Cave",
+				"Pokemon": [
+					{
+						"Pokemon": "Nosepass",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Geodude",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Onix",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dunsparce",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Cubone",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Swinub",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Whismur",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Zubat",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 105",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Unown",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "19"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 106",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Seel",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Shellder",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Sealeo",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Seel",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "80"
+					},
+					{
+						"Pokemon": "Seel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Seel",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Sealeo",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Dewford Town",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Makuhita",
+						"Frequency": "34"
+					},
+					{
+						"Pokemon": "Mankey",
+						"Frequency": "29"
+					},
+					{
+						"Pokemon": "Machop",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tyrogue",
+						"Frequency": "16"
+					},
+					{
+						"Pokemon": "Meditite",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seel",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Krabby",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Shellder",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Sealeo",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Seel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Walrein",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Granite Cave",
+		"SubLocations": [
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Aron",
+								"Frequency": "25"
+							},
+							{
+								"Pokemon": "Mawile",
+								"Frequency": "25"
+							},
+							{
+								"Pokemon": "Spoink",
+								"Frequency": "14"
+							},
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Spinda",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Teddiursa",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Ralts",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Drowzee",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Chimecho",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Steven's Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Spoink",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Ralts",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Onix",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Voltorb",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Spinda",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Magnemite",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Nosepass",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Makuhita",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Aron",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Dunsparce",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Abra",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B1F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Seel",
+								"Frequency": "24"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "21"
+							},
+							{
+								"Pokemon": "Delibird",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Sneasel",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Snorunt",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Spheal",
+								"Frequency": "9"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "6"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B2F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Snorunt",
+								"Frequency": "21"
+							},
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "21"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "14"
+							},
+							{
+								"Pokemon": "Spheal",
+								"Frequency": "14"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 107",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Shellder",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seel",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Seel",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Spheal",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Sealeo",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 108",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "99"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 109",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Wartortle",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Squirtle",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Krabby",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "56"
+					},
+					{
+						"Pokemon": "Wartortle",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Slateport City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Mareep",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Elekid",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrike",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Pikachu",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Voltorb",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Minun",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Plusle",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pichu",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Magnemite",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Flaaffy",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 110",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Delcatty",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Roselia",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Pidgeotto",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Murkrow",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Nuzleaf",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Skiploom",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Tropius",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Togetic",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Lickitung",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Kecleon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Oddish",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Poochyena",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Croconaw",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "16"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Mauville City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Elekid",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Pikachu",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Voltorb",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Magnemite",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Mareep",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Porygon",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Electrike",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pichu",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Flaaffy",
+						"Frequency": "2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 117",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Beautifly",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Dustox",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Oddish",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Volbeat",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Illumise",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Ledian",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Ariados",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Beedrill",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Butterfree",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Nuzleaf",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Shroomish",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Azumarill",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Politoed",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Poliwrath",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corphish",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Krabby",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Barboach",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Marill",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Psyduck",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Verdanturf Town",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "24"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "21"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Cubone",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Geodude",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Swinub",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Sunflora",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 111",
+		"Encounters": [
+			{
+				"Type": "Sand",
+				"Pokemon": [
+					{
+						"Pokemon": "Trapinch",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Diglett",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Sandslash",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Cacturne",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Donphan",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Arbok",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nidoqueen",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nidoking",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Vibrava",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Rock Smash",
+				"Pokemon": [
+					{
+						"Pokemon": "Geodude",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Poliwhirl",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Psyduck",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Marill",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Goldeen",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Barboach",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Barboach",
+						"Frequency": "100"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 112",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Ponyta",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Absol",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Skiploom",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Natu",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Snubbull",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Flareon",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Mightyena",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Fiery Path",
+		"Encounters": [
+			{
+				"Type": "Cave",
+				"Pokemon": [
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Magcargo",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Ponyta",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magby",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Koffing",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Quilava",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Flareon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Charmeleon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 113",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Noctowl",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Shroomish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Parasect",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Koffing",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magby",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Teddiursa",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Gloom",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Absol",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Fallarbor Town",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Aron",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Sudowoodo",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Stantler",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Noctowl",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Persian",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mawile",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nosepass",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Spinda",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Zangoose",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 114",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Pikachu",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Swablu",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Spinda",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Zangoose",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Nuzleaf",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Stantler",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sudowoodo",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Electrike",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Swalot",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lombre",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Lotad",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Meteor Falls",
+		"SubLocations": [
+			{
+				"Name": "1F 1R",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Porygon",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Lairon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Parasect",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Golbat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dunsparce",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Loudred",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Unown",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Cleffa",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Clefable",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Kabuto",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Omanyte",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Tentacool",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Relicanth",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Grimer",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Staryu",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Starmie",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "1F 2R",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefable",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Metang",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Shelgon",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Bagon",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Beldum",
+								"Frequency": "2"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Starmie",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Cradily",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Seaking",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Politoed",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Poliwrath",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Golduck",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Kingdra",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Feebas",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B1F 1R",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cleffa",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefable",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Aggron",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gardevoir",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Flygon",
+								"Frequency": "2"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "100"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Omastar",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Relicanth",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Seaking",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Feebas",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Staryu",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B1F 2R",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefable",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Clefairy",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Flygon",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Salamence",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Metagross",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Larvitar",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Pupitar",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Solrock",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Lunatone",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Dragonair",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Feebas",
+								"Frequency": "100"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Cradily",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Staryu",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Dragonair",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Dratini",
+								"Frequency": "5"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 115",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Swablu",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Clefairy",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Eevee",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Absol",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Wigglytuff",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Swellow",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Beldum",
+						"Frequency": "9"
+					},
+					{
+						"Pokemon": "Kangaskhan",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Bagon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Shelgon",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Metang",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Kabuto",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Omanyte",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Kabuto",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Omanyte",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Kabuto",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Omanyte",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Kabutops",
+						"Frequency": "44"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Omastar",
+						"Frequency": "16"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Jagged Pass",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Numel",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Magcargo",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Machoke",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Ponyta",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mankey",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Koffing",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Grimer",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Doduo",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Onix",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Quilava",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Team Magma Hideout",
+		"Encounters": [
+			{
+				"Type": "Room 1",
+				"Pokemon": [
+					{
+						"Pokemon": "Camerupt",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Golem",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mightyena",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Typhlosion",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Golbat",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Rhydon",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Aggron",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Magcargo",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Room 2",
+				"Pokemon": [
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dunsparce",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Golem",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Muk",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Ninetales",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Aggron",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Rhydon",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Room 3",
+				"Pokemon": [
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Manectric",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sudowoodo",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Swalot",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Camerupt",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Charizard",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Room 4",
+				"Pokemon": [
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dunsparce",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Steelix",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Aggron",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Crobat",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Electabuzz",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Arcanine",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lunatone",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Room 5",
+				"Pokemon": [
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Crobat",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Camerupt",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Typhlosion",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Trapinch",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Rhydon",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Room 6",
+				"Pokemon": [
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Golem",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Aggron",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rhydon",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Typhlosion",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Charizard",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Blaziken",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Combusken",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Room 7",
+				"Pokemon": [
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Crobat",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Hariyama",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Manectric",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Flygon",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Room 8",
+				"Pokemon": [
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Crobat",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Electrode",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Camerupt",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Typhlosion",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Charizard",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Houndoom",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Houndour",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Lavaridge Town",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Magby",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Ponyta",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Flareon",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Quilava",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Charmeleon",
+						"Frequency": "2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Mirage Tower",
+		"Encounters": [
+			{
+				"Type": "1F",
+				"Pokemon": [
+					{
+						"Pokemon": "Cacnea",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Trapinch",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Diglett",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Numel",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Baltoy",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Cubone",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Onix",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Unown",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "2F",
+				"Pokemon": [
+					{
+						"Pokemon": "Trapinch",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Rhyhorn",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Phanpy",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sandshrew",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Camerupt",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sandslash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nosepass",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Graveler",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Claydol",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gligar",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "3F",
+				"Pokemon": [
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Trapinch",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Cacturne",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Marowak",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Donphan",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Onix",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Sandslash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nidorino",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Nidorina",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Vibrava",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "4F",
+				"Pokemon": [
+					{
+						"Pokemon": "Bagon",
+						"Frequency": "100"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 118",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Manectric",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Grumpig",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Nuzleaf",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Weepinbell",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Gloom",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Nidorina",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Nidorino",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Pikachu",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Exeggcute",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 119",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Zangoose",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tangela",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Breloom",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Absol",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Scyther",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Linoone",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Tropius",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Furret",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Raticate",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Pinsir",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Scizor",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Carvanha",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Politoed",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Poliwrath",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Fortree City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Pidgeot",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Fearow",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Swellow",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Noctowl",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Tropius",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Swablu",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Altaria",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dodrio",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Pineco",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Shiftry",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 120",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Scyther",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Absol",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Zangoose",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Pinsir",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Kecleon",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Primeape",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Tangela",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Azumarill",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Linoone",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Scizor",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Azumarill",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Fearow",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Whiscash",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Barboach",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Slowking",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Scorched Slab",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Vulpix",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Growlithe",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Quilava",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Charmeleon",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Ninetales",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Manectric",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Magby",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Magmar",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Torkoal",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Flareon",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Arcanine",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Grimer",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Koffing",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Muk",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Weezing",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Grimer",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Muk",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Muk",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Muk",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 121",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Absol",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Exeggcute",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tropius",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Exploud",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Rapidash",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Pidgeot",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Stantler",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Gloom",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Weepinbell",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Jumpluff",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Arcanine",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Pinsir",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Tentacool",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Seviper",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Safari Zone",
+		"SubLocations": [
+			{
+				"Name": "Area 1 Southeast",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Vileplume",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Granbull",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Girafarig",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Victreebel",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Rapidash",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dodrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Vigoroth",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Forretress",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Primeape",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Grovyle",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Ivysaur",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Area 2 Southwest",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Exeggutor",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Rhydon",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Miltank",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Kangaskhan",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Nidoqueen",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dodrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Arbok",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Zangoose",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Sandslash",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Venusaur",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Ivysaur",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Bulbasaur",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Psyduck",
+								"Frequency": "90"
+							},
+							{
+								"Pokemon": "Golduck",
+								"Frequency": "10"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Corphish",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Ludicolo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Lombre",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Lotad",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Psyduck",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Golduck",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Seadra",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Feebas",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Area 3 Northwest",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Eevee",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Flareon",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Espeon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Umbreon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Vaporeon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Jolteon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Kangaskhan",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Rhydon",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Dodrio",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Miltank",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Tauros",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Snorlax",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Omastar",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Kabuto",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Omanyte",
+								"Frequency": "5"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Wartortle",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Squirtle",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Barboach",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Wooper",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Croconaw",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Totodile",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Quagsire",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Marshtomp",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Mudkip",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Area 4 Northeast",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Donphan",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Arcanine",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Nidoking",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Scyther",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Ursaring",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Tauros",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Heracross",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Bayleef",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Grovyle",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Chikorita",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Treecko",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Area 5 Extended Southeast",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Venusaur",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Meganium",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Ampharos",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Skarmory",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Smeargle",
+								"Frequency": "11"
+							},
+							{
+								"Pokemon": "Shuckle",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gligar",
+								"Frequency": "6"
+							},
+							{
+								"Pokemon": "Tauros",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Stantler",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Houndoom",
+								"Frequency": "4"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Wooper",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Marill",
+								"Frequency": "39"
+							},
+							{
+								"Pokemon": "Quagsire",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "100"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "100"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Milotic",
+								"Frequency": "100"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Area 6 Extended Northeast",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Heracross",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Snorlax",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Chansey",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shuckle",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Nincada",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Ninjask",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Venusaur",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Meganium",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Miltank",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Houndoom",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Houndour",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 122",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Golduck",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Golbat",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "55"
+					},
+					{
+						"Pokemon": "Gastly",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Mt. Pyre",
+		"SubLocations": [
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Shuppet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Gastly",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Abra",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Drowzee",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Vulpix",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cubone",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Absol",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Mr. Mime",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Grumpig",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Kirlia",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Umbreon",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "2F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Unown",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Murkrow",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Golbat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Drowzee",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shuppet",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gastly",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Raticate",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Mightyena",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Haunter",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "3F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Abra",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Exeggcute",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Vulpix",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Absol",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Grumpig",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Kirlia",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "4F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Chimecho",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Gastly",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Shuppet",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Drowzee",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cubone",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Unown",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Vulpix",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Mr. Mime",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Haunter",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "5F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Abra",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Mr. Mime",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Vulpix",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cubone",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Raticate",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Golbat",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Haunter",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Hypno",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "6F",
+				"Encounters": [
+					{
+						"Type": "Interior",
+						"Pokemon": [
+							{
+								"Pokemon": "Kirlia",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Ninetales",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Venomoth",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Golbat",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Haunter",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Kadabra",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Exterior",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Noctowl",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Ninetales",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cacturne",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Absol",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Murkrow",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Shiftry",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Hypno",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Umbreon",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Summit",
+				"Encounters": [
+					{
+						"Type": "Grass",
+						"Pokemon": [
+							{
+								"Pokemon": "Banette",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Absol",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Cacturne",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Hypno",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shiftry",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Noctowl",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Espeon",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gardevoir",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Umbreon",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 123",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tauros",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Ludicolo",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Arcanine",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Medicham",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Slaking",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Skarmory",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Duskull",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Miltank",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Heracross",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Snorlax",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lombre",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Lombre",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "40"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Lilycove City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Granbull",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Jumpluff",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Vileplume",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Bellossom",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Wigglytuff",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Lickitung",
+						"Frequency": "6"
+					},
+					{
+						"Pokemon": "Togetic",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Exploud",
+						"Frequency": "4"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 124",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Mossdeep City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Ralts",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Abra",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Spoink",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Mr. Mime",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Exeggcute",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Girafarig",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Drowzee",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Xatu",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Chimecho",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Espeon",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Jynx",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Shellder",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Slowking",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kingler",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Crawdaunt",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 125",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Walrein",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Slowking",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sealeo",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Slowking",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Shellder",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Walrein",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Shoal Cave",
+		"SubLocations": [
+			{
+				"Name": "Entrance Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Spheal",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Slowpoke",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Delibird",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingler",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Golduck",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Slowbro",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Seel",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Spheal",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Inner Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Delibird",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Sneasel",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingler",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Slowking",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Slowbro",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Slowking",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Slowbro",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Clamperl",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Seel",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "40"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "19"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Stairs Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Snorunt",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shellder",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Slowpoke",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Glalie",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Piloswine",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Lower Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Piloswine",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Glalie",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Seel",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Sealeo",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Slowpoke",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Slowking",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Slowbro",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Delibird",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Swinub",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Smoochum",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Snorunt",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Ice Room",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Piloswine",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Glalie",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Slowbro",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Slowking",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Hariyama",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 127",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kabutops",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Omastar",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 128",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Jumpluff",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Armaldo",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Cradily",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Seafloor Cavern",
+		"SubLocations": [
+			{
+				"Name": "Entrance",
+				"Encounters": [
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "5"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Huntail",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Qwilfish",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Blastoise",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Relicanth",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "5"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 1",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingler",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Blastoise",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 2",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "22"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dunsparce",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Blastoise",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Glalie",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Steelix",
+								"Frequency": "4"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 3",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Parasect",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Ariados",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Vaporeon",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 4",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Omastar",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingler",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Steelix",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 5",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Glalie",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Piloswine",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Dunsparce",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Steelix",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Walrein",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Cloyster",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Qwilfish",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Huntail",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 6",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "100"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Qwilfish",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Mantine",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Huntail",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Dewgong",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Seviper",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Muk",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Mantine",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Muk",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Mantine",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailord",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 7",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "26"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Huntail",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gorebyss",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Steelix",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Octillery",
+								"Frequency": "4"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Room 8",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "100"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 126",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Poliwrath",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Slowpoke",
+						"Frequency": "100"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Sootopolis City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Heracross",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Lotad",
+						"Frequency": "29"
+					},
+					{
+						"Pokemon": "Lombre",
+						"Frequency": "29"
+					},
+					{
+						"Pokemon": "Ludicolo",
+						"Frequency": "2"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Magikarp",
+						"Frequency": "5"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Kabutops",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Armaldo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Omastar",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Cradily",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Cave of Origin",
+		"SubLocations": [
+			{
+				"Name": "Entrance",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Kadabra",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Absol",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Haunter",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Persian",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Hypno",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gardevoir",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Parasect",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cradily",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Omastar",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Ninetales",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Duskull",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Dusclops",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "2F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Gardevoir",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dunsparce",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Cradily",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Houndour",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Duskull",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Dusclops",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "3F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Duskull",
+								"Frequency": "98"
+							},
+							{
+								"Pokemon": "Dusclops",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "4F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Ninetales",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gardevoir",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Alakazam",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Marowak",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Duskull",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Houndoom",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Aerodactyl",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 129",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Pelipper",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Omastar",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Kabutops",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Armaldo",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Cradily",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 130",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Slowking",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Slowbro",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Mirage Island",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Sableye",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Shuckle",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tauros",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Snorlax",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Blissey",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Dusclops",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Shedinja",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Ninjask",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Tyranitar",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Salamence",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Metagross",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Dragonite",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 131",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Misdreavus",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Dewgong",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Altaria",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Sky Pillar",
+		"SubLocations": [
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Inside",
+						"Pokemon": [
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Altaria",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Shiftry",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Flygon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Misdreavus",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Unown",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Noctowl",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "3F",
+				"Encounters": [
+					{
+						"Type": "Inside",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Gengar",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Charizard",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Noctowl",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Swellow",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Flygon",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "5F",
+				"Encounters": [
+					{
+						"Type": "Inside",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Castform",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Venomoth",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Xatu",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Claydol",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Altaria",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Flygon",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Unown",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Abandoned Ship",
+		"SubLocations": [
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingdra",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Vaporeon",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Tentacool",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Qwilfish",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Mantine",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Kingdra",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B1F",
+				"Encounters": [
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Kingdra",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Armaldo",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Kabutops",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Cradily",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Omastar",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Relicanth",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Kingdra",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Wailmer",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "New Mauville",
+		"SubLocations": [
+			{
+				"Name": "Upper Floor",
+				"Encounters": [
+					{
+						"Type": "Inside",
+						"Pokemon": [
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Plusle",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Minun",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Magneton",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Raichu",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Manectric",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Porygon",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Electabuzz",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Ampharos",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Flaaffy",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Voltorb",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Pikachu",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "Lower Floor",
+				"Encounters": [
+					{
+						"Type": "Inside",
+						"Pokemon": [
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Raichu",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Porygon",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Raichu",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Manectric",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Voltorb",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Ampharos",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Electabuzz",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Porygon2",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Jolteon",
+								"Frequency": "1"
+							},
+							{
+								"Pokemon": "Pikachu",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Pacifidlog Town",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Huntail",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Gorebyss",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Kabutops",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Omastar",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Seadra",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 132",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Relicanth",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Seadra",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Staryu",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Clamperl",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Cloyster",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Staryu",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 133",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Staryu",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Lapras",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Wailord",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seadra",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Wailmer",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Kingdra",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Lapras",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Wailord",
+						"Frequency": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Route 134",
+		"Encounters": [
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Horsea",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Seadra",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Seaking",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Seadra",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Horsea",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Octillery",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Remoraid",
+						"Frequency": "40"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "40"
+					},
+					{
+						"Pokemon": "Horsea",
+						"Frequency": "15"
+					},
+					{
+						"Pokemon": "Chinchou",
+						"Frequency": "5"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Ever Grande City",
+		"Encounters": [
+			{
+				"Type": "Grass",
+				"Pokemon": [
+					{
+						"Pokemon": "Torchic",
+						"Frequency": "25"
+					},
+					{
+						"Pokemon": "Treecko",
+						"Frequency": "25"
+					},
+					{
+						"Pokemon": "Combusken",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Grovyle",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Blaziken",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Sceptile",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Eevee",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Marshtomp",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Mudkip",
+						"Frequency": "1"
+					},
+					{
+						"Pokemon": "Swampert",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Surf",
+				"Pokemon": [
+					{
+						"Pokemon": "Blastoise",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Feraligatr",
+						"Frequency": "30"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Lanturn",
+						"Frequency": "1"
+					}
+				]
+			},
+			{
+				"Type": "Old Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Sharpedo",
+						"Frequency": "70"
+					},
+					{
+						"Pokemon": "Mantine",
+						"Frequency": "30"
+					}
+				]
+			},
+			{
+				"Type": "Good Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Tentacruel",
+						"Frequency": "60"
+					},
+					{
+						"Pokemon": "Qwilfish",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Gyarados",
+						"Frequency": "20"
+					}
+				]
+			},
+			{
+				"Type": "Super Rod",
+				"Pokemon": [
+					{
+						"Pokemon": "Luvdisc",
+						"Frequency": "81"
+					},
+					{
+						"Pokemon": "Corsola",
+						"Frequency": "19"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Victory Road",
+		"SubLocations": [
+			{
+				"Name": "1F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dodrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Medicham",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Kangaskhan",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Jynx",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Electabuzz",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Mr. Mime",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Exploud",
+								"Frequency": "2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B1F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Banette",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Machamp",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Blastoise",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Hariyama",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Golem",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Hypno",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Venomoth",
+								"Frequency": "2"
+							}
+						]
+					},
+					{
+						"Type": "Rock Smash",
+						"Pokemon": [
+							{
+								"Pokemon": "Graveler",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Geodude",
+								"Frequency": "30"
+							}
+						]
+					}
+				]
+			},
+			{
+				"Name": "B2F",
+				"Encounters": [
+					{
+						"Type": "Cave",
+						"Pokemon": [
+							{
+								"Pokemon": "Electrode",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Wobbuffet",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Dugtrio",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Golduck",
+								"Frequency": "10"
+							},
+							{
+								"Pokemon": "Arcanine",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Nidoking",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Ursaring",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Grumpig",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Granbull",
+								"Frequency": "2"
+							}
+						]
+					},
+					{
+						"Type": "Surf",
+						"Pokemon": [
+							{
+								"Pokemon": "Crobat",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Muk",
+								"Frequency": "30"
+							},
+							{
+								"Pokemon": "Sharpedo",
+								"Frequency": "5"
+							},
+							{
+								"Pokemon": "Weezing",
+								"Frequency": "5"
+							}
+						]
+					},
+					{
+						"Type": "Old Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Crawdaunt",
+								"Frequency": "70"
+							},
+							{
+								"Pokemon": "Gyarados",
+								"Frequency": "30"
+							}
+						]
+					},
+					{
+						"Type": "Good Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Whiscash",
+								"Frequency": "60"
+							},
+							{
+								"Pokemon": "Relicanth",
+								"Frequency": "20"
+							},
+							{
+								"Pokemon": "Tentacruel",
+								"Frequency": "20"
+							}
+						]
+					},
+					{
+						"Type": "Super Rod",
+						"Pokemon": [
+							{
+								"Pokemon": "Muk",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Feraligatr",
+								"Frequency": "40"
+							},
+							{
+								"Pokemon": "Blastoise",
+								"Frequency": "15"
+							},
+							{
+								"Pokemon": "Lapras",
+								"Frequency": "4"
+							},
+							{
+								"Pokemon": "Quagsire",
+								"Frequency": "1"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Desert Underpass (Postgame)",
+		"Encounters": [
+			{
+				"Type": "Cave",
+				"Pokemon": [
+					{
+						"Pokemon": "Dugtrio",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "20"
+					},
+					{
+						"Pokemon": "Ditto",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Flygon",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Tyranitar",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Nincada",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Shedinja",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Steelix",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Crobat",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Sableye",
+						"Frequency": "4"
+					},
+					{
+						"Pokemon": "Aerodactyl",
+						"Frequency": "2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Artisan Cave 1 (Postgame)",
+		"Encounters": [
+			{
+				"Type": "Cave",
+				"Pokemon": [
+					{
+						"Pokemon": "Smeargle",
+						"Frequency": "52"
+					},
+					{
+						"Pokemon": "Wynaut",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Wobbuffet",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Blissey",
+						"Frequency": "14"
+					},
+					{
+						"Pokemon": "Chansey",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Shuckle",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Location": "Artisan Cave 2 (Postgame)",
+		"Encounters": [
+			{
+				"Type": "Cave",
+				"Pokemon": [
+					{
+						"Pokemon": "Smeargle",
+						"Frequency": "56"
+					},
+					{
+						"Pokemon": "Hitmonlee",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Hitmonchan",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Hitmontop",
+						"Frequency": "10"
+					},
+					{
+						"Pokemon": "Chansey",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Houndour",
+						"Frequency": "5"
+					},
+					{
+						"Pokemon": "Shuckle",
+						"Frequency": "4"
+					}
+				]
+			}
+		]
+	}
+]

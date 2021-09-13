@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import {
   BrowserRouter,
@@ -6,6 +5,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Pokemon from './Pokemon/Pokemon';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -21,23 +21,23 @@ function App() {
           <Link className="Navbar-Link" to="/abilities">Abilities</Link>
         </nav>
         <div className="Main">
-          <Switch>
-            <Route path="/pokemon">
-              <p>Pokemon Under Construction</p>
-            </Route>
-            <Route path="/locations">
-              <p>Locations Under Construction</p>
-            </Route>
-            <Route path="/moves">
-              <p>Moves Under Construction</p>
-            </Route>
-            <Route path="/abilities">
-              <p>Abilities Under Construction</p>
-            </Route>
-            <Route path="/">
-              <p>Home Under Construction</p>
-            </Route>
-          </Switch>
+            <Switch>
+              <Route path="/pokemon">
+                <Pokemon />
+              </Route>
+              <Route path="/locations">
+                <p>Locations Under Construction</p>
+              </Route>
+              <Route path="/moves">
+                <p>Moves Under Construction</p>
+              </Route>
+              <Route path="/abilities">
+                <p>Abilities Under Construction</p>
+              </Route>
+              <Route path="/">
+                <p>Home Under Construction</p>
+              </Route>
+            </Switch>
         </div>
       </div>
     </BrowserRouter>
@@ -45,9 +45,3 @@ function App() {
 }
 
 export default App;
-
-{/* <DataContext.Consumer>
-  {context => (
-    <span>{context.Name}</span>
-  )}
-</DataContext.Consumer> */}
