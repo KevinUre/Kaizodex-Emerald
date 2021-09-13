@@ -12,7 +12,6 @@ import './Pokemon.css';
 
 function Pokemon() {
   let match = useRouteMatch();
-  console.log(JSON.stringify(match))
   return (
     <div>
       <Switch>
@@ -111,7 +110,7 @@ function PokemonView() {
       <div className="Flex-Column-Item">
         <span>{Pokemon.Abilities.length > 1 ? `Abilities:` : `Ability`}</span>
           { Pokemon.Abilities.map((ability)=>{
-            return <span className="Pokemon-Abilities">{ability}</span>
+            return <Link className="Pokemon-Abilities" to={`../abilities/${GetSafeName(ability)}`}>{ability}</Link>
           })}
       </div>
       { Pokemon.FoundAt.length > 0 &&

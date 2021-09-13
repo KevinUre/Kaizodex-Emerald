@@ -101,6 +101,7 @@
     margin-left: 1rem;
     border: black;
     border-width: 1px;
+    text-decoration: none;
 }
 
 .Pokemon-Move-Table {

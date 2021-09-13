@@ -1,0 +1,26 @@
+.List-Container {
+    display: flex;
+    flex-direction: column;
+}
+
+.Ability-Container {
+    display: flex;
+    flex-direction: column;
+}
+
+.Ability-Name {
+    font-size: 1.6rem;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+
+.Ability-Description {
+    font-size: 1rem;
+    color: black;
+    padding-bottom: 3rem;
+}
+
+.Ability-Pokemon-List-Header {
+    font-size: 1.3rem;
+}

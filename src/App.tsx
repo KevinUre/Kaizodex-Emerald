@@ -6,6 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import Pokemon from './Pokemon/Pokemon';
+import Abilities from './Abilities/Abilities';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -36,7 +37,7 @@ function App() {
                 <p>Types Under Construction</p>
               </Route>
               <Route path="/abilities">
-                <p>Abilities Under Construction</p>
+                <Abilities />
               </Route>
               <Route path="/">
                 <p>Home Under Construction</p>
