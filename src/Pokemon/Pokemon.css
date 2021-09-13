@@ -7,6 +7,7 @@
     text-decoration: none;
     font-size: 1rem;
     color: black;
+    width:fit-content;
     /* -webkit-text-stroke-width: 0.04rem;
     -webkit-text-stroke-color: #2F4C33; */
 }
