@@ -25,29 +25,39 @@ function App() {
           <Link className="Navbar-Link" to="/types">Types</Link>
           <Link className="Navbar-Link" to="/abilities">Abilities</Link>
         </nav>
-        <div className="Main">
-            <Switch>
-              <Route path="/pokemon">
+          <Switch>
+            <Route path="/pokemon">
+              <div className="Main">
                 <Pokemon />
-              </Route>
-              <Route path="/locations">
+              </div>
+            </Route>
+            <Route path="/locations">
+              <div className="Main">
                 <Locations/>
-              </Route>
-              <Route path="/moves">
+              </div>
+            </Route>
+            <Route path="/moves">
+              <div className="Main">
                 <Moves />
-              </Route>
-              <Route path="/types">
+              </div>
+            </Route>
+            <Route path="/types">
+              <div className="Main">
                 <Types />
-              </Route>
-              <Route path="/abilities">
+              </div>
+            </Route>
+            <Route path="/abilities">
+              <div className="Main">
                 <Abilities />
-              </Route>
-              <Route path="/">
-                <p>Home Under Construction</p>
-              </Route>
-            </Switch>
+              </div>
+            </Route>
+            <Route path="/">
+              <div className= "splash-container">
+                <img className="splash" src={"/splash.png"}/>
+              </div>
+            </Route>
+          </Switch>
         </div>
-      </div>
     </BrowserRouter>
   );
 }

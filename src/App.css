@@ -38,4 +38,18 @@
   margin-left: 2rem;
   margin-right: 2rem;
   margin-top: 1.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.splash {
+  width: 100%;
+  /* flex-shrink: 0; */
+}
+
+.splash-container {
+  /* overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden!important */
 }
