@@ -95,7 +95,10 @@ statData.forEach(statElement =>  {
             if(bulbElement.Evolution.Level) { tempEvo.Level = bulbElement.Evolution.Level }
             if(bulbElement.Evolution.Stone) { tempEvo.Stone = bulbElement.Evolution.Stone }
             if(bulbElement.Evolution.Trade) { tempEvo.Trade = bulbElement.Evolution.Trade }
+            if(bulbElement.Evolution.Friendship) { tempEvo.Friendship = bulbElement.Evolution.Friendship }
+            if(bulbElement.Evolution.Beauty) { tempEvo.Beauty = bulbElement.Evolution.Beauty }
             if(bulbElement.Evolution.UnknownCondition) { tempEvo.UnknownCondition = bulbElement.Evolution.UnknownCondition }
+            if(Object.keys(tempEvo).length == 1) { console.log(`[ERROR] ${tempPokemon.Name} evolves into ${bulbElement.Name} but the method of evolution failed to parse: ${JSON.stringify(bulbElement.Evolution)}`) }
             tempPokemon.EvolvesInto.push(tempEvo)
         }
     });

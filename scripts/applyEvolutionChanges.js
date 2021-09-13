@@ -60,10 +60,7 @@ async function applyChanges() {
     bulbData.forEach((bulbElement, bulbIndex, bulbArray) => {
         changes.forEach(change => {
             if (bulbElement.Name === change.To) {
-                bulbElement.Evolution = {
-                    From: change.From,
-                    Evolution: change.NewWay
-                }
+                bulbElement.Evolution = change.NewWay
             }
         })
         bulbArray[bulbIndex] = bulbElement

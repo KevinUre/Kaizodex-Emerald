@@ -1268,7 +1268,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Pidgeotto"
+				"Into": "Pidgeotto",
+				"Level": "16"
 			}
 		],
 		"FoundAt": [
@@ -1345,14 +1346,12 @@
 		],
 		"EvolvesFrom": {
 			"From": "Pidgey",
-			"Evolution": {
-				"From": "Pidgey",
-				"Level": "16"
-			}
+			"Level": "16"
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Pidgeot"
+				"Into": "Pidgeot",
+				"Level": "30"
 			}
 		],
 		"FoundAt": [
@@ -1433,10 +1432,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Pidgeotto",
-			"Evolution": {
-				"From": "Pidgeotto",
-				"Level": "30"
-			}
+			"Level": "30"
 		},
 		"FoundAt": [
 			{
@@ -3362,7 +3358,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Crobat"
+				"Into": "Crobat",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -3452,7 +3449,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Gloom"
+				"Into": "Gloom",
+				"Level": "16"
 			}
 		],
 		"FoundAt": [
@@ -3540,10 +3538,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Oddish",
-			"Evolution": {
-				"From": "Oddish",
-				"Level": "16"
-			}
+			"Level": "16"
 		},
 		"EvolvesInto": [
 			{
@@ -4487,7 +4482,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Golduck"
+				"Into": "Golduck",
+				"Level": "25"
 			}
 		],
 		"FoundAt": [
@@ -4589,10 +4585,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Psyduck",
-			"Evolution": {
-				"From": "Psyduck",
-				"Level": "25"
-			}
+			"Level": "25"
 		},
 		"FoundAt": [
 			{
@@ -5398,7 +5391,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Alakazam"
+				"Into": "Alakazam",
+				"Level": "55"
 			}
 		],
 		"FoundAt": [
@@ -5484,10 +5478,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Kadabra",
-			"Evolution": {
-				"From": "Kadabra",
-				"Level": "55"
-			}
+			"Level": "55"
 		},
 		"FoundAt": [
 			{
@@ -5655,7 +5646,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Machamp"
+				"Into": "Machamp",
+				"Level": "50"
 			}
 		],
 		"FoundAt": [
@@ -5739,10 +5731,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Machoke",
-			"Evolution": {
-				"From": "Machoke",
-				"Level": "50"
-			}
+			"Level": "50"
 		},
 		"FoundAt": [
 			{
@@ -5814,7 +5803,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Weepinbell"
+				"Into": "Weepinbell",
+				"Level": "16"
 			}
 		],
 		"FoundAt": [
@@ -5900,10 +5890,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Bellsprout",
-			"Evolution": {
-				"From": "Bellsprout",
-				"Level": "16"
-			}
+			"Level": "16"
 		},
 		"EvolvesInto": [
 			{
@@ -6478,7 +6465,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Golem"
+				"Into": "Golem",
+				"Level": "42"
 			}
 		],
 		"FoundAt": [
@@ -6569,10 +6557,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Graveler",
-			"Evolution": {
-				"From": "Graveler",
-				"Level": "42"
-			}
+			"Level": "42"
 		},
 		"FoundAt": [
 			{
@@ -6659,7 +6644,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Rapidash"
+				"Into": "Rapidash",
+				"Level": "25"
 			}
 		],
 		"FoundAt": [
@@ -6768,10 +6754,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Ponyta",
-			"Evolution": {
-				"From": "Ponyta",
-				"Level": "25"
-			}
+			"Level": "25"
 		},
 		"FoundAt": [
 			{
@@ -6878,7 +6861,8 @@
 				"Level": "37"
 			},
 			{
-				"Into": "Slowking"
+				"Into": "Slowking",
+				"Stone": "Water Stone"
 			}
 		],
 		"FoundAt": [
@@ -7534,7 +7518,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Dewgong"
+				"Into": "Dewgong",
+				"Level": "28"
 			}
 		],
 		"FoundAt": [
@@ -7696,10 +7681,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Seel",
-			"Evolution": {
-				"From": "Seel",
-				"Level": "28"
-			}
+			"Level": "28"
 		},
 		"FoundAt": [
 			{
@@ -8470,7 +8452,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Gengar"
+				"Into": "Gengar",
+				"Level": "50"
 			}
 		],
 		"FoundAt": [
@@ -8567,10 +8550,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Haunter",
-			"Evolution": {
-				"From": "Haunter",
-				"Level": "50"
-			}
+			"Level": "50"
 		},
 		"FoundAt": [
 			{
@@ -8682,7 +8662,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Steelix"
+				"Into": "Steelix",
+				"Level": "45"
 			}
 		],
 		"FoundAt": [
@@ -8774,7 +8755,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Hypno"
+				"Into": "Hypno",
+				"Level": "38"
 			}
 		],
 		"FoundAt": [
@@ -8879,10 +8861,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Drowzee",
-			"Evolution": {
-				"From": "Drowzee",
-				"Level": "38"
-			}
+			"Level": "38"
 		},
 		"FoundAt": [
 			{
@@ -10496,7 +10475,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Blissey"
+				"Into": "Blissey",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -10823,7 +10803,8 @@
 		},
 		"EvolvesInto": [
 			{
-				"Into": "Kingdra"
+				"Into": "Kingdra",
+				"Level": "55"
 			}
 		],
 		"FoundAt": [
@@ -11482,7 +11463,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Scizor"
+				"Into": "Scizor",
+				"Level": "50"
 			}
 		],
 		"FoundAt": [
@@ -12503,10 +12485,12 @@
 				"Stone": "Fire Stone"
 			},
 			{
-				"Into": "Espeon"
+				"Into": "Espeon",
+				"Stone": "Sun Stone"
 			},
 			{
-				"Into": "Umbreon"
+				"Into": "Umbreon",
+				"Stone": "Moon Stone"
 			}
 		],
 		"FoundAt": [
@@ -12852,7 +12836,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Porygon2"
+				"Into": "Porygon2",
+				"Level": "42"
 			}
 		],
 		"FoundAt": [
@@ -15918,7 +15903,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Pikachu"
+				"Into": "Pikachu",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -15980,7 +15966,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Clefairy"
+				"Into": "Clefairy",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -16042,7 +16029,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Jigglypuff"
+				"Into": "Jigglypuff",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -16115,7 +16103,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Togetic"
+				"Into": "Togetic",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -17780,10 +17769,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Eevee",
-			"Evolution": {
-				"From": "Eevee",
-				"Stone": "Sun Stone"
-			}
+			"Stone": "Sun Stone"
 		},
 		"FoundAt": [
 			{
@@ -17868,10 +17854,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Eevee",
-			"Evolution": {
-				"From": "Eevee",
-				"Stone": "Moon Stone"
-			}
+			"Stone": "Moon Stone"
 		},
 		"FoundAt": [
 			{
@@ -18029,10 +18012,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Slowpoke",
-			"Evolution": {
-				"From": "Slowpoke",
-				"Stone": "Water Stone"
-			}
+			"Stone": "Water Stone"
 		},
 		"FoundAt": [
 			{
@@ -18307,10 +18287,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Wynaut",
-			"Evolution": {
-				"From": "Wynaut",
-				"Level": "64"
-			}
+			"Level": "64"
 		},
 		"FoundAt": [
 			{
@@ -18917,10 +18894,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Onix",
-			"Evolution": {
-				"From": "Onix",
-				"Level": "45"
-			}
+			"Level": "45"
 		},
 		"FoundAt": [
 			{
@@ -19391,10 +19365,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Scyther",
-			"Evolution": {
-				"From": "Scyther",
-				"Level": "50"
-			}
+			"Level": "50"
 		},
 		"FoundAt": [
 			{
@@ -19877,7 +19848,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Magcargo"
+				"Into": "Magcargo",
+				"Level": "16"
 			}
 		],
 		"FoundAt": [
@@ -19954,10 +19926,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Slugma",
-			"Evolution": {
-				"From": "Slugma",
-				"Level": "16"
-			}
+			"Level": "16"
 		},
 		"FoundAt": [
 			{
@@ -20950,7 +20919,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Houndoom"
+				"Into": "Houndoom",
+				"Level": "66"
 			}
 		],
 		"FoundAt": [
@@ -21043,10 +21013,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Houndour",
-			"Evolution": {
-				"From": "Houndour",
-				"Level": "66"
-			}
+			"Level": "66"
 		},
 		"FoundAt": [
 			{
@@ -21137,10 +21104,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Seadra",
-			"Evolution": {
-				"From": "Seadra",
-				"Level": "55"
-			}
+			"Level": "55"
 		},
 		"FoundAt": [
 			{
@@ -21412,10 +21376,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Porygon",
-			"Evolution": {
-				"From": "Porygon",
-				"Level": "42"
-			}
+			"Level": "42"
 		},
 		"FoundAt": [
 			{
@@ -26609,7 +26570,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Marill"
+				"Into": "Marill",
+				"Friendship": "High"
 			}
 		],
 		"FoundAt": [
@@ -27068,7 +27030,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Lairon"
+				"Into": "Lairon",
+				"Level": "25"
 			}
 		],
 		"FoundAt": [
@@ -27172,10 +27135,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Aron",
-			"Evolution": {
-				"From": "Aron",
-				"Level": "25"
-			}
+			"Level": "25"
 		},
 		"EvolvesInto": [
 			{
@@ -28725,7 +28685,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Wailord"
+				"Into": "Wailord",
+				"Level": "70"
 			}
 		],
 		"FoundAt": [
@@ -28878,10 +28839,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Wailmer",
-			"Evolution": {
-				"From": "Wailmer",
-				"Level": "70"
-			}
+			"Level": "70"
 		},
 		"FoundAt": [
 			{
@@ -29306,7 +29264,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Grumpig"
+				"Into": "Grumpig",
+				"Level": "27"
 			}
 		],
 		"FoundAt": [
@@ -29436,10 +29395,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Spoink",
-			"Evolution": {
-				"From": "Spoink",
-				"Level": "27"
-			}
+			"Level": "27"
 		},
 		"FoundAt": [
 			{
@@ -29910,7 +29866,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Cacturne"
+				"Into": "Cacturne",
+				"Level": "29"
 			}
 		],
 		"FoundAt": [
@@ -30008,10 +29965,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Cacnea",
-			"Evolution": {
-				"From": "Cacnea",
-				"Level": "29"
-			}
+			"Level": "29"
 		},
 		"FoundAt": [
 			{
@@ -30970,7 +30924,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Crawdaunt"
+				"Into": "Crawdaunt",
+				"Level": "25"
 			}
 		],
 		"FoundAt": [
@@ -31085,10 +31040,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Corphish",
-			"Evolution": {
-				"From": "Corphish",
-				"Level": "25"
-			}
+			"Level": "25"
 		},
 		"FoundAt": [
 			{
@@ -31830,7 +31782,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Milotic"
+				"Into": "Milotic",
+				"Beauty": "High"
 			}
 		],
 		"FoundAt": [
@@ -32387,7 +32340,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Dusclops"
+				"Into": "Dusclops",
+				"Level": "65"
 			}
 		],
 		"FoundAt": [
@@ -32496,10 +32450,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Duskull",
-			"Evolution": {
-				"From": "Duskull",
-				"Level": "65"
-			}
+			"Level": "65"
 		},
 		"FoundAt": [
 			{
@@ -32871,7 +32822,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Wobbuffet"
+				"Into": "Wobbuffet",
+				"Level": "64"
 			}
 		],
 		"FoundAt": [
@@ -33152,7 +33104,8 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Sealeo"
+				"Into": "Sealeo",
+				"Level": "25"
 			}
 		],
 		"FoundAt": [
@@ -33287,10 +33240,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Spheal",
-			"Evolution": {
-				"From": "Spheal",
-				"Level": "25"
-			}
+			"Level": "25"
 		},
 		"EvolvesInto": [
 			{
@@ -33553,10 +33503,12 @@
 		],
 		"EvolvesInto": [
 			{
-				"Into": "Huntail"
+				"Into": "Huntail",
+				"Level": "24"
 			},
 			{
-				"Into": "Gorebyss"
+				"Into": "Gorebyss",
+				"Stone": "Water Stone"
 			}
 		],
 		"FoundAt": [
@@ -33650,10 +33602,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Clamperl",
-			"Evolution": {
-				"From": "Clamperl",
-				"Level": "24"
-			}
+			"Level": "24"
 		},
 		"FoundAt": [
 			{
@@ -33766,10 +33715,7 @@
 		],
 		"EvolvesFrom": {
 			"From": "Clamperl",
-			"Evolution": {
-				"From": "Clamperl",
-				"Stone": "Water Stone"
-			}
+			"Stone": "Water Stone"
 		},
 		"FoundAt": [
 			{
