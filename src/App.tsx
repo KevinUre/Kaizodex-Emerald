@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Pokemon from './Pokemon/Pokemon';
 import Abilities from './Abilities/Abilities';
+import Moves from './Moves/Moves';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -31,7 +32,7 @@ function App() {
                 <p>Locations Under Construction</p>
               </Route>
               <Route path="/moves">
-                <p>Moves Under Construction</p>
+                <Moves />
               </Route>
               <Route path="/types">
                 <p>Types Under Construction</p>

@@ -1,0 +1,36 @@
+.List-Container {
+    display: flex;
+    flex-direction: column;
+}
+
+.Move-Container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Move-Name {
+    font-size: 1.6rem;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+
+.Move-Description {
+    font-size: 1rem;
+    color: black;
+    padding-bottom: 1rem;
+}
+
+.Move-Detail-Header {
+    padding-right: 1rem;
+}
+
+.Move-Category {
+    padding-left: 0.5rem;
+}
+
+.Move-Pokemon-List-Header {
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+}

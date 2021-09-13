@@ -111,4 +111,6 @@
 .Pokemon-Move-Name {
     padding-right: 1rem;
     padding-left: 1rem;
+    text-decoration: none;
+    color: black;
 }

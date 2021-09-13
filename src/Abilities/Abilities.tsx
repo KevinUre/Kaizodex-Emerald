@@ -19,7 +19,11 @@ function Abilities() {
         </Route>
         <Route path={`${match.path}`}>
           <div className="List-Container">
-            {Data.Abilities.map((ability) => {
+            {Data.Abilities.sort((a,b)=>{
+              if (a.Name<b.Name) {return -1;}
+              else if (b.Name>a.Name) { return 1;}
+              return 0;
+            }).map((ability) => {
               return (
                 <Link className="List-Item"
                   to={`${match.url}/${GetSafeName(ability.Name)}`}>

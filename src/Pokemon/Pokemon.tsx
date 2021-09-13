@@ -132,7 +132,9 @@ function PokemonView() {
             { Pokemon.Moves.map((move, index)=>{
               return (
                 <tr key={index} className="Pokemon-Move-Row">
-                  <td className="Pokemon-Move-Name">{move.Move}</td>
+                  <td>
+                    <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                  </td>
                   <td>{move.Level}</td>
                 </tr>
               )
