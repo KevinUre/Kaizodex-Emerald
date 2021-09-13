@@ -118,3 +118,26 @@
     text-decoration: none;
     color: black;
 }
+
+.Pokemon-Line-Item {
+    /* height: 1.2rem !important; */
+    display: flex;
+    flex-direction: row;
+    overflow: hidden !important;
+    align-items: center;
+    /* border: 1px solid black; */
+    height: 1.33rem;
+}
+
+.Pokemon-Line-Item-Text {
+    display: inline-flex;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+
+.Pokemon-Sprite {
+    height: 1.33rem;
+    margin-left: -0.10rem;
+    margin-right: -0.10rem;
+    /* border: 1px solid black; */
+}

@@ -5,7 +5,7 @@ import {
   useRouteMatch,
   useParams
 } from "react-router-dom";
-import { GetLevelUpString, GetSafeName, PadNumber } from "../helpers"
+import { GetLevelUpString, GetPokemonSafe, GetSafeName, PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Types.css';
 
@@ -118,7 +118,10 @@ function TypeView() {
             return (
               <Link className="List-Item"
                 to={`../pokemon/${GetSafeName(pokemon.Name)}`}>
-                {pokemon.Name}
+                <div className="Pokemon-Line-Item">
+                  <img src={`/sprites/${PadNumber(GetPokemonSafe(pokemon.Name).Number)}.png`} className="Pokemon-Sprite"/>
+                  <span className="Pokemon-Line-Item-Text">{pokemon.Name}</span>
+                </div>
               </Link>
             )
           })}

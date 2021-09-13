@@ -5,7 +5,7 @@ import {
   useRouteMatch,
   useParams
 } from "react-router-dom";
-import { GetLevelUpString, GetSafeName, PadNumber } from "../helpers"
+import { GetLevelUpString, GetPokemonSafe, GetSafeName, PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Pokemon.css';
 import HoverMaster from "../Hover/HoverMaster";
@@ -25,10 +25,14 @@ function Pokemon() {
           <div className="List-Container">
             {Data.Pokemon.map((pokemon) => {
               return (
-                <Link className="List-Item"
-                  to={`${match.url}/${GetSafeName(pokemon.Name)}`}>
-                  {PadNumber(pokemon.Number)} {pokemon.Name}
-                </Link>
+                  <Link className="List-Item"
+                    to={`${match.url}/${GetSafeName(pokemon.Name)}`}>
+                    <div className="Pokemon-Line-Item">
+                      <span className="Pokemon-Line-Item-Text">{PadNumber(pokemon.Number)}</span>
+                      <img src={`./sprites/${PadNumber(pokemon.Number)}.png`} className="Pokemon-Sprite"/>
+                      <span className="Pokemon-Line-Item-Text">{pokemon.Name}</span>
+                    </div>
+                  </Link>
               )
             })}
           </div>
@@ -50,22 +54,28 @@ function PokemonView() {
       <span className="Pokemon-Name">{Pokemon.Name}</span>
       <img className="Pokemon-Image" src={`/images/${PadNumber(Pokemon.Number)}.png`}></img>
       { Pokemon.EvolvesFrom &&
-        <div className="Flex-Column-Item ">
+        <div className="Flex-Column-Item Pokemon-Line-Item">
           <span>Evolves From:</span>
           <Link className="Evolution-Link"
-                  to={`${GetSafeName(Pokemon.EvolvesFrom.From)}`}>
-                  {Pokemon.EvolvesFrom.From}
-                </Link>
+            to={`${GetSafeName(Pokemon.EvolvesFrom.From)}`}>
+            <div className="Pokemon-Line-Item">
+              <img src={`/sprites/${PadNumber(GetPokemonSafe(Pokemon.EvolvesFrom.From).Number)}.png`} className="Pokemon-Sprite"/>
+              <span className="Pokemon-Line-Item-Text">{Pokemon.EvolvesFrom.From}</span>
+            </div>
+          </Link>
           <span className="Evolution-Link">{`(${GetLevelUpString(Pokemon.EvolvesFrom)})`}</span>
         </div>
       }
       { Pokemon.EvolvesInto && Pokemon.EvolvesInto.length == 1 &&
-        <div className="Flex-Column-Item ">
+        <div className="Flex-Column-Item Pokemon-Line-Item">
         <span>Evolves Into:</span>
         <Link className="Evolution-Link"
-                to={`${GetSafeName(Pokemon.EvolvesInto[0].Into)}`}>
-                {Pokemon.EvolvesInto[0].Into}
-              </Link>
+          to={`${GetSafeName(Pokemon.EvolvesInto[0].Into)}`}>
+          <div className="Pokemon-Line-Item">
+            <img src={`/sprites/${PadNumber(GetPokemonSafe(Pokemon.EvolvesInto[0].Into).Number)}.png`} className="Pokemon-Sprite"/>
+            <span className="Pokemon-Line-Item-Text">{Pokemon.EvolvesInto[0].Into}</span>
+          </div>
+        </Link>
         <span className="Evolution-Link">{`(${GetLevelUpString(Pokemon.EvolvesInto[0])})`}</span>
       </div>
       }
@@ -75,10 +85,13 @@ function PokemonView() {
           <div>
             { Pokemon.EvolvesInto.map((evolution => {
               return (
-              <div>
+              <div className="Pokemon-Line-Item">
                   <Link className="Evolution-Link Evolution-Pokemon"
                     to={`${GetSafeName(evolution.Into)}`}>
-                    {evolution.Into}
+                    <div className="Pokemon-Line-Item">
+                      <img src={`/sprites/${PadNumber(GetPokemonSafe(evolution.Into).Number)}.png`} className="Pokemon-Sprite"/>
+                      <span className="Pokemon-Line-Item-Text">{evolution.Into}</span>
+                    </div>
                   </Link>
                   <span className="Evolution-Link Evolution-Method">{`(${GetLevelUpString(evolution)})`}</span>
                 </div>

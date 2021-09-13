@@ -1,3 +1,5 @@
+import Data from "./DataContext";
+
 export function GetSafeName(name: string):string {
   name = name.toLowerCase();
   name = name.replace(/'/g,'');
@@ -20,4 +22,15 @@ export function GetLevelUpString(evolution:any):string {
   if (evolution.Friendship) {return `High Friendship`}
   if (evolution.Beauty) {return `High Beauty`}
   return 'Unknown'
+}
+
+interface Pokemon {
+  Number: string
+}
+
+export function GetPokemonSafe(name:string): Pokemon{
+  const safeName = GetSafeName(name);
+  var ret = Data.Pokemon.find(p => GetSafeName(p.Name) === safeName)
+  if(!ret) {ret = Data.Pokemon[0]}
+  return ret
 }
