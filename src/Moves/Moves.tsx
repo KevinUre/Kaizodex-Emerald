@@ -50,13 +50,15 @@ function MoveView() {
     <div className="Move-Container">
       <span className="Move-Name">{Move.Name}</span>
       <span className="Move-Description">{Move.Description}</span>
-      <div>
-        <span className="Move-Detail-Header">Power:</span>
-        <span>{Move.Power}</span>
-      </div>
+      { parseInt(Move.Power) > 0 && 
+        <div>
+          <span className="Move-Detail-Header">Power:</span>
+          <span>{Move.Power}</span>
+        </div>
+      }
       <div>
         <span className="Move-Detail-Header">Type:</span>
-        <span>{Move.Type}</span>
+        <Link className="Type" to={`../types/${GetSafeName(Move.Type)}`}>{Move.Type}</Link>
       </div>
       <div>
         <span className="Move-Detail-Header">Category:</span>

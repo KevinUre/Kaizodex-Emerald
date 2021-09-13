@@ -8,45 +8,34 @@
     flex-direction: column;
 }
 
+.Column-Container {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5rem;
+}
+
 .Type-Table {
     border: 1px solid #dddddd;
     border-collapse: collapse;
 }
 
-.Type-Row {
-    border: 1px solid #dddddd;
+.Type-Name {
+    font-size: 1.6rem;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 1rem;
 }
 
-.Corner {
+.Side-by-Side {
     display: flex;
-    flex-direction: column;
-    width: auto !important;
+    flex-direction: row;
 }
 
-.Type-Cell {
-    border: 1px solid #dddddd;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-    padding-left: 0.3rem;
-    padding-right: 0.3rem;
-    width: 4%;
+.Type-Pokemon-List-Header {
+    font-size: 1.3rem;
 }
-
-.Type-Header {
-    display: block;
-    transform-origin: top left;
-    transform: rotate(-90deg) translate(-100%);
-    margin-top: -50%;
-    white-space: nowrap;
-}
-
-.rot-wrap-out {
-    display: table;
-}
-
-.rot-wrap-in {
-    padding: 50% 0;
-    height: 0;
+.Type-Moves-List-Header {
+    font-size: 1.3rem;
 }
 
 /*  */
