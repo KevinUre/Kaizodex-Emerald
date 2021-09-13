@@ -8,6 +8,9 @@ import {
 import { GetLevelUpString, GetSafeName, PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Pokemon.css';
+import HoverMaster from "../Hover/HoverMaster";
+import Trigger from "../Hover/Trigger";
+import Hover from "../Hover/Hover";
 
 
 function Pokemon() {
@@ -133,6 +136,14 @@ function PokemonView() {
               return (
                 <tr key={index} className="Pokemon-Move-Row">
                   <td>
+                    {/* <HoverMaster options={{followCursor: true, shiftX:0, shiftY:0}}>
+                      <Trigger type="trigger">
+                        <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                      </Trigger>
+                      <Hover type="hover">
+                        <img className="Pokemon-Image" src={`/images/001.png`}></img>
+                      </Hover>
+                    </HoverMaster> */}
                     <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
                   </td>
                   <td>{move.Level}</td>
