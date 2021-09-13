@@ -17,3 +17,97 @@
     /* -webkit-text-stroke-width: 0.055rem;
     -webkit-text-stroke-color: black; */
 }
+
+.Pokemon-Container {
+    display: flex;
+    flex-direction: column;
+}
+
+.Pokemon-Image {
+    width: 250px;
+    height: 250px;
+    padding-bottom: 1rem;
+}
+
+.Pokemon-Name {
+    font-size: 2rem;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+
+.Pokemon-Types {
+    font-size: 1rem;
+    color: black;
+    margin-left: 1rem;
+    border: black;
+    border-width: 1px;
+}
+
+.Flex-Column-Item {
+    margin-top: 1rem;
+}
+
+.Flex-List-Vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+.Stats-Grid {
+    display: grid;
+    margin-left: 0.8rem;
+    grid-template-columns: 5rem 4rem;
+    grid-template-rows: 1.2rem;
+}
+
+.Evolution-Link {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+.Evolution-Link:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.Evolution-Grid {
+    display: grid;
+    margin-left: 0.8rem;
+    grid-template-columns: 5rem 7rem;
+    grid-template-rows: 1.2rem;
+}
+
+.Evolution-Pokemon {
+    grid-column-start: 1;
+}
+
+.Evolution-Method {
+    grid-column-start: 2;
+}
+
+.Location-Table {
+    border-spacing: 0px;
+}
+
+.Location-Info {
+    padding-right: 0.5rem;
+    padding-left: 1rem;
+}
+
+.Pokemon-Abilities {
+    font-size: 1rem;
+    color: black;
+    margin-left: 1rem;
+    border: black;
+    border-width: 1px;
+}
+
+.Pokemon-Move-Table {
+    border-spacing: 0px;
+}
+
+.Pokemon-Move-Name {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}

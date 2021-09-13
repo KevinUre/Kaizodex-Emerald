@@ -13,3 +13,11 @@ export function PadNumber(number:string): string {
   return number
 }
 
+export function GetLevelUpString(evolution:any):string {
+  if (evolution.Level) {return `Level ${evolution.Level}`}
+  if (evolution.Stone) {return `${evolution.Stone}`}
+  if (evolution.Trade) {return `Trade`}
+  if (evolution.Friendship) {return `High Friendship`}
+  if (evolution.Beauty) {return `High Beauty`}
+  return 'Unknown'
+}
