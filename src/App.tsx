@@ -18,6 +18,7 @@ function App() {
           <Link className="Navbar-Link" to="/pokemon">Pokemon</Link>
           <Link className="Navbar-Link" to="/locations">Locations</Link>
           <Link className="Navbar-Link" to="/moves">Moves</Link>
+          <Link className="Navbar-Link" to="/types">Types</Link>
           <Link className="Navbar-Link" to="/abilities">Abilities</Link>
         </nav>
         <div className="Main">
@@ -30,6 +31,9 @@ function App() {
               </Route>
               <Route path="/moves">
                 <p>Moves Under Construction</p>
+              </Route>
+              <Route path="/types">
+                <p>Types Under Construction</p>
               </Route>
               <Route path="/abilities">
                 <p>Abilities Under Construction</p>
