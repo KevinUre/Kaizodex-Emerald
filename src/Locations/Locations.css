@@ -28,6 +28,8 @@
 
 .Encounters-Frame {
     padding-left: 1rem;
+    display: flex;
+    flex-direction: column;
 }
 
 .Sub-Location-Header {
