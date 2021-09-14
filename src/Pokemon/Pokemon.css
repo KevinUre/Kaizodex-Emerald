@@ -34,7 +34,12 @@
     font-size: 2rem;
     color: black;
     font-weight: 700;
-    padding-bottom: 1rem;
+}
+
+.Pokemon-Number {
+    font-size: 1.7rem;
+    color: black;
+    font-weight: 600;
 }
 
 .Pokemon-Types {
@@ -140,4 +145,24 @@
     margin-left: -0.10rem;
     margin-right: -0.10rem;
     /* border: 1px solid black; */
+}
+
+.Pokemon-Arrow {
+    /* font-weight: 800; */
+}
+
+.Pokemon-Arrow-Container {
+    margin-left: 0 !important;
+}
+
+.Pokemon-Nav-Container {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pad-bottom-one-rem {
+    padding-bottom: 1rem;
 }

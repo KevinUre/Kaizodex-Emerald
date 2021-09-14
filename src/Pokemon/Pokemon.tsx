@@ -5,7 +5,7 @@ import {
   useRouteMatch,
   useParams
 } from "react-router-dom";
-import { GetLevelUpString, GetPokemonSafe, GetSafeName, PadNumber } from "../helpers"
+import { GetLevelUpString, GetNextPokemonSafe, GetPokemonSafe, GetPreviousPokemonSafe, GetSafeName, PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Pokemon.css';
 import HoverMaster from "../Hover/HoverMaster";
@@ -51,7 +51,28 @@ function PokemonView() {
   if (!Pokemon) { Pokemon = Data.Pokemon[0]; }
   return (
     <div className="Pokemon-Container">
-      <span className="Pokemon-Name">{Pokemon.Name}</span>
+      <div className="Pokemon-Nav-Container">
+        <Link className="Evolution-Link Pokemon-Arrow-Container"
+          to={`${GetSafeName(GetPreviousPokemonSafe(name).Name)}`}>
+          <div className="Pokemon-Line-Item">
+            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">🠜</span>
+            <img src={`/sprites/${PadNumber(GetPreviousPokemonSafe(name).Number)}.png`} className="Pokemon-Sprite"/>
+            <span className="Pokemon-Line-Item-Text">{GetPreviousPokemonSafe(name).Name}</span>
+          </div>
+        </Link>
+        <Link className="Evolution-Link Pokemon-Arrow-Container"
+          to={`${GetSafeName(GetNextPokemonSafe(name).Name)}`}>
+          <div className="Pokemon-Line-Item">
+            <span className="Pokemon-Line-Item-Text">{GetNextPokemonSafe(name).Name}</span>
+            <img src={`/sprites/${PadNumber(GetNextPokemonSafe(name).Number)}.png`} className="Pokemon-Sprite"/>
+            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">🠞</span>
+          </div>
+        </Link>
+      </div>
+      <div className="Pokemon-Nav-Container pad-bottom-one-rem">
+        <span className="Pokemon-Name">{Pokemon.Name}</span>
+        <span className="Pokemon-Number">{`(#${PadNumber(Pokemon.Number)})`}</span>
+      </div>
       <img className="Pokemon-Image" src={`/images/${PadNumber(Pokemon.Number)}.png`}></img>
       { Pokemon.EvolvesFrom &&
         <div className="Flex-Column-Item Pokemon-Line-Item">
