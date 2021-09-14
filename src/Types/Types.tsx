@@ -110,7 +110,9 @@ function TypeView() {
   name = name.charAt(0).toUpperCase() + name.slice(1);
   return (
     <div className="Type-Container">
-      <span className="Type-Name">{name}</span>
+      <div>
+      <span className={`Type-Name type-icon-big type-${GetSafeName(name)}`}>{name}</span>
+      </div>
       <div className="Side-by-Side">
         <div className="Column-Container">
           <span className="Type-Pokemon-List-Header">Pokemon with this Type:</span>

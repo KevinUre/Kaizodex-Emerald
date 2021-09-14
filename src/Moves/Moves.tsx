@@ -58,7 +58,8 @@ function MoveView() {
       }
       <div>
         <span className="Move-Detail-Header">Type:</span>
-        <Link className="Type" to={`../types/${GetSafeName(Move.Type)}`}>{Move.Type}</Link>
+        <Link className={`Type type-icon-slim type-${GetSafeName(Move.Type)}`} 
+        to={`../types/${GetSafeName(Move.Type)}`}>{Move.Type}</Link>
       </div>
       <div>
         <span className="Move-Detail-Header">Category:</span>
