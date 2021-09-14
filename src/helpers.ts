@@ -5,6 +5,7 @@ export function GetSafeName(name: string):string {
   name = name.replace(/'/g,'');
   name = name.replace(/\./g,'');
   name = name.replace(/\s/g,'-');
+  name = name.replace(/-\(postgame\)/g,'');
   return name;
 }
 
@@ -58,4 +59,11 @@ export function GetPreviousPokemonSafe(name:string): Pokemon {
   var next = Data.Pokemon.find(p => p.Number === number.toString())
   if(!next) {next = Data.Pokemon[0]}
   return next
+}
+
+export function GetParentLocationSafe(fullLocationUnsafe:string): string {
+  const fullLocationSafe = GetSafeName(fullLocationUnsafe);
+  var parentLocation = Data.Locations.find(l => fullLocationSafe.includes(GetSafeName(l.Location)));
+  if (!parentLocation) { parentLocation = Data.Locations[0]; }
+  return GetSafeName(parentLocation.Location);
 }

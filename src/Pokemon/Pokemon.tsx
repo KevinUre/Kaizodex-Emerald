@@ -5,7 +5,7 @@ import {
   useRouteMatch,
   useParams
 } from "react-router-dom";
-import { GetLevelUpString, GetNextPokemonSafe, GetPokemonSafe, GetPreviousPokemonSafe, GetSafeName, PadNumber } from "../helpers"
+import { GetLevelUpString, GetNextPokemonSafe, GetParentLocationSafe, GetPokemonSafe, GetPreviousPokemonSafe, GetSafeName, PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Pokemon.css';
 import HoverMaster from "../Hover/HoverMaster";
@@ -157,7 +157,7 @@ function PokemonView() {
           { Pokemon.FoundAt.map((encounter) => {
             return (
               <div>
-                <Link className="Location-Info" to={`../locations/${GetSafeName(encounter.Location)}`}>{encounter.Location}</Link>
+                <Link className="Location-Info" to={`../locations/${GetParentLocationSafe(encounter.Location)}`}>{encounter.Location}</Link>
                 <span>{`(${encounter.Type})`}</span>
               </div>
             )
