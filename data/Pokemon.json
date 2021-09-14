@@ -610,7 +610,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "60%"
 			},
@@ -714,7 +714,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "5%"
 			},
@@ -5157,12 +5157,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "20%"
 			},
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "15%"
 			},
@@ -10908,12 +10908,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Old rod",
 				"Frequency": "30%"
 			},
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "20%"
 			},
@@ -11019,7 +11019,7 @@
 		},
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "40%"
 			},
@@ -14550,7 +14550,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "30%"
 			},
@@ -14637,7 +14637,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Surf",
 				"Frequency": "5%"
 			},
@@ -23928,6 +23928,16 @@
 				"Level": "5"
 			}
 		],
+		"EvolvesInto": [
+			{
+				"Into": "Silcoon",
+				"Level": 7
+			},
+			{
+				"Into": "Cascoon",
+				"Level": 7
+			}
+		],
 		"FoundAt": [
 			{
 				"Location": "Route 101",
@@ -23963,6 +23973,10 @@
 				"Level": "7"
 			}
 		],
+		"EvolvesFrom": {
+			"From": "Wurmple",
+			"Level": 7
+		},
 		"EvolvesInto": [
 			{
 				"Into": "Beautifly",
@@ -24076,6 +24090,10 @@
 				"Level": "7"
 			}
 		],
+		"EvolvesFrom": {
+			"From": "Wurmple",
+			"Level": 7
+		},
 		"EvolvesInto": [
 			{
 				"Into": "Dustox",
@@ -30930,7 +30948,7 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Good rod",
 				"Frequency": "60%"
 			},
@@ -31044,7 +31062,7 @@
 		},
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "4%"
 			},
@@ -34025,12 +34043,12 @@
 		],
 		"FoundAt": [
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Old rod",
 				"Frequency": "70%"
 			},
 			{
-				"Location": "﻿Littleroot Town",
+				"Location": "Littleroot Town",
 				"Type": "Super rod",
 				"Frequency": "41%"
 			},

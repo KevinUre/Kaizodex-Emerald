@@ -35,6 +35,18 @@ bulbapediaData.forEach((element, index, array) => {
             Level: 16
         }
     }
+    if(element.Name === 'Silcoon' && !element.Evolution) {
+        element.Evolution = {
+            From: 'Wurmple',
+            Level: 7
+        }
+    }
+    if(element.Name === 'Cascoon' && !element.Evolution) {
+        element.Evolution = {
+            From: 'Wurmple',
+            Level: 7
+        }
+    }
     array[index] = element
 });
 
