@@ -25,3 +25,20 @@
     height: 159px;
     padding-bottom: 1rem;
 }
+
+.Encounters-Frame {
+    padding-left: 1rem;
+}
+
+.Sub-Location-Header {
+    font-size: 1.15rem;
+}
+
+.Encounters-Type {
+    font-size: 1.0rem;
+}
+
+.Frequency {
+    padding-left: 0.33rem;
+    font-size: 0.8rem;
+}

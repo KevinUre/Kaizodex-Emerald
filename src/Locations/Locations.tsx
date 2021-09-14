@@ -48,19 +48,71 @@ function LocationView() {
       <span className="Location-Name">{Location.Location}</span>
       <img src={`/maps/${GetSafeName(LocationName)}.png`} className="Location-Image"/>
       <span className="Location-Pokemon-List-Header">Pokemon found at this Location:</span>
-      { Data.Pokemon.filter((p)=>{ 
-        return p.FoundAt.filter((e) => { return e.Location.includes(LocationName)}).length > 0
-      }).map((pokemon)=>{
-        return (
-          <Link className="List-Item"
-            to={`../pokemon/${GetSafeName(pokemon.Name)}`}>
-            <div className="Pokemon-Line-Item">
-              <img src={`/sprites/${PadNumber(GetPokemonSafe(pokemon.Name).Number)}.png`} className="Pokemon-Sprite"/>
-              <span className="Pokemon-Line-Item-Text">{pokemon.Name}</span>
-            </div>
-          </Link>
-        )
-      })}
+      <div>
+        { Location.Encounters &&
+          Location.Encounters.map((encounter)=>{
+            return (
+              <div>
+                <span className="Encounters-Type">{encounter.Type}</span>
+                <div className="Encounters-Frame">
+                  {
+                    encounter.Pokemon.map(({Pokemon,Frequency})=>{
+                      return (
+                        <Link className="List-Item"
+                          to={`../pokemon/${GetSafeName(Pokemon)}`}>
+                          <div className="Pokemon-Line-Item">
+                            <img src={`/sprites/${PadNumber(GetPokemonSafe(Pokemon).Number)}.png`} className="Pokemon-Sprite"/>
+                            <span className="Pokemon-Line-Item-Text">{Pokemon}</span>
+                            <span className="Frequency">{`(${Frequency}%)`}</span>
+                          </div>
+                        </Link>
+                      )
+                    })
+                  }
+                </div>
+              </div>
+            )
+          })
+        }
+      </div>
+      <div>
+        { Location.SubLocations &&
+          Location.SubLocations.map((subLocation) => {
+            return (
+              <div>
+                <span className="Sub-Location-Header">{subLocation.Name}</span>
+                <div className="Encounters-Frame">
+                  {
+                    subLocation.Encounters.map((encounter)=>{
+                      return (
+                        <div>
+                          <span className="Encounters-Type">{encounter.Type}</span>
+                          <div className="Encounters-Frame">
+                            {
+                              encounter.Pokemon.map(({Pokemon,Frequency})=>{
+                                return (
+                                  <Link className="List-Item"
+                                    to={`../pokemon/${GetSafeName(Pokemon)}`}>
+                                    <div className="Pokemon-Line-Item">
+                                      <img src={`/sprites/${PadNumber(GetPokemonSafe(Pokemon).Number)}.png`} className="Pokemon-Sprite"/>
+                                      <span className="Pokemon-Line-Item-Text">{Pokemon}</span>
+                                      <span className="Frequency">{`(${Frequency}%)`}</span>
+                                    </div>
+                                  </Link>
+                                )
+                              })
+                            }
+                          </div>
+                        </div>
+                      )
+                    })
+                  }
+                </div>
+              </div>
+            )
+          })
+        }
+      </div>
     </div>
   )
 }
