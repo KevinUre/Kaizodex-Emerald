@@ -44,8 +44,9 @@ function LocationView() {
   if (!Location) { Location = Data.Locations[0]; }
   const LocationName = `${Location.Location}`;
   return (
-    <div className="Move-Container">
+    <div className="Location-Container">
       <span className="Location-Name">{Location.Location}</span>
+      <img src={`/maps/${GetSafeName(LocationName)}.png`} className="Location-Image"/>
       <span className="Location-Pokemon-List-Header">Pokemon found at this Location:</span>
       { Data.Pokemon.filter((p)=>{ 
         return p.FoundAt.filter((e) => { return e.Location.includes(LocationName)}).length > 0

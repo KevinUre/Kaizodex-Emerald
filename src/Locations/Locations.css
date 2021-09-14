@@ -19,3 +19,9 @@
 .Location-Pokemon-List-Header {
     font-size: 1.3rem;
 }
+
+.Location-Image {
+    width: 257px;
+    height: 159px;
+    padding-bottom: 1rem;
+}
