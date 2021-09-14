@@ -84,7 +84,7 @@ function PokemonView() {
               <span className="Pokemon-Line-Item-Text">{Pokemon.EvolvesFrom.From}</span>
             </div>
           </Link>
-          <span className="Evolution-Link">{`(${GetLevelUpString(Pokemon.EvolvesFrom)})`}</span>
+          <span className="Evolution-Method">{`(${GetLevelUpString(Pokemon.EvolvesFrom)})`}</span>
         </div>
       }
       { Pokemon.EvolvesInto && Pokemon.EvolvesInto.length == 1 &&
@@ -97,7 +97,7 @@ function PokemonView() {
             <span className="Pokemon-Line-Item-Text">{Pokemon.EvolvesInto[0].Into}</span>
           </div>
         </Link>
-        <span className="Evolution-Link">{`(${GetLevelUpString(Pokemon.EvolvesInto[0])})`}</span>
+        <span className="Evolution-Method">{`(${GetLevelUpString(Pokemon.EvolvesInto[0])})`}</span>
       </div>
       }
       { Pokemon.EvolvesInto && Pokemon.EvolvesInto.length > 1 &&
@@ -114,7 +114,7 @@ function PokemonView() {
                       <span className="Pokemon-Line-Item-Text">{evolution.Into}</span>
                     </div>
                   </Link>
-                  <span className="Evolution-Link Evolution-Method">{`(${GetLevelUpString(evolution)})`}</span>
+                  <span className="Evolution-Method">{`(${GetLevelUpString(evolution)})`}</span>
                 </div>
               )
             }))}
@@ -156,9 +156,9 @@ function PokemonView() {
           <span>Found At: </span>
           { Pokemon.FoundAt.map((encounter) => {
             return (
-              <div>
+              <div className="Location-Flex">
                 <Link className="Location-Info" to={`../locations/${GetParentLocationSafe(encounter.Location)}`}>{encounter.Location}</Link>
-                <span>{`(${encounter.Type})`}</span>
+                <span className="Location-Details">{`(${encounter.Type})`}</span>
               </div>
             )
           })}

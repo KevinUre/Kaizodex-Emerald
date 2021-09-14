@@ -90,18 +90,28 @@
 }
 
 .Evolution-Method {
-    grid-column-start: 2;
+    padding-left: 0.5rem;
+    font-size: 0.8rem;
+    align-self: center !important;
+    padding-top: 0.0rem;
 }
 
-.Location-Table {
-    border-spacing: 0px;
+.Location-Flex {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
 }
 
 .Location-Info {
-    padding-right: 0.5rem;
     padding-left: 1rem;
     text-decoration: none;
     color: black;
+}
+
+.Location-Details {
+    padding-left: 0.5rem;
+    font-size: 0.8rem;
+    align-self: center !important;
 }
 
 .Pokemon-Abilities {
