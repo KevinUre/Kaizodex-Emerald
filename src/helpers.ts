@@ -27,7 +27,8 @@ export function GetLevelUpString(evolution:any):string {
 
 interface Pokemon {
   Number: string,
-  Name: string
+  Name: string,
+  Types: string[],
 }
 
 export function GetPokemonSafe(name:string): Pokemon {

@@ -49,6 +49,32 @@ function PokemonView() {
   let { name } = useParams<{ name: string }>();
   let Pokemon = Data.Pokemon.find(p => GetSafeName(p.Name) === name);
   if (!Pokemon) { Pokemon = Data.Pokemon[0]; }
+  const fourXNotEffective: any[] = [];
+  const notEffective: any[] = [];
+  const weakness: any[] = [];
+  const fourXWeakness: any[] = [];
+  const immunity: any[] = [];
+  Data.Types.forEach(attackerType => {
+    let multiplier:number = 1;
+    Pokemon?.Types.forEach((defenderType) => {
+      // @ts-ignore
+      multiplier *= attackerType[GetSafeName(defenderType)]
+    })
+    const attackerTypeName =  attackerType.Type.charAt(0).toUpperCase() + attackerType.Type.slice(1)
+    if(multiplier == 0.25) {
+      fourXNotEffective.push(attackerTypeName);
+    } else if (multiplier == 0.5) {
+      notEffective.push(attackerTypeName);
+    } else if (multiplier == 2) {
+      weakness.push(attackerTypeName);
+    } else if (multiplier == 4) {
+      fourXWeakness.push(attackerTypeName);
+    } else if (multiplier == 0) {
+      immunity.push(attackerTypeName);
+    }
+  })
+  console.log(JSON.stringify(weakness))
+  console.log(JSON.stringify(notEffective))
   return (
     <div className="Pokemon-Container">
       <div className="Pokemon-Nav-Container">
@@ -165,27 +191,75 @@ function PokemonView() {
         </div>
       }
       <div className="Flex-Column-Item">
-          <span>Moves:</span>
-          <table className="Pokemon-Move-Table">
-            { Pokemon.Moves.map((move, index)=>{
-              return (
-                <tr key={index} className="Pokemon-Move-Row">
-                  <td>
-                    {/* <HoverMaster options={{followCursor: true, shiftX:0, shiftY:0}}>
-                      <Trigger type="trigger">
-                        <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
-                      </Trigger>
-                      <Hover type="hover">
-                        <img className="Pokemon-Image" src={`/images/001.png`}></img>
-                      </Hover>
-                    </HoverMaster> */}
-                    <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
-                  </td>
-                  <td>{move.Level}</td>
-                </tr>
-              )
-            })}
-          </table>
+        <span>Moves:</span>
+        <table className="Pokemon-Move-Table">
+          { Pokemon.Moves.map((move, index)=>{
+            return (
+              <tr key={index} className="Pokemon-Move-Row">
+                <td>
+                  {/* <HoverMaster options={{followCursor: true, shiftX:0, shiftY:0}}>
+                    <Trigger type="trigger">
+                      <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                    </Trigger>
+                    <Hover type="hover">
+                      <img className="Pokemon-Image" src={`/images/001.png`}></img>
+                    </Hover>
+                  </HoverMaster> */}
+                  <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                </td>
+                <td>{move.Level}</td>
+              </tr>
+            )
+          })}
+        </table>
+      </div>
+      <div className="Flex-Column-Item">
+        <div className="Type-Effectiveness-Header">Type Effectiveness:</div>
+        { fourXWeakness.length > 0 &&
+          <div className="types-comparison-line-item">
+          <span  className="Type-Comparison-Title">{`4x Weakness to:`}</span>
+              { fourXWeakness.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
+        { weakness.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span className="Type-Comparison-Title">{`Weak To:`}</span>
+              { weakness.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
+        { notEffective.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span className="Type-Comparison-Title">{`Resistant to:`}</span>
+              { notEffective.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
+        { fourXNotEffective.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span className="Type-Comparison-Title">{`4x Resistance to:`}</span>
+              { fourXNotEffective.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
+        { immunity.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span className="Type-Comparison-Title">{`Immune to:`}</span>
+              { immunity.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
       </div>
     </div>
   );

@@ -51,6 +51,23 @@
     text-decoration: none;
 }
 
+.Type-Effectiveness-Header {
+    margin-bottom: 0.2rem;
+}
+
+.types-comparison-line-item {
+    margin-left: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+.Type-Comparison-Title {
+    margin-right: 0.5rem;
+}
+
+.Type-Comparison-Type {
+    margin-left: 0.2rem !important;
+}
+
 .Flex-Column-Item {
     margin-top: 1rem;
 }
