@@ -73,8 +73,6 @@ function PokemonView() {
       immunity.push(attackerTypeName);
     }
   })
-  console.log(JSON.stringify(weakness))
-  console.log(JSON.stringify(notEffective))
   return (
     <div className="Pokemon-Container">
       <div className="Pokemon-Nav-Container">
