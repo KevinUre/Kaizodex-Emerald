@@ -68,3 +68,14 @@ export function GetParentLocationSafe(fullLocationUnsafe:string): string {
   if (!parentLocation) { parentLocation = Data.Locations[0]; }
   return GetSafeName(parentLocation.Location);
 }
+
+export function GetStatsTotal(Pokemon:any): number {
+  var sum = 0;
+  sum += parseInt(Pokemon.Stats.HP);
+  sum += parseInt(Pokemon.Stats.Attack);
+  sum += parseInt(Pokemon.Stats.SpecialAttack);
+  sum += parseInt(Pokemon.Stats.Defense);
+  sum += parseInt(Pokemon.Stats.SpecialDefense);
+  sum += parseInt(Pokemon.Stats.Speed);
+  return sum;
+}

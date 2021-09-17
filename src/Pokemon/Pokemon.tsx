@@ -5,7 +5,15 @@ import {
   useRouteMatch,
   useParams
 } from "react-router-dom";
-import { GetLevelUpString, GetNextPokemonSafe, GetParentLocationSafe, GetPokemonSafe, GetPreviousPokemonSafe, GetSafeName, PadNumber } from "../helpers"
+import { 
+  GetLevelUpString, 
+  GetNextPokemonSafe, 
+  GetParentLocationSafe, 
+  GetPokemonSafe, 
+  GetPreviousPokemonSafe, 
+  GetSafeName, 
+  GetStatsTotal,
+  PadNumber } from "../helpers"
 import Data from '../DataContext'
 import './Pokemon.css';
 import HoverMaster from "../Hover/HoverMaster";
@@ -153,7 +161,10 @@ function PokemonView() {
           })}
       </div>
       <div className="Flex-Column-Item">
-        <span>Stats:</span>
+        <div className="Location-Flex">
+          <span>Stats:</span>
+          <span className="Location-Details">{`(Total: ${GetStatsTotal(Pokemon)})`}</span>
+        </div>
         <div className="Stats-Grid">
           <span className="Stat-Type">HP</span>
           <span className="Stat">{Pokemon.Stats.HP}</span>
