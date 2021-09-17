@@ -108,10 +108,90 @@ function TypeView() {
   window.scrollTo(0, 0)
   let { name } = useParams<{ name: string }>();
   name = name.charAt(0).toUpperCase() + name.slice(1);
+  const attackerGood:any[] = []
+  const attackerBad:any[] = []
+  const attackerImpossible:any[] = []
+  const defenderWeakness:any[] = []
+  const defenderResistance:any[] = []
+  const defenderImmune:any[] = []
+  Data.Types.forEach((defenderType) => {
+    const defenderTypeName = defenderType.Type.charAt(0).toUpperCase() + defenderType.Type.slice(1)
+    //@ts-ignore
+    const multi:number = Data.Types.find(t => GetSafeName(t.Type) === GetSafeName(name))[GetSafeName(defenderType.Type)] 
+    if(multi == 2) {
+      attackerGood.push(defenderTypeName)
+    } else if(multi == 0.5) {
+      attackerBad.push(defenderTypeName)
+    } else if(multi == 0) {
+      attackerImpossible.push(defenderTypeName)
+    }
+  })
+  Data.Types.forEach((attackerType) => {
+    const attackerTypeName =  attackerType.Type.charAt(0).toUpperCase() + attackerType.Type.slice(1)
+    //@ts-ignore
+    const multi:number = attackerType[GetSafeName(name)]
+    if(multi == 2) {
+      defenderWeakness.push(attackerTypeName)
+    } else if(multi == 0.5) {
+      defenderResistance.push(attackerTypeName)
+    } else if(multi == 0) {
+      defenderImmune.push(attackerTypeName)
+    }
+  })
   return (
     <div className="Type-Container">
       <div>
       <span className={`Type-Name type-icon-big type-${GetSafeName(name)}`}>{name}</span>
+      </div>
+      <div>
+        <div className="Type-Effectiveness-Header">As an Attacker:</div>
+        <div className="types-comparison-line-item">
+          <span  className="Type-Comparison-Title">{`Super Effective against:`}</span>
+              { attackerGood.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        <div className="types-comparison-line-item">
+          <span  className="Type-Comparison-Title">{`Not Very Effective against:`}</span>
+              { attackerBad.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        { attackerImpossible.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span  className="Type-Comparison-Title">{`Can't Damage:`}</span>
+              { attackerImpossible.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
+        <div className="Type-Effectiveness-Header">As a Defender:</div>
+        <div className="types-comparison-line-item">
+          <span  className="Type-Comparison-Title">{`Weak to:`}</span>
+              { defenderWeakness.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        <div className="types-comparison-line-item">
+          <span  className="Type-Comparison-Title">{`Resistant to:`}</span>
+              { defenderResistance.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        { defenderImmune.length > 0 &&
+          <div className="types-comparison-line-item">
+            <span  className="Type-Comparison-Title">{`Immune to:`}</span>
+              { defenderImmune.map((type)=>{
+                return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)} Type-Comparison-Type`} 
+                to={`../types/${GetSafeName(type)}`}>{type}</Link>
+              })}
+          </div>
+        }
       </div>
       <div className="Side-by-Side">
         <div className="Column-Container">

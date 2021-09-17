@@ -47,6 +47,7 @@
 .Side-by-Side {
     display: flex;
     flex-direction: row;
+    margin-top: 1rem;
 }
 
 .Type-Pokemon-List-Header {
