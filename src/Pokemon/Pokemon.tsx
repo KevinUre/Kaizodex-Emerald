@@ -146,7 +146,7 @@ function PokemonView() {
         </div>
       }
       <div className="Flex-Column-Item">
-        <span>{Pokemon.Types.length > 1 ? `Types:` : `Type`}</span>
+        <span>{Pokemon.Types.length > 1 ? `Types:` : `Type:`}</span>
           { Pokemon.Types.map((type)=>{
             return <Link className={`Pokemon-Types type-icon-slim type-${GetSafeName(type)}`} 
             to={`../types/${GetSafeName(type)}`}>{type}</Link>
@@ -170,7 +170,7 @@ function PokemonView() {
         </div>
       </div>
       <div className="Flex-Column-Item">
-        <span>{Pokemon.Abilities.length > 1 ? `Abilities:` : `Ability`}</span>
+        <span>{Pokemon.Abilities.length > 1 ? `Abilities:` : `Ability:`}</span>
           { Pokemon.Abilities.map((ability)=>{
             return <Link className="Pokemon-Abilities" to={`../abilities/${GetSafeName(ability)}`}>{ability}</Link>
           })}
