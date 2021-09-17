@@ -175,42 +175,6 @@ function PokemonView() {
             return <Link className="Pokemon-Abilities" to={`../abilities/${GetSafeName(ability)}`}>{ability}</Link>
           })}
       </div>
-      { Pokemon.FoundAt.length > 0 &&
-        <div className="Flex-Column-Item">
-          <span>Found At: </span>
-          { Pokemon.FoundAt.map((encounter) => {
-            return (
-              <div className="Location-Flex">
-                <Link className="Location-Info" to={`../locations/${GetParentLocationSafe(encounter.Location)}`}>{encounter.Location}</Link>
-                <span className="Location-Details">{`(${encounter.Type})`}</span>
-              </div>
-            )
-          })}
-        </div>
-      }
-      <div className="Flex-Column-Item">
-        <span>Moves:</span>
-        <table className="Pokemon-Move-Table">
-          { Pokemon.Moves.map((move, index)=>{
-            return (
-              <tr key={index} className="Pokemon-Move-Row">
-                <td>
-                  {/* <HoverMaster options={{followCursor: true, shiftX:0, shiftY:0}}>
-                    <Trigger type="trigger">
-                      <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
-                    </Trigger>
-                    <Hover type="hover">
-                      <img className="Pokemon-Image" src={`/images/001.png`}></img>
-                    </Hover>
-                  </HoverMaster> */}
-                  <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
-                </td>
-                <td>{move.Level}</td>
-              </tr>
-            )
-          })}
-        </table>
-      </div>
       <div className="Flex-Column-Item">
         <div className="Type-Effectiveness-Header">Type Effectiveness:</div>
         { fourXWeakness.length > 0 &&
@@ -259,6 +223,42 @@ function PokemonView() {
           </div>
         }
       </div>
+      <div className="Flex-Column-Item">
+        <span>Moves:</span>
+        <table className="Pokemon-Move-Table">
+          { Pokemon.Moves.map((move, index)=>{
+            return (
+              <tr key={index} className="Pokemon-Move-Row">
+                <td>
+                  {/* <HoverMaster options={{followCursor: true, shiftX:0, shiftY:0}}>
+                    <Trigger type="trigger">
+                      <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                    </Trigger>
+                    <Hover type="hover">
+                      <img className="Pokemon-Image" src={`/images/001.png`}></img>
+                    </Hover>
+                  </HoverMaster> */}
+                  <Link className="Pokemon-Move-Name" to={`../moves/${GetSafeName(move.Move)}`}>{move.Move}</Link>
+                </td>
+                <td>{move.Level}</td>
+              </tr>
+            )
+          })}
+        </table>
+      </div>
+      { Pokemon.FoundAt.length > 0 &&
+        <div className="Flex-Column-Item">
+          <span>Found At: </span>
+          { Pokemon.FoundAt.map((encounter) => {
+            return (
+              <div className="Location-Flex">
+                <Link className="Location-Info" to={`../locations/${GetParentLocationSafe(encounter.Location)}`}>{encounter.Location}</Link>
+                <span className="Location-Details">{`(${encounter.Type})`}</span>
+              </div>
+            )
+          })}
+        </div>
+      }
     </div>
   );
 }
