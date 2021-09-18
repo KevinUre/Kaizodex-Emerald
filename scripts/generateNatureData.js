@@ -129,7 +129,7 @@ const natures = [
   },
   {
     Name: 'Serious',
-    Increased: 'Defense',
+    Increased: 'Speed',
     Decreased: 'Speed',
   },
 ]

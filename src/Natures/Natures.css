@@ -1,0 +1,65 @@
+
+
+.Natures-Container {
+    display: grid;
+    width: 600px;
+    height: 300px;
+    grid-template-columns: 20% 16% 16% 16% 16% 16%;
+    grid-template-rows: 20% 16% 16% 16% 16% 16%;
+}
+
+.Nature {
+    font-size: 1rem;
+    color: black;
+    display: block;
+    justify-self: center;
+    align-self: center;
+}
+
+.Nature-Title-Row {
+    grid-row-start: 1;
+}
+
+.Nature-Title-Column {
+    grid-column-start: 1;
+}
+
+.nature-attack-increased {
+    grid-row-start: 2;
+}
+
+.nature-defense-increased {
+    grid-row-start: 3;
+}
+
+.nature-sp-atk-increased {
+    grid-row-start: 4;
+}
+
+.nature-sp-def-increased {
+    grid-row-start: 5;
+}
+
+.nature-speed-increased {
+    grid-row-start: 6;
+}
+
+.nature-attack-decreased {
+    grid-column-start: 2;
+}
+
+.nature-defense-decreased {
+    grid-column-start: 3;
+}
+
+.nature-sp-atk-decreased {
+    grid-column-start: 4;
+}
+
+.nature-sp-def-decreased {
+    grid-column-start: 5;
+}
+
+.nature-speed-decreased {
+    grid-column-start: 6;
+}

@@ -10,6 +10,7 @@ import Abilities from './Abilities/Abilities';
 import Moves from './Moves/Moves';
 import Locations from './Locations/Locations';
 import Types from './Types/Types';
+import Natures from './Natures/Natures';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -24,6 +25,7 @@ function App() {
           <Link className="Navbar-Link" to="/moves">Moves</Link>
           <Link className="Navbar-Link" to="/types">Types</Link>
           <Link className="Navbar-Link" to="/abilities">Abilities</Link>
+          <Link className="Navbar-Link" to="/natures">Natures</Link>
         </nav>
           <Switch>
             <Route path="/pokemon">
@@ -49,6 +51,11 @@ function App() {
             <Route path="/abilities">
               <div className="Main">
                 <Abilities />
+              </div>
+            </Route>
+            <Route path="/natures">
+              <div className="Main">
+                <Natures />
               </div>
             </Route>
             <Route path="/">

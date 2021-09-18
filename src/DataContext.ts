@@ -4,6 +4,7 @@ import locations from './data/Locations.json'
 import moves from './data/Moves.json'
 import abilities from './data/Abilities.json'
 import types from './data/Types.json'
+import natures from './data/Natures.json'
 
 const Data = {
     Pokemon: pokemon,
@@ -11,6 +12,7 @@ const Data = {
     Moves: moves,
     Abilities: abilities,
     Types: types,
+    Natures: natures,
 };
 
 export default Data;
