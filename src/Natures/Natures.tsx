@@ -5,7 +5,7 @@ import './Natures.css';
 function Natures() {
   return (
     <div className="Natures-Container">
-    <div className='Nature Nature-Title-Column Nature-Title-Row'>Decreased&nbsp;→<br />Increased&nbsp;↴</div>
+    <div className='Nature Nature-Corner Nature-Title-Column Nature-Title-Row'>DECREASED&nbsp;→<br />INCREASED&nbsp;↴</div>
     <div className='Nature Nature-Title-Column nature-attack-increased'>Attack</div>
     <div className='Nature Nature-Title-Column nature-defense-increased'>Defense</div>
     <div className='Nature Nature-Title-Column nature-sp-atk-increased'>Sp Atk</div>

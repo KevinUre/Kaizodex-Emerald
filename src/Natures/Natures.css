@@ -16,6 +16,12 @@
     align-self: center;
 }
 
+.Nature-Corner {
+    font-size: 0.8rem !important;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
 .Nature-Title-Row {
     grid-row-start: 1;
 }
