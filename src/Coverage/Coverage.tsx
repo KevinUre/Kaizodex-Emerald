@@ -95,22 +95,32 @@ const tableSpacing = '2rem'
 const moveSetSpacing = '0.5rem'
 
 function Coverage() {
+  const [pokemon, setPokemon] = useState<Pokemon[]>();
+  const [moveSets, setMoveSets] = useState<LearnedMove[][]>();
   const [pokemon1, setPokemonOne] = useState<any>();
   const [moveSet1, setMovesOne] = useState<any>();
-  const [pokemon2, setPokemonTwo] = useState<any>();
-  const [moveSet2, setMovesTwo] = useState<any>();
-  const [pokemon3, setPokemonThree] = useState<any>();
-  const [moveSet3, setMovesThree] = useState<any>();
-  const [pokemon4, setPokemonFour] = useState<any>();
-  const [moveSet4, setMovesFour] = useState<any>();
-  const [pokemon5, setPokemonFive] = useState<any>();
-  const [moveSet5, setMovesFive] = useState<any>();
-  const [pokemon6, setPokemonSix] = useState<any>();
-  const [moveSet6, setMovesSix] = useState<any>();
+  const stupid = [0,1,2,3,4,5];
+
+  const safePokemonSet = (index: number, newValue: any) => {
+    console.log('updating state')
+    var newState = pokemon
+    // console.log(`old state: ${JSON.stringify(pokemon)}`)
+    if (!newState) {newState = []; /* console.log('created new blank state') */}
+    newState[index] = newValue
+    // console.log(`new state: ${JSON.stringify(newState)}`)
+    setPokemon(newState);
+  }
+
+  const safeMoveSetSet = (index: number, newValue: LearnedMove[]) => {
+    var newState = moveSets
+    if (!newState) {newState = []}
+    newState[index] = newValue
+    setMoveSets(newState);
+  }
 
   return (
     <div style={{display:'flex', flexDirection: 'column'}}>
-      <Autocomplete
+      {/* <Autocomplete
         disablePortal
         id="combo-box-demo"
         options={Data.Pokemon}
@@ -118,8 +128,25 @@ function Coverage() {
         onChange={(event,value) => {setPokemonOne(value)}}
         sx={{ width: 160 }}
         renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 1" />}
-      />
-      { getMoves(pokemon1).length > 0 && 
+      /> */}
+      {
+        stupid.map((index) => {
+          console.log('redrawing the thing')
+          if (index == 0 || (pokemon && pokemon[index-1]))
+          return (
+            <Autocomplete
+              disablePortal
+              id="combo-box-demo"
+              options={Data.Pokemon}
+              getOptionLabel={(pokemon) => pokemon.Name}
+              onChange={(event,value) => {safePokemonSet(index,value)}}
+              sx={{ width: 160 }}
+              renderInput={(params) => <TextField variant="standard" {...params} label={`Pokemon ${index+1}`} />}
+            />
+          )
+        })
+      }
+      {/* { getMoves(pokemon1).length > 0 && 
         <Autocomplete
           multiple
           id="combo-box-demo"
@@ -131,132 +158,7 @@ function Coverage() {
           style={{marginTop: moveSetSpacing}}
           renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 1's Moves" />}
         />
-      }
-      { pokemon1 && 
-        <Autocomplete
-          disablePortal
-          id="combo-box-demo"
-          options={Data.Pokemon}
-          getOptionLabel={(pokemon) => pokemon.Name}
-          onChange={(event,value) => {setPokemonTwo(value)}}
-          sx={{ width: 160 }}
-          style={{marginTop: pokemonSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 2" />}
-        />
-      }
-      { getMoves(pokemon2).length > 0 && 
-        <Autocomplete
-          multiple
-          id="combo-box-demo"
-          options={getMoves(pokemon2)}
-          //@ts-ignore
-          getOptionLabel={(move) => move.Move}
-          onChange={(event,value) => {setMovesTwo(value)}}
-          sx={{ width: 750 }}
-          style={{marginTop: moveSetSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 2's Moves" />}
-        />
-      }
-      { pokemon2 && 
-        <Autocomplete
-          disablePortal
-          id="combo-box-demo"
-          options={Data.Pokemon}
-          getOptionLabel={(pokemon) => pokemon.Name}
-          onChange={(event,value) => {setPokemonThree(value)}}
-          sx={{ width: 160 }}
-          style={{marginTop: pokemonSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 3" />}
-        />
-      }
-      { getMoves(pokemon3).length > 0 && 
-        <Autocomplete
-          multiple
-          id="combo-box-demo"
-          options={getMoves(pokemon3)}
-          //@ts-ignore
-          getOptionLabel={(move) => move.Move}
-          onChange={(event,value) => {setMovesThree(value)}}
-          sx={{ width: 750 }}
-          style={{marginTop: moveSetSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 3's Moves" />}
-        />
-      }
-      { pokemon3 && 
-        <Autocomplete
-          disablePortal
-          id="combo-box-demo"
-          options={Data.Pokemon}
-          getOptionLabel={(pokemon) => pokemon.Name}
-          onChange={(event,value) => {setPokemonFour(value)}}
-          sx={{ width: 160 }}
-          style={{marginTop: pokemonSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 4" />}
-        />
-      }
-      { getMoves(pokemon4).length > 0 && 
-        <Autocomplete
-          multiple
-          id="combo-box-demo"
-          options={getMoves(pokemon4)}
-          //@ts-ignore
-          getOptionLabel={(move) => move.Move}
-          onChange={(event,value) => {setMovesFour(value)}}
-          sx={{ width: 750 }}
-          style={{marginTop: moveSetSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 4's Moves" />}
-        />
-      }
-      { pokemon4 && 
-        <Autocomplete
-          disablePortal
-          id="combo-box-demo"
-          options={Data.Pokemon}
-          getOptionLabel={(pokemon) => pokemon.Name}
-          onChange={(event,value) => {setPokemonFive(value)}}
-          sx={{ width: 160 }}
-          style={{marginTop: pokemonSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 5" />}
-        />
-      }
-      { getMoves(pokemon5).length > 0 && 
-        <Autocomplete
-          multiple
-          id="combo-box-demo"
-          options={getMoves(pokemon5)}
-          //@ts-ignore
-          getOptionLabel={(move) => move.Move}
-          onChange={(event,value) => {setMovesFive(value)}}
-          sx={{ width: 750 }}
-          style={{marginTop: moveSetSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 5's Moves" />}
-        />
-      }
-      { pokemon5 && 
-        <Autocomplete
-          disablePortal
-          id="combo-box-demo"
-          options={Data.Pokemon}
-          getOptionLabel={(pokemon) => pokemon.Name}
-          onChange={(event,value) => {setPokemonSix(value)}}
-          sx={{ width: 160 }}
-          style={{marginTop: pokemonSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 6" />}
-        />
-      }
-      { getMoves(pokemon6).length > 0 && 
-        <Autocomplete
-          multiple
-          id="combo-box-demo"
-          options={getMoves(pokemon6)}
-          //@ts-ignore
-          getOptionLabel={(move) => move.Move}
-          onChange={(event,value) => {setMovesSix(value)}}
-          sx={{ width: 750 }}
-          style={{marginTop: moveSetSpacing}}
-          renderInput={(params) => <TextField variant="standard" {...params} label="Pokemon 6's Moves" />}
-        />
-      }
+      } */}
       <table className="type-table Type-Table" style={{marginTop: tableSpacing}}>
         <thead>
           <tr>
@@ -287,71 +189,6 @@ function Coverage() {
               {
                 Data.Types.map((type) => {
                   const effectiveness = getPokemonTankEffectivenessForType(pokemon1,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon2 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon2.Name)}`}>{pokemon2.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getPokemonTankEffectivenessForType(pokemon2,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon3 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon3.Name)}`}>{pokemon3.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getPokemonTankEffectivenessForType(pokemon3,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon4 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon4.Name)}`}>{pokemon4.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getPokemonTankEffectivenessForType(pokemon4,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon5 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon5.Name)}`}>{pokemon5.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getPokemonTankEffectivenessForType(pokemon5,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon6 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon6.Name)}`}>{pokemon6.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getPokemonTankEffectivenessForType(pokemon6,type.Type)
                   return (
                     <td className={`type-fx-cell type-fx-${getTankTableColor(effectiveness)}`}>{getTableIcon(effectiveness)}</td> 
                   )
@@ -391,71 +228,6 @@ function Coverage() {
               {
                 Data.Types.map((type) => {
                   const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet1,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon2 && moveSet2 && moveSet2.length > 0 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon2.Name)}`}>{pokemon2.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet2,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon3 && moveSet3 && moveSet3.length > 0 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon3.Name)}`}>{pokemon3.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet3,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon4 && moveSet4 && moveSet4.length > 0 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon4.Name)}`}>{pokemon4.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet4,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon5 && moveSet5 && moveSet5.length > 0 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon5.Name)}`}>{pokemon5.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet5,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
-          }
-          { pokemon6 && moveSet6 && moveSet6.length > 0 && 
-            <tr>
-              <th><Link className="" to={`../pokemon/${GetSafeName(pokemon6.Name)}`}>{pokemon6.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSet6,type.Type)
                   return (
                     <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
                   )
