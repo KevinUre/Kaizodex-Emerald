@@ -11,6 +11,7 @@ import Moves from './Moves/Moves';
 import Locations from './Locations/Locations';
 import Types from './Types/Types';
 import Natures from './Natures/Natures';
+import Coverage from './Coverage/Coverage';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -56,6 +57,11 @@ function App() {
             <Route path="/natures">
               <div className="Main">
                 <Natures />
+              </div>
+            </Route>
+            <Route path="/coverage">
+              <div className="Main">
+                <Coverage />
               </div>
             </Route>
             <Route path="/">
