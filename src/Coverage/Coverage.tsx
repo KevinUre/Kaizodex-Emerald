@@ -1,6 +1,6 @@
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import Data from '../DataContext';
+import Data, { LearnedMove, Pokemon } from '../DataContext';
 import { useState } from 'react';
 import {
   Switch,
@@ -12,16 +12,15 @@ import {
 import { GetSafeName } from '../helpers';
 import '../Types/Types.css';
 
-function getMoves(pokemon:any):any[] {
+function getMoves(pokemon:Pokemon):LearnedMove[] {
   if (!pokemon) { return [] }
   const pkmn = Data.Pokemon.find((p) => p.Name == pokemon.Name)
   if(!pkmn) {  return [] }
   return pkmn.Moves
 }
 
-function getPokemonTankEffectivenessForType(pokemon:any, type:any) {
+function getPokemonTankEffectivenessForType(pokemon:Pokemon, type:string) {
   var aggregate = 1;
-  //@ts-ignore
   pokemon.Types.forEach(defenderType => {
     const typeData = Data.Types.find(t => GetSafeName(t.Type) === GetSafeName(type))
     if (typeData) {
@@ -32,7 +31,7 @@ function getPokemonTankEffectivenessForType(pokemon:any, type:any) {
   return aggregate * 100;
 }
 
-function getEffectivenessForMoveSetAgainstType(moveset:any[], type:any) {
+function getEffectivenessForMoveSetAgainstType(moveset:LearnedMove[], type:string) {
   if(moveset.length == 0) { return 100; }
   var best = 0;
   moveset.forEach( setMove => {
