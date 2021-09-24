@@ -117,6 +117,8 @@ function getTypeTableHeader(cornerTitle: string) {
   )
 }
 
+
+
 const pokemonSpacing = '1rem'
 const tableSpacing = '2rem'
 const moveSetSpacing = '0.5rem'
@@ -137,11 +139,24 @@ function Coverage() {
     setMoveSets(newState);
   }
 
+  const shouldShowPokemonSelector = (index: number) => {
+    if (index == 0) { return true; }
+    if (!pokemon) { return false; }
+    for(var i = 0; i < index; i++) {
+      if (!pokemon[i]) { return false; }
+    }
+    return true;
+  }
+
+  const shouldShowMoveSelector = (index: number) => {
+    return pokemon && pokemon[index]
+  }
+
   return (
     <div style={{display:'flex', flexDirection: 'column'}}>
       {
         [...Array(6)].map((imUndefined, index) => {
-          if (index == 0 || (pokemon && pokemon[index-1])) {
+          if (shouldShowPokemonSelector(index)) {
             return (
               <div style={{marginBottom: pokemonSpacing, marginTop: pokemonSpacing}}>
                 <Autocomplete
@@ -153,7 +168,7 @@ function Coverage() {
                   sx={{ width: 160 }}
                   renderInput={(params) => <TextField variant="standard" {...params} label={`Pokemon ${index+1}`} />}
                 />
-                { (pokemon && pokemon[index]) &&
+                { shouldShowMoveSelector(index) &&
                   <Autocomplete
                     multiple
                     id="combo-box-demo"
