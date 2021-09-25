@@ -18,7 +18,7 @@ function Moves() {
           <MoveView />
         </Route>
         <Route path={`${match.path}`}>
-          <div className="List-Container">
+          <div style={{display:'flex', flexDirection:'column'}}>
             {Data.Moves.sort((a,b)=>{
               if (a.Name<b.Name) {return -1;}
               else if (b.Name>a.Name) { return 1;}
@@ -47,7 +47,7 @@ function MoveView() {
   if (!Move) { Move = Data.Moves[0]; }
   const MoveName = `${Move.Name}`;
   return (
-    <div className="Move-Container">
+    <div style={{display:'flex', flexDirection:'column'}}>
       <span className="Move-Name">{Move.Name}</span>
       <span className="Move-Description">{Move.Description}</span>
       { parseInt(Move.Power) > 0 && 

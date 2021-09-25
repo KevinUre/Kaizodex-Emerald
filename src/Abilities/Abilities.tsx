@@ -18,7 +18,7 @@ function Abilities() {
           <AbilityView />
         </Route>
         <Route path={`${match.path}`}>
-          <div className="List-Container">
+          <div style={{display:'flex', flexDirection:'column'}}>
             {Data.Abilities.sort((a,b)=>{
               if (a.Name<b.Name) {return -1;}
               else if (b.Name>a.Name) { return 1;}
@@ -47,7 +47,7 @@ function AbilityView() {
   if (!Ability) { Ability = Data.Abilities[0]; }
   const AbilityName = `${Ability.Name}`;
   return (
-    <div className="Ability-Container">
+    <div style={{display:'flex', flexDirection:'column'}}>
       <span className="Ability-Name">{Ability.Name}</span>
       <span className="Ability-Description">{Ability.Description}</span>
       <span className="Ability-Pokemon-List-Header">Pokemon with this Ability:</span>

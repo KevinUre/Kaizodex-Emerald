@@ -30,7 +30,7 @@ function Pokemon() {
           <PokemonView />
         </Route>
         <Route path={`${match.path}`}>
-          <div className="List-Container">
+          <div style={{display:'flex', flexDirection:'column'}}>
             {Data.Pokemon.map((pokemon) => {
               return (
                   <Link className="List-Item"

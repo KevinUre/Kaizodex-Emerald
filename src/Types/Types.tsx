@@ -139,7 +139,7 @@ function TypeView() {
     }
   })
   return (
-    <div className="Type-Container">
+    <div style={{display:'flex', flexDirection:'column'}}>
       <div>
       <span className={`Type-Name type-icon-big type-${GetSafeName(name)}`}>{name}</span>
       </div>

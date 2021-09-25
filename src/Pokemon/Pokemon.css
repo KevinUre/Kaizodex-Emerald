@@ -19,11 +19,6 @@
     -webkit-text-stroke-color: black; */
 }
 
-.Pokemon-Container {
-    display: flex;
-    flex-direction: column;
-}
-
 .Pokemon-Image {
     width: 250px;
     height: 250px;
@@ -70,11 +65,6 @@
 
 .Flex-Column-Item {
     margin-top: 1rem;
-}
-
-.Flex-List-Vertical {
-    display: flex;
-    flex-direction: column;
 }
 
 .Stats-Grid {

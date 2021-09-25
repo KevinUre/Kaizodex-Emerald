@@ -1,14 +1,3 @@
-.List-Container {
-    display: flex;
-    flex-direction: column;
-}
-
-.Move-Container {
-    display: flex;
-    flex-direction: column;
-}
-
-
 .Move-Name {
     font-size: 1.6rem;
     color: black;

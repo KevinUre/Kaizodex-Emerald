@@ -1,20 +1,9 @@
-.List-Container {
-    display: flex;
-    flex-direction: column;
-}
-
-.Location-Container {
-    display: flex;
-    flex-direction: column;
-}
-
 .Location-Name {
     font-size: 1.6rem;
     color: black;
     font-weight: 700;
     padding-bottom: 1rem;
 }
-
 
 .Location-Pokemon-List-Header {
     font-size: 1.3rem;

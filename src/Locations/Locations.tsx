@@ -19,7 +19,7 @@ function Locations() {
           <LocationView />
         </Route>
         <Route path={`${match.path}`}>
-          <div className="List-Container">
+          <div style={{display:'flex', flexDirection:'column'}}>
             {Data.Locations.map((loc) => {
               return (
                 <Link className="List-Item"
@@ -44,7 +44,7 @@ function LocationView() {
   if (!Location) { Location = Data.Locations[0]; }
   const LocationName = `${Location.Location}`;
   return (
-    <div className="Location-Container">
+    <div style={{display:'flex', flexDirection:'column'}}>
       <span className="Location-Name">{Location.Location}</span>
       <img src={`/maps/${GetSafeName(LocationName)}.png`} className="Location-Image"/>
       <span className="Location-Pokemon-List-Header">Pokemon found at this Location:</span>

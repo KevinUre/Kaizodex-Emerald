@@ -1,13 +1,3 @@
-.List-Container {
-    display: flex;
-    flex-direction: column;
-}
-
-.Ability-Container {
-    display: flex;
-    flex-direction: column;
-}
-
 .Ability-Name {
     font-size: 1.6rem;
     color: black;
