@@ -30,6 +30,23 @@
   -webkit-text-stroke-color: black; */
 }
 
+.Main-Link {
+  padding: 0.3rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+  margin-right: 0.6rem;
+  margin-left: 0.6rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: black;
+}
+
+.Main-Link:visited {
+  text-decoration: none;
+  color: black;
+}
+
 .Home-Button {
   font-size: 2rem;
   color: #FECB00 !important;

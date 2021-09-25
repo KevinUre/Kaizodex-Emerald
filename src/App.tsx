@@ -25,52 +25,44 @@ function App() {
           <Link className="Navbar-Link" to="/locations">Locations</Link>
           <Link className="Navbar-Link" to="/moves">Moves</Link>
           <Link className="Navbar-Link" to="/types">Types</Link>
-          <Link className="Navbar-Link" to="/abilities">Abilities</Link>
-          <Link className="Navbar-Link" to="/natures">Natures</Link>
         </nav>
+        <div className="Main">
           <Switch>
             <Route path="/pokemon">
-              <div className="Main">
-                <Pokemon />
-              </div>
+              <Pokemon />
             </Route>
             <Route path="/locations">
-              <div className="Main">
                 <Locations/>
-              </div>
             </Route>
             <Route path="/moves">
-              <div className="Main">
                 <Moves />
-              </div>
             </Route>
             <Route path="/types">
-              <div className="Main">
                 <Types />
-              </div>
             </Route>
             <Route path="/abilities">
-              <div className="Main">
                 <Abilities />
-              </div>
             </Route>
             <Route path="/natures">
-              <div className="Main">
                 <Natures />
-              </div>
             </Route>
             <Route path="/coverage">
-              <div className="Main">
                 <Coverage />
-              </div>
             </Route>
             <Route path="/">
-              <div className= "splash-container">
-                <img className="splash" src={"/splash.png"}/>
+              <div style={{display: 'flex', flexDirection:'column', width:'fit-content'}}>
+                <Link className="Main-Link" to="/pokemon">Pokemon</Link>
+                <Link className="Main-Link" to="/locations">Locations</Link>
+                <Link className="Main-Link" to="/moves">Moves</Link>
+                <Link className="Main-Link" to="/types">Types</Link>
+                <Link className="Main-Link" to="/abilities">Abilities</Link>
+                <Link className="Main-Link" to="/natures">Natures</Link>
+                <Link className="Main-Link" to="/coverage">Coverage</Link>
               </div>
             </Route>
           </Switch>
         </div>
+      </div>
     </BrowserRouter>
   );
 }
