@@ -82,12 +82,12 @@ function PokemonView() {
     }
   })
   return (
-    <div className="Pokemon-Container">
+    <div style={{display:'flex', flexDirection:'column'}}>
       <div className="Pokemon-Nav-Container">
         <Link className="Evolution-Link Pokemon-Arrow-Container"
           to={`${GetSafeName(GetPreviousPokemonSafe(name).Name)}`}>
           <div className="Pokemon-Line-Item">
-            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">🠜</span>
+            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">←</span>
             <img src={`/sprites/${PadNumber(GetPreviousPokemonSafe(name).Number)}.png`} className="Pokemon-Sprite"/>
             <span className="Pokemon-Line-Item-Text">{GetPreviousPokemonSafe(name).Name}</span>
           </div>
@@ -97,7 +97,7 @@ function PokemonView() {
           <div className="Pokemon-Line-Item">
             <span className="Pokemon-Line-Item-Text">{GetNextPokemonSafe(name).Name}</span>
             <img src={`/sprites/${PadNumber(GetNextPokemonSafe(name).Number)}.png`} className="Pokemon-Sprite"/>
-            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">🠞</span>
+            <span className="Pokemon-Line-Item-Text Pokemon-Arrow">→</span>
           </div>
         </Link>
       </div>
