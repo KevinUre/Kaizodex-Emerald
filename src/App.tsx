@@ -32,22 +32,22 @@ function App() {
               <Pokemon />
             </Route>
             <Route path="/locations">
-                <Locations/>
+              <Locations/>
             </Route>
             <Route path="/moves">
-                <Moves />
+              <Moves />
             </Route>
             <Route path="/types">
-                <Types />
+              <Types />
             </Route>
             <Route path="/abilities">
-                <Abilities />
+              <Abilities />
             </Route>
             <Route path="/natures">
-                <Natures />
+              <Natures />
             </Route>
             <Route path="/coverage">
-                <Coverage />
+              <Coverage />
             </Route>
             <Route path="/">
               <div style={{display: 'flex', flexDirection:'column', width:'fit-content'}}>
