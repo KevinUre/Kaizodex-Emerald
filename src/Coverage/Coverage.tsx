@@ -117,27 +117,52 @@ function getTypeTableHeader(cornerTitle: string) {
   )
 }
 
-
-
 const pokemonSpacing = '1rem'
 const tableSpacing = '2rem'
 const moveSetSpacing = '0.5rem'
 
+// const decodeBase64 = (str: string):string => Buffer.from(str, 'base64').toString('binary');
+// const encodeBase64 = (str: string):string => Buffer.from(str, 'binary').toString('base64');
+
 function Coverage() {
   const [pokemon, setPokemon] = useState<Pokemon[]>([]);
   const [moveSets, setMoveSets] = useState<LearnedMove[][]>([]);
+  // const [stateHash, setStateHash] = useState<string>('');
 
   const safePokemonSet = (index: number, newValue: any) => {
     var newState = [...pokemon]
     newState[index] = newValue
+    newState = newState.filter(e => e)
     setPokemon(newState);
   }
 
   const safeMoveSetSet = (index: number, newValue: LearnedMove[]) => {
     var newState = [...moveSets]
-    newState[index] = newValue
+    var next = newValue.filter(e=>e)
+    // @ts-ignore
+    if (next.length == 0) { next = undefined }
+    newState[index] = next
+    newState = newState.filter(e => e)
     setMoveSets(newState);
   }
+
+  // const generateNewHash = () => {
+  //   console.log(`Generating new Hash`);
+  //   const newHashObject = {
+  //     Pokemon: [...(pokemon.map(p=>p.Name))],
+  //     Moves: [...(moveSets.map(ms=>ms.map(lm=>lm.Move)))]
+  //   }
+  //   console.log(`${JSON.stringify(newHashObject)}`)
+  //   const newHash = encodeBase64(JSON.stringify(newHashObject))
+  //   if (newHash !== stateHash) {
+  //     safeSetNewHash(newHash)
+  //   }
+  // }
+
+  // const safeSetNewHash = (hash:string) => {
+  //   console.log(`Request to Set new Hash`);
+
+  // }
 
   const shouldShowPokemonSelector = (index: number) => {
     if (index == 0) { return true; }
@@ -151,6 +176,8 @@ function Coverage() {
   const shouldShowMoveSelector = (index: number) => {
     return pokemon && pokemon[index]
   }
+
+  // generateNewHash();
 
   return (
     <div style={{display:'flex', flexDirection: 'column'}}>
@@ -233,6 +260,7 @@ function Coverage() {
           }
         </tbody>
       </table>
+      {/* <TextField size="small" label="Session Hash" style={{marginTop:'1rem'}}/> */}
     </div>
   )
 }
