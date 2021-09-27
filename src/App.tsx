@@ -111,7 +111,7 @@ function App() {
               //@ts-ignore
               onChange={(event,value) => {setSearch(value)}}
               key={navKey}
-              sx={{ width: 260, color:'white' }}
+              sx={{ flexGrow: 1, minWidth: 260, maxWidth: 500 }}
               style={{marginLeft: '1rem', marginBottom: '0.468rem', alignSelf: 'end'}}
               renderInput={(params) => {
                 return (
