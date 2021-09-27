@@ -114,7 +114,7 @@ function App() {
             //@ts-ignore
             onChange={(event,value) => {setSearch(value)}}
             value={search}
-            sx={{ width: 260 }}
+            sx={{ width: 260, color:'white' }}
             style={{marginLeft: '1rem'}}
             renderInput={(params) => {
               return (
@@ -122,7 +122,7 @@ function App() {
                   <TextField {...params} label={`Search`}/>
                   {/* @ts-ignore */}
                   <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
-                    <IconButton size="medium" color="inherit" onClick={()=>{ setSearch(undefined) }}>
+                    <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{setSearch(undefined)})()}}>
                       <SearchIcon />
                     </IconButton>
                   </Link>
