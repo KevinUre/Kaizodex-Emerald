@@ -91,6 +91,7 @@ const darkTheme = createTheme({
 
 function App() {
   const [search, setSearch] = useState<SearchData>();
+  const [navKey, resetNav] = useState<string>();
 
   return (
     <BrowserRouter>
@@ -109,7 +110,7 @@ function App() {
               selectOnFocus={true}
               //@ts-ignore
               onChange={(event,value) => {setSearch(value)}}
-              value={search}
+              key={navKey}
               sx={{ width: 260, color:'white' }}
               style={{marginLeft: '1rem', marginBottom: '0.468rem', alignSelf: 'end'}}
               renderInput={(params) => {
@@ -118,7 +119,7 @@ function App() {
                     <TextField {...params} label={`Search`}/>
                     {/* @ts-ignore */}
                     <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
-                      <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{setSearch(undefined)})()}}>
+                      <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{resetNav(search?.Name)})()}}>
                         <SearchIcon />
                       </IconButton>
                     </Link>
