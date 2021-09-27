@@ -112,7 +112,7 @@ function App() {
               onChange={(event,value) => {setSearch(value)}}
               key={navKey}
               sx={{ flexGrow: 1, minWidth: 260, maxWidth: 500 }}
-              style={{marginLeft: '1rem', marginBottom: '0.468rem', alignSelf: 'end'}}
+              style={{marginLeft: '1rem', marginRight: '0.5rem', marginBottom: '0.468rem', alignSelf: 'end'}}
               renderInput={(params) => {
                 return (
                   <div style={{display: 'flex', flexDirection:'row', alignContent: 'center'}}>
