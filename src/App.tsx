@@ -78,6 +78,22 @@ function getSearchLink(item:SearchData): string {
   return '/'
 }
 
+const SearchBox = styled(Autocomplete)({
+  color: 'white',
+  inputRoot: {
+    color:'white',
+    "& .MuiOutlinedInput-notchedOutline": {
+      borderColor: "green"
+    },
+    "&:hover .MuiOutlinedInput-notchedOutline": {
+      borderColor: "red"
+    },
+    "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+      borderColor: "purple"
+    }
+  }
+})
+
 function App() {
   const [search, setSearch] = useState<SearchData>();
 
@@ -87,17 +103,18 @@ function App() {
         <nav className="Nav-bar">
           <Link className="Navbar-Link Home-Button" to="/">Kaizodex Emerald</Link>
           <Link className="Navbar-Link" to="/types">Types</Link>
-          <Autocomplete
+          <SearchBox
             disablePortal
             id="combo-box-demo"
             size="small"
             options={getSearch()}
             //@ts-ignore
             getOptionLabel={(i) => i.Name}
+            selectOnFocus={true}
             //@ts-ignore
             onChange={(event,value) => {setSearch(value)}}
             sx={{ width: 260 }}
-            style={{marginLeft: '1rem', borderColor:'white'}}
+            style={{marginLeft: '1rem'}}
             renderInput={(params) => {
               return (
                 <div style={{display: 'flex', flexDirection:'row', alignContent: 'center'}}>
