@@ -21,7 +21,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import IconButton from '@mui/material/IconButton';
 import { useState } from 'react';
 import { GetSafeName } from './helpers';
-import { styled, alpha } from '@mui/material/styles';
+import { styled, alpha, createTheme, ThemeProvider } from '@mui/material/styles';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -78,21 +78,16 @@ function getSearchLink(item:SearchData): string {
   return '/'
 }
 
-const SearchBox = styled(Autocomplete)({
-  color: 'white',
-  inputRoot: {
-    color:'white',
-    "& .MuiOutlinedInput-notchedOutline": {
-      borderColor: "green"
-    },
-    "&:hover .MuiOutlinedInput-notchedOutline": {
-      borderColor: "red"
-    },
-    "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
-      borderColor: "purple"
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+    primary: {
+      main: '#fff',
+      light: '#fff',
+      dark: '#fff',
     }
   }
-})
+});
 
 function App() {
   const [search, setSearch] = useState<SearchData>();
@@ -103,33 +98,35 @@ function App() {
         <nav className="Nav-bar">
           <Link className="Navbar-Link Home-Button" to="/">Kaizodex Emerald</Link>
           <Link className="Navbar-Link" to="/types">Types</Link>
-          <SearchBox
-            disablePortal
-            id="combo-box-demo"
-            size="small"
-            options={getSearch()}
-            //@ts-ignore
-            getOptionLabel={(i) => i.Name}
-            selectOnFocus={true}
-            //@ts-ignore
-            onChange={(event,value) => {setSearch(value)}}
-            value={search}
-            sx={{ width: 260, color:'white' }}
-            style={{marginLeft: '1rem'}}
-            renderInput={(params) => {
-              return (
-                <div style={{display: 'flex', flexDirection:'row', alignContent: 'center'}}>
-                  <TextField {...params} label={`Search`}/>
-                  {/* @ts-ignore */}
-                  <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
-                    <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{setSearch(undefined)})()}}>
-                      <SearchIcon />
-                    </IconButton>
-                  </Link>
-                </div>
-              ) 
-            }}
-          />
+          <ThemeProvider theme={darkTheme}>
+            <Autocomplete
+              disablePortal
+              id="combo-box-demo"
+              size="small"
+              options={getSearch()}
+              //@ts-ignore
+              getOptionLabel={(i) => i.Name}
+              selectOnFocus={true}
+              //@ts-ignore
+              onChange={(event,value) => {setSearch(value)}}
+              value={search}
+              sx={{ width: 260, color:'white' }}
+              style={{marginLeft: '1rem', marginBottom: '0.468rem', alignSelf: 'end'}}
+              renderInput={(params) => {
+                return (
+                  <div style={{display: 'flex', flexDirection:'row', alignContent: 'center'}}>
+                    <TextField {...params} label={`Search`}/>
+                    {/* @ts-ignore */}
+                    <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
+                      <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{setSearch(undefined)})()}}>
+                        <SearchIcon />
+                      </IconButton>
+                    </Link>
+                  </div>
+                ) 
+              }}
+            />
+          </ThemeProvider>
         </nav>
         <div className="Main">
           <Switch>
