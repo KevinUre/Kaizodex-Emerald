@@ -113,6 +113,7 @@ function App() {
             selectOnFocus={true}
             //@ts-ignore
             onChange={(event,value) => {setSearch(value)}}
+            value={search}
             sx={{ width: 260 }}
             style={{marginLeft: '1rem'}}
             renderInput={(params) => {
@@ -121,7 +122,7 @@ function App() {
                   <TextField {...params} label={`Search`}/>
                   {/* @ts-ignore */}
                   <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
-                    <IconButton size="medium" color="inherit" onClick={()=>{ /* figure out how to clear search box */ }}>
+                    <IconButton size="medium" color="inherit" onClick={()=>{ setSearch(undefined) }}>
                       <SearchIcon />
                     </IconButton>
                   </Link>
