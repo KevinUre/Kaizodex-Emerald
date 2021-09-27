@@ -33,6 +33,57 @@ function getMoves(pokemon:Pokemon):Move[] {
   return moves.concat(allOtherMoves)
 }
 
+function listSetIncludesList(sets:any[][], item:any[]): boolean {
+  for(var set of sets) {
+    var match = true
+    for(var member of item) {
+      if (!set.includes(member)) { match = false }
+    }
+    if(match) { return true }
+  }
+  return false
+}
+
+function listContainsDuplicates(list:any[]): boolean {
+  var temp = [...list].sort()
+  for(var i = 0; i < temp.length-1; i++) {
+    if (temp[i] === temp[i+1]) { return true; }
+  }
+  return false
+}
+
+function combinatorics(allElements: Move[], sampleSize: number): Move[][] {
+  console.log(`Solution Space: ${JSON.stringify(allElements)}`)
+  if (allElements.length < sampleSize ) { return [] }
+  const indices: number[] = []
+  const combinations: Move[][] = []
+  for (var i = 0; i < sampleSize; i++) {indices[i] = 0}
+  const shouldStop = (indices:number[], searchSize:number) => {
+    var should = true;
+    indices.forEach(i => {
+      if (i < searchSize-1) { should = false }
+    })
+    return !should
+  }
+  const bigEndianIncrement = (indices:number[], searchSize:number) => {
+    indices[indices.length-1] = indices[indices.length-1] + 1
+    for(var i = indices.length-1; i > 0; i--) {
+      if (indices[i] == searchSize) {
+        indices[i] = 0
+        indices[i-1] = indices[i-1] + 1
+      }
+    }
+  }
+  for(; shouldStop(indices,allElements.length); bigEndianIncrement(indices,allElements.length)) {
+    if(listContainsDuplicates(indices)) { continue; }
+    var possibleNewCombination = []
+    for(var index of indices) { possibleNewCombination.push(allElements[index]) }
+    if(!listSetIncludesList(combinations, possibleNewCombination)){ combinations.push(possibleNewCombination); console.log(`New Combination: ${JSON.stringify(possibleNewCombination)}`) }
+  }
+  console.log(`All Combinations: ${JSON.stringify(combinations)}`)
+  return combinations
+}
+
 function getPokemonTankEffectivenessForType(pokemon:Pokemon, type:string) {
   var aggregate = 1;
   pokemon.Types.forEach(defenderType => {
@@ -130,6 +181,10 @@ function getTypeTableHeader(cornerTitle: string) {
   )
 }
 
+function getRowName(set:Move[]): string {
+  return `${set[0].Name}, ${set[1].Name}, ${set[2].Name}, ${set[3].Name}`
+}
+
 const pokemonSpacing = '1rem'
 const tableSpacing = '2rem'
 const moveSetSpacing = '0.5rem'
@@ -137,6 +192,10 @@ const moveSetSpacing = '0.5rem'
 function MoveSetSelector() {
   const [pokemon, setPokemon] = useState<Pokemon>();
   const [moveSets, setMoveSets] = useState<Move[]>([]);
+
+  var combinations = combinatorics(moveSets, 4);
+  console.log(`Selected Moves: ${JSON.stringify(moveSets)}`)
+  console.log(`Combinations(${combinations.length}): ${JSON.stringify(combinations)}`)
 
   return (
     <div style={{display:'flex', flexDirection: 'column'}}>
@@ -162,7 +221,7 @@ function MoveSetSelector() {
         renderInput={(params) => <TextField variant="standard" {...params} label={`${pokemon?.Name}'s Moves`} />}
       />
       <table className="type-table Type-Table" style={{marginTop: tableSpacing, width: 'fit-content'}}>
-        { getTypeTableHeader('As a Defender') }
+        { getTypeTableHeader('') }
         <tbody>
           { pokemon &&
             <tr>
@@ -177,27 +236,28 @@ function MoveSetSelector() {
               }
             </tr>
           }
-        </tbody>
-      </table>
-      <table className="type-table Type-Table" style={{marginTop: tableSpacing, width: 'fit-content'}}>
-        { getTypeTableHeader('As an Attacker') }
-        <tbody>
-          { pokemon && moveSets && moveSets.length > 0 &&
-            <tr>
-              <th><Link style={{textDecoration: 'none', color: 'black'}} to={`../pokemon/${GetSafeName(pokemon.Name)}`}>{pokemon.Name}</Link></th>
-              {
-                Data.Types.map((type) => {
-                  const effectiveness = getEffectivenessForMoveSetAgainstType(moveSets,type.Type)
-                  return (
-                    <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
-                  )
-                })
-              }
-            </tr>
+          
+          { combinations.length > 0 &&
+            combinations.map((possibleSet) => {
+              console.log(`Making a line for set: ${JSON.stringify(possibleSet)}`)
+              return (
+                <tr>
+                  <th style={{fontSize:'0.75rem', fontWeight:'normal'}}>{getRowName(possibleSet)}</th>
+                  {
+                    Data.Types.map((type) => {
+                      const effectiveness = getEffectivenessForMoveSetAgainstType(possibleSet,type.Type)
+                      console.log(`Effectiveness of set is ${effectiveness} against ${type.Type}`)
+                      return (
+                        <td className={`type-fx-cell type-fx-${effectiveness}`}>{getTableIcon(effectiveness)}</td> 
+                      )
+                    })
+                  }
+                </tr>
+              )
+            })
           }
         </tbody>
       </table>
-      {/* <TextField size="small" label="Session Hash" style={{marginTop:'1rem'}}/> */}
     </div>
   )
 }
