@@ -12,6 +12,7 @@ import Locations from './Locations/Locations';
 import Types from './Types/Types';
 import Natures from './Natures/Natures';
 import Coverage from './Coverage/Coverage';
+import MoveSetSelector from './MoveSetSelector/MoveSetSelector';
 
 // https://reactrouter.com/web/guides/quick-start
 
@@ -49,6 +50,9 @@ function App() {
             <Route path="/coverage">
               <Coverage />
             </Route>
+            <Route path="/moveSetSelector">
+              <MoveSetSelector />
+            </Route>
             <Route path="/">
               <div style={{display: 'flex', flexDirection:'column', width:'fit-content'}}>
                 <Link className="Main-Link" to="/pokemon">Pokemon</Link>
@@ -58,6 +62,7 @@ function App() {
                 <Link className="Main-Link" to="/abilities">Abilities</Link>
                 <Link className="Main-Link" to="/natures">Natures</Link>
                 <Link className="Main-Link" to="/coverage">Coverage</Link>
+                <Link className="Main-Link" to="/moveSetSelector">Move Selector</Link>
               </div>
             </Route>
           </Switch>
