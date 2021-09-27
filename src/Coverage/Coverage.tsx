@@ -1,6 +1,6 @@
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import Data, { LearnedMove, Pokemon } from '../DataContext';
+import Data, { LearnedMove, Move, Pokemon } from '../DataContext';
 import { useState } from 'react';
 import {
   Switch,
@@ -12,11 +12,25 @@ import {
 import { GetSafeName } from '../helpers';
 import '../Types/Types.css';
 
-function getMoves(pokemon:Pokemon):LearnedMove[] {
+function getMoves(pokemon:Pokemon):Move[] {
   if (!pokemon) { return [] }
   const pkmn = Data.Pokemon.find((p) => p.Name == pokemon.Name)
   if(!pkmn) {  return [] }
-  return pkmn.Moves
+  const learnedMoves = [...pkmn.Moves]
+  var moves = learnedMoves.map((lm) => {
+    return Data.Moves.find(m => m.Name == lm.Move)
+  })
+  moves = moves.filter(e => e)
+  const allOtherMoves = Data.Moves.sort((a,b)=>{
+    const nameA = a.Name.toUpperCase()
+    const nameB = b.Name.toUpperCase()
+    if (nameA < nameB) { return -1; }
+    if (nameA > nameB) { return 1; }
+    return 0
+  })
+    .filter(m => !moves.includes(m))
+  //@ts-ignore
+  return moves.concat(allOtherMoves)
 }
 
 function getPokemonTankEffectivenessForType(pokemon:Pokemon, type:string) {
@@ -31,14 +45,13 @@ function getPokemonTankEffectivenessForType(pokemon:Pokemon, type:string) {
   return aggregate * 100;
 }
 
-function getEffectivenessForMoveSetAgainstType(moveset:LearnedMove[], type:string) {
-  if(moveset.length == 0) { return 100; }
+function getEffectivenessForMoveSetAgainstType(moveSet:Move[], type:string) {
+  if(moveSet.length == 0) { return 100; }
   var best = 0;
-  moveset.forEach( setMove => {
-    const moveData = Data.Moves.find(m => m.Name == setMove.Move)
-    if(moveData) {
-      if(parseInt(moveData.Power) > 0) {
-        const moveTypeData = Data.Types.find(t => GetSafeName(t.Type) === GetSafeName(moveData.Type))
+  moveSet.forEach( move => {
+    if(move) {
+      if(parseInt(move.Power) > 0) {
+        const moveTypeData = Data.Types.find(t => GetSafeName(t.Type) === GetSafeName(move.Type))
         if(moveTypeData) {
           //@ts-ignore
           if (moveTypeData[GetSafeName(type)] > best) {
@@ -126,7 +139,7 @@ const moveSetSpacing = '0.5rem'
 
 function Coverage() {
   const [pokemon, setPokemon] = useState<Pokemon[]>([]);
-  const [moveSets, setMoveSets] = useState<LearnedMove[][]>([]);
+  const [moveSets, setMoveSets] = useState<Move[][]>([]);
   // const [stateHash, setStateHash] = useState<string>('');
 
   const safePokemonSet = (index: number, newValue: any) => {
@@ -136,7 +149,7 @@ function Coverage() {
     setPokemon(newState);
   }
 
-  const safeMoveSetSet = (index: number, newValue: LearnedMove[]) => {
+  const safeMoveSetSet = (index: number, newValue: Move[]) => {
     var newState = [...moveSets]
     var next = newValue.filter(e=>e)
     // @ts-ignore
@@ -200,7 +213,7 @@ function Coverage() {
                     multiple
                     id="combo-box-demo"
                     options={getMoves(pokemon[index])}
-                    getOptionLabel={(move) => move.Move}
+                    getOptionLabel={(move) => move.Name}
                     onChange={(event,value) => {safeMoveSetSet(index,value)}}
                     sx={{ width: 750 }}
                     style={{marginTop: moveSetSpacing}}
