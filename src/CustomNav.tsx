@@ -22,9 +22,6 @@ import IconButton from '@mui/material/IconButton';
 import { useState } from 'react';
 import { GetSafeName } from './helpers';
 import { styled, alpha, createTheme, ThemeProvider } from '@mui/material/styles';
-import CustomNav from './CustomNav';
-
-// https://reactrouter.com/web/guides/quick-start
 
 interface SearchData {
   SearchType: string,
@@ -90,57 +87,55 @@ const darkTheme = createTheme({
   }
 });
 
-function App() {
+function CustomNav(props:any) {
   const [search, setSearch] = useState<SearchData>();
   const [navKey, resetNav] = useState<string>();
 
+  const history = useHistory()
+  console.log(`History: ${JSON.stringify((history))}`)
+
+  function navigate(value:SearchData):void {
+    (async()=>{setSearch(value)})();
+    (async()=>{resetNav(value.Name)})();
+    // @ts-ignore
+    history.push(getSearchLink(value))
+  }
+
   return (
-    <BrowserRouter>
-      <div>
-        <CustomNav/>
-        <div className="Main">
-          <Switch>
-            <Route path="/pokemon">
-              <Pokemon />
-            </Route>
-            <Route path="/locations">
-              <Locations/>
-            </Route>
-            <Route path="/moves">
-              <Moves />
-            </Route>
-            <Route path="/types">
-              <Types />
-            </Route>
-            <Route path="/abilities">
-              <Abilities />
-            </Route>
-            <Route path="/natures">
-              <Natures />
-            </Route>
-            <Route path="/coverage">
-              <Coverage />
-            </Route>
-            <Route path="/moveSetSelector">
-              <MoveSetSelector />
-            </Route>
-            <Route path="/">
-              <div style={{display: 'flex', flexDirection:'column', width:'fit-content'}}>
-                <Link className="Main-Link" to="/pokemon">Pokemon</Link>
-                <Link className="Main-Link" to="/locations">Locations</Link>
-                <Link className="Main-Link" to="/moves">Moves</Link>
-                <Link className="Main-Link" to="/types">Types</Link>
-                <Link className="Main-Link" to="/abilities">Abilities</Link>
-                <Link className="Main-Link" to="/natures">Natures</Link>
-                <Link className="Main-Link" to="/coverage">Coverage</Link>
-                <Link className="Main-Link" to="/moveSetSelector">Move Selector</Link>
+    <nav className="Nav-bar">
+      <Link className="Navbar-Link Home-Button" to="/">Kaizodex Emerald</Link>
+      <Link className="Navbar-Link" to="/types">Types</Link>
+      <ThemeProvider theme={darkTheme}>
+        <Autocomplete
+          disablePortal
+          id="combo-box-demo"
+          size="small"
+          options={getSearch()}
+          //@ts-ignore
+          getOptionLabel={(i) => i.Name}
+          selectOnFocus={true}
+          //@ts-ignore
+          onChange={(event,value) => {navigate(value)}}
+          key={navKey}
+          sx={{ flexGrow: 1, minWidth: 260, maxWidth: 500 }}
+          style={{marginLeft: '1rem', marginRight: '0.5rem', marginBottom: '0.468rem', alignSelf: 'end'}}
+          renderInput={(params) => {
+            return (
+              <div style={{display: 'flex', flexDirection:'row', alignContent: 'center'}}>
+                <TextField {...params} label={`Search`}/>
+                {/* @ts-ignore */}
+                <Link style={{textDecoration: 'none', color: 'white'}} to={`${getSearchLink(search)}`}>
+                  <IconButton size="medium" color="inherit" onClick={()=>{(async()=>{resetNav(search?.Name)})()}}>
+                    <SearchIcon />
+                  </IconButton>
+                </Link>
               </div>
-            </Route>
-          </Switch>
-        </div>
-      </div>
-    </BrowserRouter>
-  );
+            ) 
+          }}
+        />
+      </ThemeProvider>
+    </nav>
+  )
 }
 
-export default App;
+export default CustomNav
