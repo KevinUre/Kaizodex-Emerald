@@ -4,7 +4,8 @@ import {
   Switch,
   Route,
   Link,
-  useHistory
+  useHistory,
+  HashRouter
 } from "react-router-dom";
 import Pokemon from './Pokemon/Pokemon';
 import Abilities from './Abilities/Abilities';
@@ -95,7 +96,7 @@ function App() {
   const [navKey, resetNav] = useState<string>();
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div>
         <CustomNav/>
         <div className="Main">
@@ -139,7 +140,7 @@ function App() {
           </Switch>
         </div>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
